@@ -1,0 +1,247 @@
+[
+  {
+    "id": "CVE-2008-5258",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Gears Cross-Origin Worker Vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 0.4.154.29 - 2008-12-01",
+        "date": "2008-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2008/12/beta-release-0415429.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-7061",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The tooltip manager (chrome/views/tooltip_manager.cc) in Google Chrome 0.2.149.29 Build 1798 and possibly other versions before 0.2.149.30 allows remote attackers to cause a denial of service (CPU consumption or crash) via a tag with a long title attribute, which is not properly handled when displaying a tooltip, a different vulnerability than CVE-2008-6994"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3413dd8e6353804a0931fc86f842194a6891be90"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 0.2.149.30 - 2008-09-18",
+        "date": "2008-09-18",
+        "advisory": "https://chromereleases.googleblog.com/2008/09/beta-release-0214930.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-6998",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Stack-based buffer overflow in chrome/common/gfx/url_elider.cc in Google Chrome 0.2.149.27 and other versions before 0.2.149.29 might allow user-assisted remote attackers to execute arbitrary code via a link target (href attribute) with a large number of path elements, which triggers the overflow when the status bar is updated after the user hovers over the link"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 0.2.149.29 - 2008-09-08",
+        "date": "2008-09-08",
+        "advisory": "https://chromereleases.googleblog.com/2008/09/beta-release-0214929.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2008-6994",
+    "issues": [
+      "1414"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Stack-based buffer overflow in the SaveAs feature (SaveFileAsWithFilter function) in win_util.cc in Google Chrome 0.2.149.27 allows user-assisted remote attackers to execute arbitrary code via a web page with a long TITLE element, which triggers the overflow when the user saves the page and a long filename is generated"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2008-4340",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 0.2.149.29 and 0.2.149.30 allows remote attackers to cause a denial of service (memory consumption) via an HTML document containing a carriage return (\"\\r\\n\\r\\n\") argument to the window.open function"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2008-4724",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple cross-site scripting (XSS) vulnerabilities in Google Chrome 0.2.149.30 allow remote attackers to inject arbitrary web script or HTML via an ftp:// URL for an HTML document within a (1) JPG, (2) PDF, or (3) TXT file"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2008-5749",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Argument injection vulnerability in Google Chrome 1.0.154.36 on Windows XP SP3 allows remote attackers to execute arbitrary commands via the --renderer-path option in a chromehtml: URI"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2008-6995",
+    "issues": [
+      "122"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer underflow in net/base/escape.cc in chrome.dll in Google Chrome 0.2.149.27 allows remote attackers to cause a denial of service (browser crash) via a URI with an invalid handler followed by a \"%\" (percent) character, which triggers a buffer over-read, as demonstrated using an \"about:%\" URI"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2008-6996",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome BETA (0.2.149.27) does not prompt the user before saving an executable file, which makes it easier for remote attackers or malware to cause a denial of service (disk consumption) or exploit other vulnerabilities via a URL that references an executable file, possibly related to the \"ask where to save each file before downloading\" setting"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2008-6997",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 0.2.149.27 allows user-assisted remote attackers to cause a denial of service (browser crash) via an IMG tag with a long src attribute, which triggers the crash when the victim performs an \"Inspect Element\" action"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2008-7246",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 0.2.149.29 and earlier allows remote attackers to cause a denial of service (unusable browser) by calling the window.print function in a loop, aka a \"printing DoS attack,\" possibly a related issue to CVE-2009-0821"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2008-7294",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.0.211.0 cannot properly restrict modifications to cookies established in HTTPS sessions, which allows man-in-the-middle attackers to overwrite or delete arbitrary cookies via a Set-Cookie header in an HTTP response, related to lack of the HTTP Strict Transport Security (HSTS) includeSubDomains feature, aka a \"cookie forcing\" issue"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2008-5915",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "An unspecified function in the JavaScript implementation in Google Chrome creates and exposes a \"temporary footprint\" when there is a current login to a web site, which makes it easier for remote attackers to trick a user into acting upon a spoofed pop-up message, aka an \"in-session phishing attack.\" NOTE: as of 20090116, the only disclosure is a vague pre-advisory with no actionable information"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  }
+]

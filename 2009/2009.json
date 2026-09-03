@@ -1,0 +1,809 @@
+[
+  {
+    "id": "CVE-2009-2816",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Custom headers incorrectly sent for CORS OPTIONS request"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 3.0.195.33 - 2009-11-12",
+        "date": "2009-11-12",
+        "advisory": "https://chromereleases.googleblog.com/2009/11/stable-update-fix-google-chrome-not.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3931",
+    "issues": [
+      "23979"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Incomplete blacklist vulnerability in browser/download/download_exe.cc"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/71cd6a943b2b677adabbafdd12b2e024106e78f6"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 3.0.195.32 - 2009-11-05",
+        "date": "2009-11-05",
+        "advisory": "https://chromereleases.googleblog.com/2009/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3932",
+    "issues": [
+      "26179"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Gears plugin"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 3.0.195.32 - 2009-11-05",
+        "date": "2009-11-05",
+        "advisory": "https://chromereleases.googleblog.com/2009/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3934",
+    "issues": [
+      "22205"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The WebFrameLoaderClient::dispatchDidChangeLocationWithinPage function in src/webkit/glue/webframeloaderclient_impl.cc"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5bd97204ef6dfa26357cf128d8fbcab84fca42f0"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 3.0.195.32 - 2009-11-05",
+        "date": "2009-11-05",
+        "advisory": "https://chromereleases.googleblog.com/2009/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0689",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "dtoa() error parsing long floating point numbers"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 3.0.195.24 - 2009-09-30",
+        "date": "2009-09-30",
+        "advisory": "https://chromereleases.googleblog.com/2009/09/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3263",
+    "issues": [
+      "21238"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-site scripting (XSS) vulnerability in Google Chrome 2.x and 3.x before 3.0.195.21 allows remote attackers to inject arbitrary web script or HTML via a (1) RSS or (2) Atom feed, related to the rendering of the application/rss+xml content type as XML \"active content.\""
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 3.0.195.21 - 2009-09-15",
+        "date": "2009-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2009/09/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-3264",
+    "issues": [
+      "21338"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The getSVGDocument method"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 3.0.195.21 - 2009-09-15",
+        "date": "2009-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2009/09/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2414",
+    "issues": [
+      "18725"
+    ],
+    "components": [
+      "libxml2"
+    ],
+    "impacts": [
+      "Stack consumption vulnerability in libxml2"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 2.0.172.43 - 2009-08-25",
+        "date": "2009-08-25",
+        "advisory": "https://chromereleases.googleblog.com/2009/08/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2416",
+    "issues": [],
+    "components": [
+      "libxml2"
+    ],
+    "impacts": [
+      "Multiple use-after-free vulnerabilities in libxml2"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 2.0.172.43 - 2009-08-25",
+        "date": "2009-08-25",
+        "advisory": "https://chromereleases.googleblog.com/2009/08/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2935",
+    "issues": [
+      "18639"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unauthorized memory read from Javascript A flaw in the V8 Javascript engine might allow specially-crafted Javascript on a web page to read unauthorized memory, bypassing security checks. It is possible that this could lead to disclosing unauthorized data to an attacker or allow an attacker to run arbitrary code. More info: http://code.google.com/p/chromium/issues/detail?id=18639 (This issue will be made public once a majority of users are up to date with the fix.)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/6621a43833249a217581b9a3906e5352c1415586"
+    ],
+    "references": [
+      "https://codereview.chromium.org/192037"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 2.0.172.43 - 2009-08-25",
+        "date": "2009-08-25",
+        "advisory": "https://chromereleases.googleblog.com/2009/08/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2973",
+    "issues": [
+      "18725"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 2.0.172.43 does not prevent SSL connections to a site with an X.509 certificate signed with the (1) MD2 or (2) MD4 algorithm, which makes it easier for man-in-the-middle attackers to spoof arbitrary HTTPS servers via a crafted certificate, a related issue to CVE-2009-2409"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 2.0.172.43 - 2009-08-25",
+        "date": "2009-08-25",
+        "advisory": "https://chromereleases.googleblog.com/2009/08/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2556",
+    "issues": [],
+    "components": [
+      "the browser process"
+    ],
+    "impacts": [
+      "Memory corruption in the browser process"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 2.0.172.37 - 2009-07-16",
+        "date": "2009-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2009/07/stable-beta-update-bug-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2555",
+    "issues": [
+      "14719"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow with Javascript regular expressions"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/2b71d0a83e73601e4a15f5eaeb65949a53b752a6"
+    ],
+    "references": [
+      "https://codereview.chromium.org/141042"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 2.0.172.37 - 2009-07-16",
+        "date": "2009-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2009/07/stable-beta-update-bug-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2121",
+    "issues": [
+      "14508"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Buffer overflow processing HTTP responses"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 2.0.172.33 - 2009-06-22",
+        "date": "2009-06-22",
+        "advisory": "https://chromereleases.googleblog.com/2009/06/stable-beta-update-security-fix.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1690",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Memory corruption"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 2.0.172.31 - 2009-06-09",
+        "date": "2009-06-09",
+        "advisory": "https://chromereleases.googleblog.com/2009/06/stable-update-2-webkit-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1718",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Drag and drop information leak"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 2.0.172.31 - 2009-06-09",
+        "date": "2009-06-09",
+        "advisory": "https://chromereleases.googleblog.com/2009/06/stable-update-2-webkit-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0945",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      ", an issue in WebKit code that also affects Apple's Safari web browser. We did not want to disclose this until Apple's fix for Safari users was released"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 1.0.154.65 - 2009-05-07",
+        "date": "2009-05-07",
+        "advisory": "https://chromereleases.googleblog.com/2009/05/stable-update-bug-fix.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1441",
+    "issues": [
+      "10869"
+    ],
+    "components": [
+      "the browser process"
+    ],
+    "impacts": [
+      "Input validation error in the browser process"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 1.0.154.64 - 2009-05-05",
+        "date": "2009-05-05",
+        "advisory": "https://chromereleases.googleblog.com/2009/05/stable-update-security-fix.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1442",
+    "issues": [
+      "10869",
+      "10736"
+    ],
+    "components": [
+      "Skia 2D graphics"
+    ],
+    "impacts": [
+      "Integer overflow in Skia 2D graphics"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 1.0.154.64 - 2009-05-05",
+        "date": "2009-05-05",
+        "advisory": "https://chromereleases.googleblog.com/2009/05/stable-update-security-fix.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1412",
+    "issues": [
+      "9860"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "ChromeHTML protocol handler same-origin bypass"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 1.0.154.59 - 2009-04-23",
+        "date": "2009-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2009/04/stable-update-security-fix.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2060",
+    "issues": [
+      "7338",
+      "8473"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "src/net/http/http_transaction_winhttp.cc"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 1.0.154.53 - 2009-03-23",
+        "date": "2009-03-23",
+        "advisory": "https://chromereleases.googleblog.com/2009/03/stable-update-fix-default-browser-on.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-2071",
+    "issues": [
+      "7338",
+      "8473"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 1.0.154.53 displays a cached certificate for a (1) 4xx or (2) 5xx CONNECT response page returned by a proxy server, which allows man-in-the-middle attackers to spoof an arbitrary https site by letting a browser obtain a valid certificate from this site during one request, and then sending the browser a crafted 502 response page upon a subsequent request"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 1.0.154.53 - 2009-03-23",
+        "date": "2009-03-23",
+        "advisory": "https://chromereleases.googleblog.com/2009/03/stable-update-fix-default-browser-on.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0276",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "A bug in the V8 JavaScript engine could allow bypassing same-origin checks in certain situations"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "http://codereview.chromium.org/18531"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 1.0.154.46 - 2009-01-28",
+        "date": "2009-01-28",
+        "advisory": "https://chromereleases.googleblog.com/2009/01/stable-beta-update-yahoo-mail-and.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-0411",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 1.0.154.46 does not properly restrict access from web pages to the (1) Set-Cookie and (2) Set-Cookie2 HTTP response headers, which allows remote attackers to obtain sensitive information from cookies via XMLHttpRequest calls and other web script"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 1.0.154.46 - 2009-01-28",
+        "date": "2009-01-28",
+        "advisory": "https://chromereleases.googleblog.com/2009/01/stable-beta-update-yahoo-mail-and.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2009-1598",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome executes DOM calls in response to a javascript: URI in the target attribute of a submit element within a form contained in an inline PDF file, which might allow remote attackers to bypass intended Adobe Acrobat JavaScript restrictions on accessing the document object, as demonstrated by a web site that permits PDF uploads by untrusted users, and therefore has a shared document.domain between the web site and this javascript: URI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-3456",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome, possibly 3.0.195.21 and earlier, does not properly handle a '\\0' character in a domain name in the subject's Common Name (CN) field of an X.509 certificate, which allows man-in-the-middle attackers to spoof arbitrary SSL servers via a crafted certificate issued by a legitimate Certification Authority, a related issue to CVE-2009-2408"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-0374",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.154.43 allows remote attackers to trick a user into visiting an arbitrary URL via an onclick action that moves a crafted element to the current mouse position, related to a \"Clickjacking\" vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-1413",
+    "issues": [
+      "9860"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.x does not cancel timeouts upon a page transition, which makes it easier for attackers to conduct Universal XSS attacks by calling setTimeout to trigger future execution of JavaScript code, and then modifying document.location to arrange for JavaScript execution in the context of an arbitrary web site"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-1414",
+    "issues": [
+      "9860"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 2.0.x lets modifications to the global object persist across a page transition, which makes it easier for attackers to conduct Universal XSS attacks via unspecified vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-1514",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.154.53 allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a throw statement with a long exception value"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-2352",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.154.48 and earlier does not block javascript: URIs in Refresh headers in HTTP responses, which allows remote attackers to conduct cross-site scripting (XSS) attacks via vectors related to (1) injecting a Refresh header or (2) specifying the content of a Refresh header, a related issue to CVE-2009-1312"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-2578",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 2.x through 2.0.172 allows remote attackers to cause a denial of service (application crash) via a long Unicode string argument to the write method, a related issue to CVE-2009-2479"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-2955",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.154.48 and earlier allows remote attackers to cause a denial of service (CPU consumption and application hang) via JavaScript code with a long string value for the hash property (aka location.hash), a related issue to CVE-2008-5715"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-2974",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.154.65, 1.0.154.48, and earlier allows remote attackers to (1) cause a denial of service (application hang) via vectors involving a chromehtml: URI value for the document.location property or (2) cause a denial of service (application hang and CPU consumption) via vectors involving a series of function calls that set a chromehtml: URI value for the document.location property"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-3011",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.154.48 and earlier, 2.0.172.28, 2.0.172.37, and 3.0.193.2 Beta does not properly block data: URIs in Refresh headers in HTTP responses, which allows remote attackers to conduct cross-site scripting (XSS) attacks via vectors related to (1) injecting a Refresh header that contains JavaScript sequences in a data:text/html URI or (2) entering a data:text/html URI with JavaScript sequences when specifying the content of a Refresh header"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2009-3268",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.154.48 and earlier allows remote attackers to cause a denial of service (CPU consumption) via an automatically submitted form containing a KEYGEN element, a related issue to CVE-2009-1828"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  }
+]

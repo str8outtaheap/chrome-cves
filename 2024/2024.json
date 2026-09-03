@@ -1,0 +1,7322 @@
+[
+  {
+    "id": "CVE-2024-13983",
+    "issues": [
+      "379818904"
+    ],
+    "components": [
+      "Lens"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Lens"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0b278cf5938bede778b79a7b5256e4e36022a961"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 136.0.7103.48/49 - 2025-04-29",
+        "date": "2025-04-29",
+        "advisory": "https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-12692",
+    "issues": [
+      "382291459"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/3852cf8b5bceed6a76e4537fc0aa191f9ed672a3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/6074536"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.204 - 2024-12-18",
+        "date": "2024-12-18",
+        "advisory": "https://chromereleases.googleblog.com/2024/12/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-12693",
+    "issues": [
+      "382190919"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds memory access in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/e4ecfc909687511aeb20b88ce6ae2a7a1a80afe5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/6074772"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.204 - 2024-12-18",
+        "date": "2024-12-18",
+        "advisory": "https://chromereleases.googleblog.com/2024/12/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-12694",
+    "issues": [
+      "368222741"
+    ],
+    "components": [
+      "Compositing"
+    ],
+    "impacts": [
+      "Use after free in Compositing"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e65f06b6dc4792fe27c6872dbc7a1d185912cc48"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5990752"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.204/.205 - 2024-12-18",
+        "date": "2024-12-18",
+        "advisory": "https://chromereleases.googleblog.com/2024/12/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-12695",
+    "issues": [
+      "383647255"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds write in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/357d0dd4bc7f64eb81cdf49c5cf3699cf151909d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/6092869"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.204 - 2024-12-18",
+        "date": "2024-12-18",
+        "advisory": "https://chromereleases.googleblog.com/2024/12/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-12381",
+    "issues": [
+      "381696874"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/a4d354fa54ba3e6a0f061c6b959be408ead5db95"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/6063041"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.139 - 2024-12-10",
+        "date": "2024-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2024/12/stable-channel-update-for-desktop_10.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-12382",
+    "issues": [
+      "379516109"
+    ],
+    "components": [
+      "Translate"
+    ],
+    "impacts": [
+      "Use after free in Translate"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9c299bcdb77c63cc75c29c009ed035c6c223067e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/6054828"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.139/.140 - 2024-12-10",
+        "date": "2024-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2024/12/stable-channel-update-for-desktop_10.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-12053",
+    "issues": [
+      "379009132"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/20d9a7f760c018183c836283017a321638b66810"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/6035175"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.108 - 2024-12-03",
+        "date": "2024-12-03",
+        "advisory": "https://chromereleases.googleblog.com/2024/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11395",
+    "issues": [
+      "377384894"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/ef6ed156f1b78006de28ef262b55468d511d6984"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5993739"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.85 - 2024-11-19",
+        "date": "2024-11-19",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11110",
+    "issues": [
+      "373263969"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Blink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/75f322ad1f64c0bc56fa77ab877b48d72cdb903c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5961018"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.69 - 2024-11-12",
+        "date": "2024-11-12",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11111",
+    "issues": [
+      "360520331"
+    ],
+    "components": [
+      "Autofill"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Autofill"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a26cb5368c44f879381ac70d1b4ee7a78ee5ed2d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5836985"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.69 - 2024-11-12",
+        "date": "2024-11-12",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11112",
+    "issues": [
+      "354824998"
+    ],
+    "components": [
+      "Media"
+    ],
+    "impacts": [
+      "Use after free in Media"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/486a40271e7b2f538e8f2c6140735566bd70426d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5910432"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.69 - 2024-11-12",
+        "date": "2024-11-12",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11113",
+    "issues": [
+      "360274917"
+    ],
+    "components": [
+      "Accessibility"
+    ],
+    "impacts": [
+      "Use after free in Accessibility"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4bef2016c9a03d3d6db85b72f068bb3603e4850c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5916610"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.69 - 2024-11-12",
+        "date": "2024-11-12",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11114",
+    "issues": [
+      "370856871"
+    ],
+    "components": [
+      "Views"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Views"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/69eb90b5672be6a32ddf6f1b3a3ab4bb667b0d3b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5927282"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.69 - 2024-11-12",
+        "date": "2024-11-12",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11115",
+    "issues": [
+      "371929521"
+    ],
+    "components": [
+      "Navigation"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Navigation"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/014045bd255d186751369767daa31908af53003c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5916492"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.69 - 2024-11-12",
+        "date": "2024-11-12",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11116",
+    "issues": [
+      "40942531"
+    ],
+    "components": [
+      "Paint"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Paint"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7dd77c55d503584390f01fb6f0eeb33200767af9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5823867"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.69 - 2024-11-12",
+        "date": "2024-11-12",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11117",
+    "issues": [
+      "40062534"
+    ],
+    "components": [
+      "FileSystem"
+    ],
+    "impacts": [
+      "Inappropriate implementation in FileSystem"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e401c21f259351d1eee212d6c04b306f018f1973"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5875189"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 131.0.6778.69 - 2024-11-12",
+        "date": "2024-11-12",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-10826",
+    "issues": [
+      "370217726"
+    ],
+    "components": [
+      "Family Experiences"
+    ],
+    "impacts": [
+      "Use after free in Family Experiences"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/69b4f06529d87991e80468525ab9f0e35baf8903"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5957688"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.116/.117 - 2024-11-05",
+        "date": "2024-11-05",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-10827",
+    "issues": [
+      "375065084"
+    ],
+    "components": [
+      "Serial"
+    ],
+    "impacts": [
+      "Use after free in Serial"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8ecbee8becf25733afa6dde28c3fde6a1ee2498e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5957129"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.116/.117 - 2024-11-05",
+        "date": "2024-11-05",
+        "advisory": "https://chromereleases.googleblog.com/2024/11/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-10487",
+    "issues": [
+      "375123371"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Out of bounds write in Dawn"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/ed15f8542825f25131c5a186e7de3737d49d327e"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/212315"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.91/.92 - 2024-10-29",
+        "date": "2024-10-29",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-10488",
+    "issues": [
+      "374310077"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Use after free in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6e4bc681b82bd11f8259c5a8f51593cb6ab444fe"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5952972"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.91/.92 - 2024-10-29",
+        "date": "2024-10-29",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11920",
+    "issues": [
+      "371840056"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/012551ad6f7f23d8f885429bc1f3a1c399dcd32a"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/210338"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.91/.92 - 2024-10-29",
+        "date": "2024-10-29",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-10229",
+    "issues": [
+      "371011220"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Extensions"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2c501634c1191be1e509720103f06d51b94e6311"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5917013"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.69/.70 - 2024-10-22",
+        "date": "2024-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-10230",
+    "issues": [
+      "371565065"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/5fcbf3954eb9f7f8221f068b5324e5b6f04b5839"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5921410"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.69 - 2024-10-22",
+        "date": "2024-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-10231",
+    "issues": [
+      "372269618"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/e7ccf0af1bdddd20dc58e1790a94739dba0209a3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5922878"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.69 - 2024-10-22",
+        "date": "2024-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9954",
+    "issues": [
+      "367755363"
+    ],
+    "components": [
+      "AI"
+    ],
+    "impacts": [
+      "Use after free in AI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1a751d5120b0642391bceaf68795fa55f0043698"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5872369"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9955",
+    "issues": [
+      "370133761"
+    ],
+    "components": [
+      "Web Authentication"
+    ],
+    "impacts": [
+      "Use after free in Web Authentication"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d59a0f272fb3a889a5dd3fd669f6958078153dbe"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5900439"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9956",
+    "issues": [
+      "370482421"
+    ],
+    "components": [
+      "Web Authentication"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Web Authentication"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a7104d958eae875966006894ec3cd721e8adfc42"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5906286"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9957",
+    "issues": [
+      "358151317"
+    ],
+    "components": [
+      "UI"
+    ],
+    "impacts": [
+      "Use after free in UI"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/cd3f94134c1a26eab5eb2e2cb1c324b5e66c76cc"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5786899"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9958",
+    "issues": [
+      "40076120"
+    ],
+    "components": [
+      "PictureInPicture"
+    ],
+    "impacts": [
+      "Inappropriate implementation in PictureInPicture"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/47617c1e9e6217aa03b889a8a3f1af44b4baa1ef"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5753110"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9959",
+    "issues": [
+      "368672129"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Use after free in DevTools"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/622d2fd964161261c4a5afeaad7df547bb04e0aa"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5886170"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9960",
+    "issues": [
+      "354748063"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/0b1bba3f287e6228c13b90eaebba9e57f7d6f883"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/204154"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9961",
+    "issues": [
+      "357776197"
+    ],
+    "components": [
+      "Parcel Tracking"
+    ],
+    "impacts": [
+      "Use after free in Parcel Tracking"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b04c04e07aaddc14712e43ec76cab7f637d415dd"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5788248"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9962",
+    "issues": [
+      "364508693"
+    ],
+    "components": [
+      "Permissions"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Permissions"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4fcc965f7b6a9aa9965bc84e0a180eda77a20467"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5854142"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9963",
+    "issues": [
+      "328278718"
+    ],
+    "components": [
+      "Downloads"
+    ],
+    "impacts": [
+      "Insufficient data validation in Downloads"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b76e11c3c3a79c14f89c80042aebd3dbe3b222fb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5838818"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9964",
+    "issues": [
+      "361711121"
+    ],
+    "components": [
+      "Payments"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Payments"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e50b37d5ceb888e47e5ea63b401efb32d5468ece"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5815888"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9965",
+    "issues": [
+      "352651673"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Insufficient data validation in DevTools"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/devtools/devtools-frontend/+/f44471114ad6bae8971da24526b5cd5cddba8e83"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/5850610"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9966",
+    "issues": [
+      "364773822"
+    ],
+    "components": [
+      "Navigations"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Navigations"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b8addf6f6466720e25979c462c6a90d9a72d373b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5860536"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 130.0.6723.58/.59 - 2024-10-15",
+        "date": "2024-10-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9602",
+    "issues": [
+      "368241697"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/9542895cdd3dbd97da3d9032ddb36fd4feb612e4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5886728"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.100 - 2024-10-08",
+        "date": "2024-10-08",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_8.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9603",
+    "issues": [
+      "367818758"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/81155a8f3b20fbfc7e36c2419f5326f1d0ad7d75"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5901846"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.100 - 2024-10-08",
+        "date": "2024-10-08",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop_8.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7025",
+    "issues": [
+      "367764861"
+    ],
+    "components": [
+      "Layout"
+    ],
+    "impacts": [
+      "Integer overflow in Layout"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/56be91796b858a088f67add4e074b9b016f25757"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5874482"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.89/.90 - 2024-10-01",
+        "date": "2024-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9369",
+    "issues": [
+      "368208152"
+    ],
+    "components": [
+      "Mojo"
+    ],
+    "impacts": [
+      "Insufficient data validation in Mojo"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c333ed99544992f66e6e03621fa938d75ad01f70"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5876623"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.89/.90 - 2024-10-01",
+        "date": "2024-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9370",
+    "issues": [
+      "368311899"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/6b455eb2c448348b940728241c799c5d7b508c51"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5881775"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.89 - 2024-10-01",
+        "date": "2024-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9120",
+    "issues": [
+      "365254285"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/65fc64fce1c8b05c34d03ce7eb4304d471c971b3"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/207014"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.70/.71 - 2024-09-24",
+        "date": "2024-09-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9121",
+    "issues": [
+      "363538434"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/8068f489ec2c7e9de15e179c8c25b45224f7f96f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5850479"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.70 - 2024-09-24",
+        "date": "2024-09-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9122",
+    "issues": [
+      "365802567"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/f612d9a40b194cc7fc1d9cffdd295a78fa2f10c9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5868875"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.70 - 2024-09-24",
+        "date": "2024-09-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9123",
+    "issues": [
+      "365884464"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Integer overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/2b40b50ea423e11073b742b3bd785975a6019046"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/898756"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.70/.71 - 2024-09-24",
+        "date": "2024-09-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8904",
+    "issues": [
+      "365376497"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/906e41b88fa5b79d2afc699f8c4da87c4eb9c7e5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5850428"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.58 - 2024-09-17",
+        "date": "2024-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8905",
+    "issues": [
+      "359949835"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/aa2cbd9e4ed70238694e07f1c525941aa1e04429"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5804141"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.58 - 2024-09-17",
+        "date": "2024-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8906",
+    "issues": [
+      "352681108"
+    ],
+    "components": [
+      "Downloads"
+    ],
+    "impacts": [
+      "Incorrect security UI in Downloads"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8f50d6c2de7057bceb65794399c3aa0ecb033a28"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5798342"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.58 - 2024-09-17",
+        "date": "2024-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8907",
+    "issues": [
+      "360642942"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Insufficient data validation in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1cf57b53c2e9bbae9896025d69bd9e7db43b5a3f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5817737"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.58 - 2024-09-17",
+        "date": "2024-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8908",
+    "issues": [
+      "337222641"
+    ],
+    "components": [
+      "Autofill"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Autofill"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/78bdcf8fe60ffd1606089a1017e6ed4d78af7abb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5748574"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.58 - 2024-09-17",
+        "date": "2024-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8909",
+    "issues": [
+      "341353783"
+    ],
+    "components": [
+      "UI"
+    ],
+    "impacts": [
+      "Inappropriate implementation in UI"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/48164a2450f89e79f23fb0954d7768e40efc8ada"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5742453"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.58 - 2024-09-17",
+        "date": "2024-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-11919",
+    "issues": [
+      "352516283"
+    ],
+    "components": [
+      "Intents"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Intents"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/63cadda6b9e2283708c187ed5bb3c35e86f0c6c2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5770032"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 129.0.6668.58 - 2024-09-17",
+        "date": "2024-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8636",
+    "issues": [
+      "361461526"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/07fcb9a00233cace0b6cc19ed4bcec6770e0315f"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/893916"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.137/.138 - 2024-09-10",
+        "date": "2024-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_10.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8637",
+    "issues": [
+      "361784548"
+    ],
+    "components": [
+      "Media Router"
+    ],
+    "impacts": [
+      "Use after free in Media Router"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e51a64c9af60bddb50141a835ac32e061e81d25f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5819835"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.137/.138 - 2024-09-10",
+        "date": "2024-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_10.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8638",
+    "issues": [
+      "362539773"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/d9b653416a870081c32fa8b7eeccec9264b56d88"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5822930"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.137 - 2024-09-10",
+        "date": "2024-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_10.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8639",
+    "issues": [
+      "362658609"
+    ],
+    "components": [
+      "Autofill"
+    ],
+    "impacts": [
+      "Use after free in Autofill"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b1f596c561fa3fdf982b227b2d36865077d82438"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5826557"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.137/.138 - 2024-09-10",
+        "date": "2024-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop_10.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7970",
+    "issues": [
+      "358485426"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds write in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/1a2b08edbec1a8ebcf3d4adc91da4f2569fb744a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5805957"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.119 - 2024-09-02",
+        "date": "2024-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8362",
+    "issues": [
+      "357391257"
+    ],
+    "components": [
+      "WebAudio"
+    ],
+    "impacts": [
+      "Use after free in WebAudio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ec85a32bb5d736637c934088c14b2b6a42457467"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5767447"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.119/.120 - 2024-09-02",
+        "date": "2024-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2024/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7969",
+    "issues": [
+      "351865302"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/03dded9955d9665822d8e1c5906fabbc03282eb4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5701134"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.113 - 2024-08-28",
+        "date": "2024-08-28",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8193",
+    "issues": [
+      "360265320"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/fdc8c2d593f7dc95b3a98216ec6a4ffa23489516"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/890322"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.113/.114 - 2024-08-28",
+        "date": "2024-08-28",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8194",
+    "issues": [
+      "360533914"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/79f3f1276efa17a6172a0923dd13436ad8337a86"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5797071"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.113 - 2024-08-28",
+        "date": "2024-08-28",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8198",
+    "issues": [
+      "360758697"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/efd38e98b22e3335e4d2bb562c1d2a610990eaca"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/891636"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.113/.114 - 2024-08-28",
+        "date": "2024-08-28",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7964",
+    "issues": [
+      "358296941"
+    ],
+    "components": [
+      "Passwords"
+    ],
+    "impacts": [
+      "Use after free in Passwords"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3765f8e73a477b47daaf835a7ba74b8e205f63b6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5776745"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7965",
+    "issues": [
+      "356196918"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "which was reported after this release"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/780d5608bb8ab63a3cd4b5c4846a3ec41e21c1a8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5766478",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2024-7965"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7966",
+    "issues": [
+      "355465305"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Out of bounds memory access in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/d1b243ba90f0698ced6fadc460adb9d66c248946"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/888376"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7967",
+    "issues": [
+      "355731798"
+    ],
+    "components": [
+      "Fonts"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Fonts"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ba40b993a6b700a2ad0fd092e141783fb1f60e70"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5775486"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7968",
+    "issues": [
+      "349253666"
+    ],
+    "components": [
+      "Autofill"
+    ],
+    "impacts": [
+      "Use after free in Autofill"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0c83b1d10fe3aca428458db81d4dbc6ed33424b4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5705421"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7971",
+    "issues": [
+      "360700873"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/97975764885482e92e53f65352446b5c4ea68f20"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5797073",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2024-7971"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7972",
+    "issues": [
+      "345960102"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/1b85c84da74a325826f4e940d1affee9d94c8beb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5656773"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7973",
+    "issues": [
+      "345518608"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Heap buffer overflow in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/1135cbda250cc83d15fdf53fe5fc32674ac7079e"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/120331"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7974",
+    "issues": [
+      "339141099"
+    ],
+    "components": [
+      "V8 API"
+    ],
+    "impacts": [
+      "Insufficient data validation in V8 API"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/e1a61acd40f102934058d3a92c59aea49d2e9ab4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5621893"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7975",
+    "issues": [
+      "347588491"
+    ],
+    "components": [
+      "Permissions"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Permissions"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/22b26969353c3c4899a8b7cc9e19ace3389e1ea2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5664719"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7976",
+    "issues": [
+      "339654392"
+    ],
+    "components": [
+      "FedCM"
+    ],
+    "impacts": [
+      "Inappropriate implementation in FedCM"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/19fac6ad5022592ff9b4a438a3e5fc128c0deee0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5721458"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7977",
+    "issues": [
+      "324770940"
+    ],
+    "components": [
+      "Installer"
+    ],
+    "impacts": [
+      "Insufficient data validation in Installer"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1c2359677af25b505a825e714d36fed4c83e00d5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5747320"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7978",
+    "issues": [
+      "40060358"
+    ],
+    "components": [
+      "Data Transfer"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Data Transfer"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fe310d6b6175bf4b1d3c06f011ce5c27ce1d100d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5692867"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7979",
+    "issues": [
+      "356064205"
+    ],
+    "components": [
+      "Installer"
+    ],
+    "impacts": [
+      "Insufficient data validation in Installer"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1c2359677af25b505a825e714d36fed4c83e00d5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5747320"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7980",
+    "issues": [
+      "356328460"
+    ],
+    "components": [
+      "Installer"
+    ],
+    "impacts": [
+      "Insufficient data validation in Installer"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a5bea52e51947236609acdf5ba052a5bcf1b96f8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5748495"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-13178",
+    "issues": [
+      "40068607"
+    ],
+    "components": [
+      "Fullscreen"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Fullscreen"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c14eecb1a62852c622dafc772665fa4f8708d411"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7981",
+    "issues": [
+      "40067456"
+    ],
+    "components": [
+      "Views"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Views"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/22b26969353c3c4899a8b7cc9e19ace3389e1ea2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5664719"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8033",
+    "issues": [
+      "350256139"
+    ],
+    "components": [
+      "WebApp Installs"
+    ],
+    "impacts": [
+      "Inappropriate implementation in WebApp Installs"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1e2c639d42694225c09cf18eb09b9df75ecd16a3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5689758"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8034",
+    "issues": [
+      "353858776"
+    ],
+    "components": [
+      "Custom Tabs"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Custom Tabs"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1b1b1739bfb83df76490614578b49cdc5c8e0e84"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5726852"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-8035",
+    "issues": [
+      "40059470"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Extensions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/259dff715d3946f786e090bc2521a04a518c3a8d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5688271"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 128.0.6613.84 - 2024-08-21",
+        "date": "2024-08-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7532",
+    "issues": [
+      "350528343"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Out of bounds memory access in ANGLE"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/67d8d8c88ada3f9640976333c1ebcade0f1d05ba"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/5746714"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.99/.100 - 2024-08-06",
+        "date": "2024-08-06",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7533",
+    "issues": [
+      "353552540"
+    ],
+    "components": [
+      "Sharing"
+    ],
+    "impacts": [
+      "Use after free in Sharing"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7f0725c2c6c28395b2132a2fdfc5c354005a72fd"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5725110"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.99/.100 - 2024-08-06",
+        "date": "2024-08-06",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7534",
+    "issues": [
+      "352467338"
+    ],
+    "components": [
+      "Layout"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Layout"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/14ce1a8697aa91b83cb0f81b90514b83298b4dbc"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5759423"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.99/.100 - 2024-08-06",
+        "date": "2024-08-06",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7535",
+    "issues": [
+      "352690885"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/f0a3073d941249ba790a8a4bc891e82ec83e8986"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5713176"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.99 - 2024-08-06",
+        "date": "2024-08-06",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7536",
+    "issues": [
+      "354847246"
+    ],
+    "components": [
+      "WebAudio"
+    ],
+    "impacts": [
+      "Use after free in WebAudio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/52cfa2026953e072539248c4083848740f074afd"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5744142"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.99/.100 - 2024-08-06",
+        "date": "2024-08-06",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7550",
+    "issues": [
+      "355256380"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/313905c4f2c153be4bf4b09b2b06ffad7106869c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5741275"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.99 - 2024-08-06",
+        "date": "2024-08-06",
+        "advisory": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6990",
+    "issues": [
+      "353034820"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Uninitialized Use in Dawn"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/da0ac02382cea2820e23f69be709c54e43900999"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/199455"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.88/89 - 2024-07-30",
+        "date": "2024-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7255",
+    "issues": [
+      "352872238"
+    ],
+    "components": [
+      "WebTransport"
+    ],
+    "impacts": [
+      "Out of bounds read in WebTransport"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/84c1481d8a8d5e7f51316b648d1bf71f2ae52122"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5725413"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.88/89 - 2024-07-30",
+        "date": "2024-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7256",
+    "issues": [
+      "354748060"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Insufficient data validation in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/3f657b9e679dc3a9f35f4a9f880f5da02ae86478"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/200014"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.88/89 - 2024-07-30",
+        "date": "2024-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9126",
+    "issues": [
+      "349653218"
+    ],
+    "components": [
+      "Internals"
+    ],
+    "impacts": [
+      "Use after free in Internals"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fccd7f579d5e8b522991936994036868cdc6ed03"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5670141"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.88/89 - 2024-07-30",
+        "date": "2024-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6988",
+    "issues": [
+      "349198731"
+    ],
+    "components": [
+      "Downloads"
+    ],
+    "impacts": [
+      "Use after free in Downloads"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ef332eda241e4b8a6c3bf8d661fa8a92fc2758a1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5663176"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6989",
+    "issues": [
+      "349342289"
+    ],
+    "components": [
+      "Loader"
+    ],
+    "impacts": [
+      "Use after free in Loader"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c40f8866cfd6438725cc58e5db2d792e6d9f869b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5665925"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6991",
+    "issues": [
+      "346618785"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/04d3cda89534f1aee918f13f06ac8716e7ee8ba3"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/198274"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6994",
+    "issues": [
+      "339686368"
+    ],
+    "components": [
+      "Layout"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Layout"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/eca3b65cd6ad76cd16d9dac97ef33b241c59cd12"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5616572"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6995",
+    "issues": [
+      "343938078"
+    ],
+    "components": [
+      "Fullscreen"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Fullscreen"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/44e9e45090b5b72d817abb4ecff492aaa3eec02e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5594495"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6996",
+    "issues": [
+      "333708039"
+    ],
+    "components": [
+      "Frames"
+    ],
+    "impacts": [
+      "Race in Frames"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/78bd1f0eef2612f22dac87d0335e8714a0ecee89"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5540331"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6997",
+    "issues": [
+      "325293263"
+    ],
+    "components": [
+      "Tabs"
+    ],
+    "impacts": [
+      "Use after free in Tabs"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2a126748612fccf5ab2055b92dfefb7a338584e1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5560550"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6998",
+    "issues": [
+      "340098902"
+    ],
+    "components": [
+      "User Education"
+    ],
+    "impacts": [
+      "Use after free in User Education"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/86ebd2d6d96042a44760b74147df4b6e7a332801"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5536788"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6999",
+    "issues": [
+      "340893685"
+    ],
+    "components": [
+      "FedCM"
+    ],
+    "impacts": [
+      "Inappropriate implementation in FedCM"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a3a16c8a83373cca7390a5ab3d904577c115db9c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5544746"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7000",
+    "issues": [
+      "339877158"
+    ],
+    "components": [
+      "CSS"
+    ],
+    "impacts": [
+      "Use after free in CSS"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3b8269266c842fdc8e1f4f5d61649b6ac032674b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5537901"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7001",
+    "issues": [
+      "347509736"
+    ],
+    "components": [
+      "HTML"
+    ],
+    "impacts": [
+      "Inappropriate implementation in HTML"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b45d131eeb3a693b1234898b3b6c48c304d73dc3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5658195"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7003",
+    "issues": [
+      "338233148"
+    ],
+    "components": [
+      "FedCM"
+    ],
+    "impacts": [
+      "Inappropriate implementation in FedCM"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/359cece04b0da05c40ce5ed9c5333df574069a7d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5527555"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7004",
+    "issues": [
+      "40063014"
+    ],
+    "components": [
+      "Safe Browsing"
+    ],
+    "impacts": [
+      "Insufficient validation of untrusted input in Safe Browsing"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ae18bb965a72f3ab44bafcd7586d39571d16ee8b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5605695"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7005",
+    "issues": [
+      "40068800"
+    ],
+    "components": [
+      "Safe Browsing"
+    ],
+    "impacts": [
+      "Insufficient validation of untrusted input in Safe Browsing"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ae18bb965a72f3ab44bafcd7586d39571d16ee8b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5605695"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 127.0.6533.72/73 - 2024-07-23",
+        "date": "2024-07-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6772",
+    "issues": [
+      "346597059"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/901377bb2f3b8ff45fbd077fc425fc2f4e66036a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5639725"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.182 - 2024-07-16",
+        "date": "2024-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6773",
+    "issues": [
+      "347724915"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/cdbc1d9684a3602c77c39d23b4e95a8522a0cc90"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5630530"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.182 - 2024-07-16",
+        "date": "2024-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6774",
+    "issues": [
+      "346898524"
+    ],
+    "components": [
+      "Screen Capture"
+    ],
+    "impacts": [
+      "Use after free in Screen Capture"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/38e4483e47f99a565221629e0a5446166193cb97"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5639016"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.182/183 - 2024-07-16",
+        "date": "2024-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6775",
+    "issues": [
+      "347373236"
+    ],
+    "components": [
+      "Media Stream"
+    ],
+    "impacts": [
+      "Use after free in Media Stream"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1b90408171198d05295a02b4c5ffdbe011f13636"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5640501"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.182/183 - 2024-07-16",
+        "date": "2024-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6776",
+    "issues": [
+      "346692546"
+    ],
+    "components": [
+      "Audio"
+    ],
+    "impacts": [
+      "Use after free in Audio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d54105311590b41164bcd8e8d81edac187cf5690"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5634908"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.182/183 - 2024-07-16",
+        "date": "2024-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6777",
+    "issues": [
+      "345640549"
+    ],
+    "components": [
+      "Navigation"
+    ],
+    "impacts": [
+      "Use after free in Navigation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c5dd8839bfaf4207a7db7a39c922daf67634936d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5624749"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.182/183 - 2024-07-16",
+        "date": "2024-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6778",
+    "issues": [
+      "341136300"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Race in DevTools"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/43b8b682d05c75caf0daf1643b84575009cc0052"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5625857"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.182/183 - 2024-07-16",
+        "date": "2024-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6779",
+    "issues": [
+      "351327767"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds memory access in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/bc545b15a0ee5dd3bea9f2bfb991b380f5f3659c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5695665"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.182 - 2024-07-16",
+        "date": "2024-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7017",
+    "issues": [
+      "338248595"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Inappropriate implementation in DevTools"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/devtools/devtools-frontend/+/33a09fb44a6f593270589acfac482d9b275b389c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/5546062"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.182/183 - 2024-07-16",
+        "date": "2024-07-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6290",
+    "issues": [
+      "342428008"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/b208b3aab58d2dda99ec9492ee007f150a08b805"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/195014"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.126/127 - 2024-06-24",
+        "date": "2024-06-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6291",
+    "issues": [
+      "40942995"
+    ],
+    "components": [
+      "Swiftshader"
+    ],
+    "impacts": [
+      "Use after free in Swiftshader"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.126/127 - 2024-06-24",
+        "date": "2024-06-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6292",
+    "issues": [
+      "342545100"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/13586d84cb6038b38bf769db815e59d3d152d474"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/194997"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.126/127 - 2024-06-24",
+        "date": "2024-06-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6293",
+    "issues": [
+      "345993680"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/46813578fd64e9e89aac914be3f371306f2cc7b8"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/194994"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.126/127 - 2024-06-24",
+        "date": "2024-06-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-9859",
+    "issues": [
+      "346197738"
+    ],
+    "components": [
+      "WebAssembly"
+    ],
+    "impacts": [
+      "Type confusion in WebAssembly"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome for Android 126.0.6478.122 - 2024-06-24",
+        "date": "2024-06-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/chrome-for-android-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6100",
+    "issues": [
+      "344608204"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/422cdc5eddcadb53b8eafb099722fb211a35739e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5604265"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.114 - 2024-06-18",
+        "date": "2024-06-18",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6101",
+    "issues": [
+      "343748812"
+    ],
+    "components": [
+      "WebAssembly"
+    ],
+    "impacts": [
+      "Inappropriate implementation in WebAssembly"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/910cb91733dc47b8f4a3dc9f1ca640b728f97aad"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5596273"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.114 - 2024-06-18",
+        "date": "2024-06-18",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6102",
+    "issues": [
+      "339169163"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Out of bounds memory access in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/cb79ddf448252ae8d25b8f0cb4e3dc4d7b8f54fe"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/184422"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.114/115 - 2024-06-18",
+        "date": "2024-06-18",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-6103",
+    "issues": [
+      "344639860"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/7db472f649211faefebee9520fb36b3ffba22e27"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/193860"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.114/115 - 2024-06-18",
+        "date": "2024-06-18",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5830",
+    "issues": [
+      "342456991"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/cbd847cb1c2eaa126f0b96f002241c2ef5aa7c89"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5588058"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5831",
+    "issues": [
+      "339171223"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/cb79ddf448252ae8d25b8f0cb4e3dc4d7b8f54fe"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/184422"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5832",
+    "issues": [
+      "340196361"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/b44f52d869cb1cbfca7484b109285f99f73983c7"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/192761"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5833",
+    "issues": [
+      "342602616"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/3b037e1756d366e0a6aa8467da9af0d44af84ffb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5587860"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5834",
+    "issues": [
+      "342840932"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/c509bb3757c02beecfd6d74ef7aae9ee94b1e3ed"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/190621"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5835",
+    "issues": [
+      "341991535"
+    ],
+    "components": [
+      "Tab Groups"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Tab Groups"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5430fda85bc85c4dd9dc92fbe6c892c86373d7d7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5560557"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5836",
+    "issues": [
+      "341875171"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Inappropriate Implementation in DevTools"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/devtools/devtools-frontend/+/3c74763045f44bea6319164593b4d6a0ed34990a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/5580037"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5837",
+    "issues": [
+      "342415789"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/d2d190fb1306449c022296cdec1bb16341996d4a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5575093"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5838",
+    "issues": [
+      "342522151"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/5ab0723917535db1836753f0a8dca0335ca29812"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5600348"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5839",
+    "issues": [
+      "340122160"
+    ],
+    "components": [
+      "Memory Allocator"
+    ],
+    "impacts": [
+      "Inappropriate Implementation in Memory Allocator"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e77b67df17a9a7cd7c09d4b134a660ad7273f640"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5538010"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5840",
+    "issues": [
+      "41492103"
+    ],
+    "components": [
+      "CORS"
+    ],
+    "impacts": [
+      "Policy Bypass in CORS"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/886229a0ca577b2ce1a491c5628235c0e4508338"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5516030"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5841",
+    "issues": [
+      "326765855"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use after free in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/fd628a3450252d505bb017332c3cf09d26684668"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5467807"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5842",
+    "issues": [
+      "40062622"
+    ],
+    "components": [
+      "Browser UI"
+    ],
+    "impacts": [
+      "Use after free in Browser UI"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4203accddde704f0da0f7d931d3d81ca40583808"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5843",
+    "issues": [
+      "333940412"
+    ],
+    "components": [
+      "Downloads"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Downloads"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b2a7ca7e84a2e7bab60387ab01a1d884db2db4e9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5510090"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5844",
+    "issues": [
+      "331960660"
+    ],
+    "components": [
+      "Tab Strip"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Tab Strip"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0b121f3d03edfa1a3c258e4af09250bd10a6ceb0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5522665"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5845",
+    "issues": [
+      "340178596"
+    ],
+    "components": [
+      "Audio"
+    ],
+    "impacts": [
+      "Use after free in Audio"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6d95935f83b1296e45c7f4cc2b64108a81865601"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5538281"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5846",
+    "issues": [
+      "341095523"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/02bbd75d613ef05f64ea3af93dfbd8345a88044a"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/119318"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5847",
+    "issues": [
+      "341313077"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/a0d85587ff7212e24d1df8a6451c49f5eaa171d6"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/119350"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7024",
+    "issues": [
+      "334120897"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8 in Google Chrome prior to 126.0.6478.54 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: Low)"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/33e4006f1ee2f61e701a94b9bde9c5e16add6891"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5453422"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 126.0.6478.54 - 2024-06-11",
+        "date": "2024-06-11",
+        "advisory": "https://chromereleases.googleblog.com/2024/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5493",
+    "issues": [
+      "339877165"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Heap buffer overflow in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.141/.142 - 2024-05-30",
+        "date": "2024-05-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5494",
+    "issues": [
+      "338071106"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/73b2692dd71562b31168781be36732b2641cb8a5"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/189881"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.141/.142 - 2024-05-30",
+        "date": "2024-05-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5495",
+    "issues": [
+      "338103465"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/fe3821ae5458d9a1a67c2e6a0f19aee8d6f90322"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/190161"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.141/.142 - 2024-05-30",
+        "date": "2024-05-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5496",
+    "issues": [
+      "338929744"
+    ],
+    "components": [
+      "Media Session"
+    ],
+    "impacts": [
+      "Use after free in Media Session"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1f0de3303671c6c041930c7f4f8a9ad017a7f211"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5564794"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.141/.142 - 2024-05-30",
+        "date": "2024-05-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5497",
+    "issues": [
+      "339061099"
+    ],
+    "components": [
+      "Browser UI"
+    ],
+    "impacts": [
+      "Out of bounds memory access in Browser UI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9cce0c95e740f637e1436cfa472b532c9ec35bfd"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5545011"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.141/.142 - 2024-05-30",
+        "date": "2024-05-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5498",
+    "issues": [
+      "339588211"
+    ],
+    "components": [
+      "Presentation API"
+    ],
+    "impacts": [
+      "Use after free in Presentation API"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b4ad3013edb113cb8321a8adce3ad2ec333620ea"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5551853"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.141/.142 - 2024-05-30",
+        "date": "2024-05-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5499",
+    "issues": [
+      "339877167"
+    ],
+    "components": [
+      "Streams API"
+    ],
+    "impacts": [
+      "Out of bounds write in Streams API"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/cd405492789ec4bc6ecd598754154c527ff60e95"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5553232"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.141/.142 - 2024-05-30",
+        "date": "2024-05-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5274",
+    "issues": [
+      "341663589"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/3e037e195e508dea045f5626862412e8f64fc919"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5553030",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2024-5274"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.112 - 2024-05-23",
+        "date": "2024-05-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5157",
+    "issues": [
+      "336012573"
+    ],
+    "components": [
+      "Scheduling"
+    ],
+    "impacts": [
+      "Use after free in Scheduling"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/da7a6845e589dc71da9898f7e181a7c88a62e2e1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5493004"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.76/.77 - 2024-05-21",
+        "date": "2024-05-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5158",
+    "issues": [
+      "338908243"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/cc05792346fb017eaa961ee7d35cf1f9bb53bb0a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5529235"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.76 - 2024-05-21",
+        "date": "2024-05-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5159",
+    "issues": [
+      "335613092"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Heap buffer overflow in ANGLE"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/04825894d253a2cfd3f0384e0a316ad3941d0e4a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/5510722"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.76/.77 - 2024-05-21",
+        "date": "2024-05-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5160",
+    "issues": [
+      "338161969"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/c01092832e200d0d784df38e8ce07998f983c38c"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/188660"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.76/.77 - 2024-05-21",
+        "date": "2024-05-21",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4947",
+    "issues": [
+      "340221135"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/b3c01ac1e60afc9addad9942f7a9a6c5e8a4a6da"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5534518",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2024-4947"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.60 - 2024-05-15",
+        "date": "2024-05-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4948",
+    "issues": [
+      "333414294"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/65b347768990e33267382a584405c5c12e2f56e7"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/187481"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.60 - 2024-05-15",
+        "date": "2024-05-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4949",
+    "issues": [
+      "326607001"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use after free in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/73f62bd5882f878d4aea8b5b7249084eecd97525"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5372733"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.60 - 2024-05-15",
+        "date": "2024-05-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4950",
+    "issues": [
+      "40065403"
+    ],
+    "components": [
+      "Downloads"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Downloads"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/60cdb219a3cc5d0d901a6c51bb5ed1534184be12"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5416053"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 125.0.6422.60 - 2024-05-15",
+        "date": "2024-05-15",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4761",
+    "issues": [
+      "339458194"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds write in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/81c2d9b9b7db1be972d1a67fc10fb86f960349ab"
+    ],
+    "references": [
+      "https://codereview.chromium.org/5529244",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2024-4761"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.207 - 2024-05-13",
+        "date": "2024-05-13",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4671",
+    "issues": [
+      "339266700"
+    ],
+    "components": [
+      "Visuals"
+    ],
+    "impacts": [
+      "Use after free in Visuals"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b2cc7b7ac538b11bbe08f0d3141c31f4a7ca5894"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5523748"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.201/.202 - 2024-05-09",
+        "date": "2024-05-09",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4558",
+    "issues": [
+      "337766133"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Use after free in ANGLE"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/1bb1ee061fe0bce322fb93b447a72e72c993a1f2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/5498735"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.155/.156 - 2024-05-07",
+        "date": "2024-05-07",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_7.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4559",
+    "issues": [
+      "331369797"
+    ],
+    "components": [
+      "WebAudio"
+    ],
+    "impacts": [
+      "Heap buffer overflow in WebAudio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/50eb6f8c2f57ebf5f0eb2480eb544f93e88673f5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5497083"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.155/.156 - 2024-05-07",
+        "date": "2024-05-07",
+        "advisory": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_7.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4331",
+    "issues": [
+      "335003891"
+    ],
+    "components": [
+      "Picture In Picture"
+    ],
+    "impacts": [
+      "Use after free in Picture In Picture"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2314741cdf2c4a6e11234dda7006ec0dd9005bbb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5467978"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.118/.119 - 2024-04-30",
+        "date": "2024-04-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4368",
+    "issues": [
+      "333508731"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/cb79ddf448252ae8d25b8f0cb4e3dc4d7b8f54fe"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/184422"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.118/.119 - 2024-04-30",
+        "date": "2024-04-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4058",
+    "issues": [
+      "332546345"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Type Confusion in ANGLE"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/0a67bbaf83f129fab0784341f15c19b211fa860d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/5435713"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.78/.79 - 2024-04-24",
+        "date": "2024-04-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4059",
+    "issues": [
+      "333182464"
+    ],
+    "components": [
+      "V8 API"
+    ],
+    "impacts": [
+      "Out of bounds read in V8 API"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/b505dbee47b2d718fad79aec7dd3ee440db28b37"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5443270"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.78 - 2024-04-24",
+        "date": "2024-04-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-4060",
+    "issues": [
+      "333420620"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/810e0537ebdd1e87ec62fb4fc4ee7a8105b0f096"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/184625"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.78/.79 - 2024-04-24",
+        "date": "2024-04-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7018",
+    "issues": [
+      "333414305"
+    ],
+    "components": [
+      "PDF"
+    ],
+    "impacts": [
+      "Heap buffer overflow in PDF"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/d6a4b27d80214c0c06d5d8925b21fa26b567851a"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/118292"
+    ],
+    "releases": [
+      {
+        "name": "Chrome for Android 124.0.6367.82 - 2024-04-24",
+        "date": "2024-04-24",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/chrome-for-android-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2625",
+    "issues": [
+      "40072287",
+      "327740539"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Object lifecycle issue in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/8f477f936c9b9e6b4c9f35a8ccc5e65bd4cb7f4e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5350482"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.58 - 2024-03-19",
+        "date": "2024-03-19",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_19.html"
+      },
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3832",
+    "issues": [
+      "331358160"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Object corruption in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/49ba787fca9bd98daa1c1f4c36f0038d5640b6b2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5419867"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3833",
+    "issues": [
+      "331383939"
+    ],
+    "components": [
+      "WebAssembly"
+    ],
+    "impacts": [
+      "Object corruption in WebAssembly"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/292c5a8536ae0a70ac59d8ea8b3bdcceac44e8a5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5412655"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3834",
+    "issues": [
+      "326607008"
+    ],
+    "components": [
+      "Downloads"
+    ],
+    "impacts": [
+      "Use after free in Downloads"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/952757624c6c06c443c487771d070b52719d17b0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5371489"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3914",
+    "issues": [
+      "330759272"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use after free in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/04e7550d7aa3bf4ac4e49d7074972d357de139e6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5387887"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3837",
+    "issues": [
+      "41491379"
+    ],
+    "components": [
+      "QUIC"
+    ],
+    "impacts": [
+      "Use after free in QUIC"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/de9ce1844e5024a8b9a822fa8321f59a05fb990c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5268864"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3838",
+    "issues": [
+      "328278717"
+    ],
+    "components": [
+      "Autofill"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Autofill"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d138d8f05e6f826d970edbbe188bdcb5d814fc3a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5361893"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3839",
+    "issues": [
+      "41491859"
+    ],
+    "components": [
+      "Fonts"
+    ],
+    "impacts": [
+      "Out of bounds read in Fonts"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/214711d9980de94d40dba9877c3ad2d5dcbc50ff"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5361874"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3840",
+    "issues": [
+      "41493458"
+    ],
+    "components": [
+      "Site Isolation"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Site Isolation"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/38b84561d09e8f061ecd69623f90435c19a37792"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5269464"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3841",
+    "issues": [
+      "330376742"
+    ],
+    "components": [
+      "Browser Switcher"
+    ],
+    "impacts": [
+      "Insufficient data validation in Browser Switcher"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3e95c470f860dbc0e20c014bbffabb1d892392db"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5385550"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3843",
+    "issues": [
+      "41486690"
+    ],
+    "components": [
+      "Downloads"
+    ],
+    "impacts": [
+      "Insufficient data validation in Downloads"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/caf79bc86531931bc287cb21769c345af100a8dc"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5331701"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7019",
+    "issues": [
+      "41494315"
+    ],
+    "components": [
+      "UI"
+    ],
+    "impacts": [
+      "Inappropriate implementation in UI"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome for Android 124.0.6367.54 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/chrome-for-android-update_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7021",
+    "issues": [
+      "40064701"
+    ],
+    "components": [
+      "Autofill"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Autofill"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3844",
+    "issues": [
+      "40058873"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Extensions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2ae924296dd882acde3e277355b3bfce20b93851"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5321044"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3845",
+    "issues": [
+      "323583084"
+    ],
+    "components": [
+      "Network"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Network"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2f0159210955293550cd5cc81e5463d71b87d2d9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5306924"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3846",
+    "issues": [
+      "40064754"
+    ],
+    "components": [
+      "Prompts"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Prompts"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/77cfa22d7ff196ba21ca866982c7715c27321c2e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5315611"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3847",
+    "issues": [
+      "328690293"
+    ],
+    "components": [
+      "WebUI"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in WebUI"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3bd9d470059a4b3463a741001183c9499f347e1e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5357281"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 124.0.6367.60/.61 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7020",
+    "issues": [
+      "40076065"
+    ],
+    "components": [
+      "Autofill"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Autofill"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6f47893479118f73e9df78558057387c7f09bdb0"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome for Android 124.0.6367.54 - 2024-04-16",
+        "date": "2024-04-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/chrome-for-android-update_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3157",
+    "issues": [
+      "331237485"
+    ],
+    "components": [
+      "Compositing"
+    ],
+    "impacts": [
+      "Out of bounds write in Compositing"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1a19ff70bd54847d818566bd7a1e7c384c419746"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5396796"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.122/.123 - 2024-04-10",
+        "date": "2024-04-10",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_10.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3515",
+    "issues": [
+      "331123811"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/512c28cc16c40d32973a60b44ae2ffd1ee077195"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/182200"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.122/.123 - 2024-04-10",
+        "date": "2024-04-10",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_10.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3516",
+    "issues": [
+      "328859176"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Heap buffer overflow in ANGLE"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/a0fa06f6d79ced897c0fe2795551268199d29806"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/5391986"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.122/.123 - 2024-04-10",
+        "date": "2024-04-10",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop_10.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3156",
+    "issues": [
+      "329130358"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/b93975a48c722c2e5fe9b39437738eb2e23dac74"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5374907"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.105 - 2024-04-02",
+        "date": "2024-04-02",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3158",
+    "issues": [
+      "329965696"
+    ],
+    "components": [
+      "Bookmarks"
+    ],
+    "impacts": [
+      "Use after free in Bookmarks"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0764f1e9bee0df31a7dc4f3d8cbe3c574994b191"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5378438"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.105/.106/.107 - 2024-04-02",
+        "date": "2024-04-02",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3159",
+    "issues": [
+      "330760873"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds memory access in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/807cf7d0b7d96212c98ed2119e07f9b2c6a23f61"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5388435"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.105 - 2024-04-02",
+        "date": "2024-04-02",
+        "advisory": "https://chromereleases.googleblog.com/2024/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2883",
+    "issues": [
+      "327807820"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Use after free in ANGLE"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/e5cb7f1f5ca2110bed014fc076da47ba7adb6063"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/5369336"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.86/.87 - 2024-03-26",
+        "date": "2024-03-26",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2885",
+    "issues": [
+      "328958020"
+    ],
+    "components": [
+      "Dawn"
+    ],
+    "impacts": [
+      "Use after free in Dawn"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/d654129e99a74c339a1aadce340d6aa62d3ded51"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/179706"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.86/.87 - 2024-03-26",
+        "date": "2024-03-26",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2886",
+    "issues": [
+      "330575496"
+    ],
+    "components": [
+      "WebCodecs"
+    ],
+    "impacts": [
+      "Use after free in WebCodecs"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/c7d8916419a85c7f90d51592ed140eb1599212ec"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5394731"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.86 - 2024-03-26",
+        "date": "2024-03-26",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2887",
+    "issues": [
+      "330588502"
+    ],
+    "components": [
+      "WebAssembly"
+    ],
+    "impacts": [
+      "Type Confusion in WebAssembly"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.86/.87 - 2024-03-26",
+        "date": "2024-03-26",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2626",
+    "issues": [
+      "40945098"
+    ],
+    "components": [
+      "Swiftshader"
+    ],
+    "impacts": [
+      "Out of bounds read in Swiftshader"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.58 - 2024-03-19",
+        "date": "2024-03-19",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2627",
+    "issues": [
+      "41493290"
+    ],
+    "components": [
+      "Canvas"
+    ],
+    "impacts": [
+      "Use after free in Canvas"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/812dd783e5e140e555b6a8b8b31cdb8bdcd8988d"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.58 - 2024-03-19",
+        "date": "2024-03-19",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2628",
+    "issues": [
+      "41487774"
+    ],
+    "components": [
+      "Downloads"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Downloads"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/72e8613d2027d7da5844b42844593ecd7e654050"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.58 - 2024-03-19",
+        "date": "2024-03-19",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2629",
+    "issues": [
+      "41487721"
+    ],
+    "components": [
+      "iOS"
+    ],
+    "impacts": [
+      "Incorrect security UI in iOS"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f4eba56a3a691798d1114425ce9b10171e57c05e"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.58 - 2024-03-19",
+        "date": "2024-03-19",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2630",
+    "issues": [
+      "41481877"
+    ],
+    "components": [
+      "iOS"
+    ],
+    "impacts": [
+      "Inappropriate implementation in iOS"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8ca4744673af3cab864762613ada06b03819dd69"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.58 - 2024-03-19",
+        "date": "2024-03-19",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7022",
+    "issues": [
+      "324690505"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Uninitialized Use in V8 in Google Chrome prior to 123.0.6312.58 allowed a remote attacker to perform out of bounds memory access via a crafted HTML page. (Chromium security severity: Medium)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/4765e4b73fcbd98af3eda5da531aab8d36109b32"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5300308"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.58 - 2024-03-19",
+        "date": "2024-03-19",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2631",
+    "issues": [
+      "41495878"
+    ],
+    "components": [
+      "iOS"
+    ],
+    "impacts": [
+      "Inappropriate implementation in iOS"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c84c910a8e0a0a08ca5059cded4d7461ed877b21"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 123.0.6312.58 - 2024-03-19",
+        "date": "2024-03-19",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2400",
+    "issues": [
+      "327696052"
+    ],
+    "components": [
+      "Performance Manager"
+    ],
+    "impacts": [
+      "Use after free in Performance Manager"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/255c8341c067b7191c9430cf39556c6f7660df56"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5341335"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.128/.129 - 2024-03-12",
+        "date": "2024-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2173",
+    "issues": [
+      "325893559"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds memory access in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/7330f46163e8a2c10a3d40ecbf554656f0ac55e8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5309898"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.111 - 2024-03-05",
+        "date": "2024-03-05",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2174",
+    "issues": [
+      "325866363"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/955d1972ef0a32cf44fc27cd32d055a7ddc30fcf"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5309911"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.111 - 2024-03-05",
+        "date": "2024-03-05",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2176",
+    "issues": [
+      "325936438"
+    ],
+    "components": [
+      "FedCM"
+    ],
+    "impacts": [
+      "Use after free in FedCM"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4abec046ae8d2a5e79e3871320e2def15fb69765"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5321496"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.111/.112 - 2024-03-05",
+        "date": "2024-03-05",
+        "advisory": "https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1938",
+    "issues": [
+      "324596281"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/2109613ad4622028778a38fb418956fab8b478b6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5291374"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.94 - 2024-02-27",
+        "date": "2024-02-27",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_27.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1939",
+    "issues": [
+      "323694592"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/eacf7f40e7dd2ca11b6e2f63dd8e8bd681ca91c4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5285394"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.94 - 2024-02-27",
+        "date": "2024-02-27",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_27.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1669",
+    "issues": [
+      "41495060"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Out of bounds memory access in Blink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1670",
+    "issues": [
+      "41481374"
+    ],
+    "components": [
+      "Mojo"
+    ],
+    "impacts": [
+      "Use after free in Mojo"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1671",
+    "issues": [
+      "41487933"
+    ],
+    "components": [
+      "Site Isolation"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Site Isolation"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1672",
+    "issues": [
+      "41485789"
+    ],
+    "components": [
+      "Content Security Policy"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Content Security Policy"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1673",
+    "issues": [
+      "41490491"
+    ],
+    "components": [
+      "Accessibility"
+    ],
+    "impacts": [
+      "Use after free in Accessibility"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1674",
+    "issues": [
+      "40095183"
+    ],
+    "components": [
+      "Navigation"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Navigation"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9bfc074d2233e7b747e990d71569aa0261ce0c2b"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1675",
+    "issues": [
+      "41486208"
+    ],
+    "components": [
+      "Download"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Download"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6105acfab8d118726595ee8103f7de5c5a8f64d5"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3168",
+    "issues": [
+      "323813642"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Use after free in DevTools"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/41dd803aaaba04c36403c28225a36bd61ee26572"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5272444"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3171",
+    "issues": [
+      "41483350"
+    ],
+    "components": [
+      "Accessibility"
+    ],
+    "impacts": [
+      "Use after free in Accessibility"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3796d6c889f4b603ed051b18537c5de39cce1824"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5273251"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-5500",
+    "issues": [
+      "40069622"
+    ],
+    "components": [
+      "Sign-In"
+    ],
+    "impacts": [
+      "Inappropriate Implementation in Sign-In"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b75faaa929e4ab77c74e7f1f919df5fa06c7c481"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1676",
+    "issues": [
+      "40944847"
+    ],
+    "components": [
+      "Navigation"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Navigation"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 122.0.6261.57 - 2024-02-20",
+        "date": "2024-02-20",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1283",
+    "issues": [
+      "41494860"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.160 - 2024-02-06",
+        "date": "2024-02-06",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1284",
+    "issues": [
+      "41494539"
+    ],
+    "components": [
+      "Mojo"
+    ],
+    "impacts": [
+      "Use after free in Mojo"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.160 - 2024-02-06",
+        "date": "2024-02-06",
+        "advisory": "https://chromereleases.googleblog.com/2024/02/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1059",
+    "issues": [
+      "1514777"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Use after free in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8755f76bec326c654370de6dd68eea693df74ede"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5210359"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.139 - 2024-01-30",
+        "date": "2024-01-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1060",
+    "issues": [
+      "1511567"
+    ],
+    "components": [
+      "Canvas"
+    ],
+    "impacts": [
+      "Use after free in Canvas"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d4a197e4913f8e5072263b59aedc29f2b5af3e93"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5198419"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.139 - 2024-01-30",
+        "date": "2024-01-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-1077",
+    "issues": [
+      "1511085"
+    ],
+    "components": [
+      "Network"
+    ],
+    "impacts": [
+      "Use after free in Network"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6e36a69da1b73f9aea9c54bfbe6c5b9cb2c672a5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5179746"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.139 - 2024-01-30",
+        "date": "2024-01-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3169",
+    "issues": [
+      "41491234"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use after free in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/1285ee44a9e5207a8c1302bfaa745ca06f0a90a8"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.139 - 2024-01-30",
+        "date": "2024-01-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-2884",
+    "issues": [
+      "41491373"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds read in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/afc18842029d5629fccda99485c0dc44a71fb3c5"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.139 - 2024-01-30",
+        "date": "2024-01-30",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0807",
+    "issues": [
+      "1505080"
+    ],
+    "components": [
+      "WebAudio"
+    ],
+    "impacts": [
+      "Use after free in WebAudio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f4bffa09b46c21147431179e1e6dd2b27bc35fbc"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5131958"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0808",
+    "issues": [
+      "1504936"
+    ],
+    "components": [
+      "WebUI"
+    ],
+    "impacts": [
+      "Integer underflow in WebUI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c4b2e6246ad0e95eaf0727bb25a2e4969155e989"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5059113"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0812",
+    "issues": [
+      "1484394"
+    ],
+    "components": [
+      "Accessibility"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Accessibility"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0953e5a0ef7748af2c932568ec9d9bbdbc480f11"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/4873421"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3170",
+    "issues": [
+      "41488824"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Use after free in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3172",
+    "issues": [
+      "40942152"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Insufficient data validation in DevTools"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0804",
+    "issues": [
+      "1515137"
+    ],
+    "components": [
+      "iOS Security UI"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in iOS Security UI"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5b4739182fce2cd466305da4c076401b819d07a9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5165632"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0805",
+    "issues": [
+      "1514925"
+    ],
+    "components": [
+      "Downloads"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Downloads"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d6a1ebbeb21f52ce6c4f9c7b1ae6770248951e65"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5170825"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0806",
+    "issues": [
+      "1505176"
+    ],
+    "components": [
+      "Passwords"
+    ],
+    "impacts": [
+      "Use after free in Passwords"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c1046c5d203e87b8a90bbf0bfd8d14d888e8ccb6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5070036"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0810",
+    "issues": [
+      "1496250"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in DevTools"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/55e32689fd4e3c70cadda854a18cca7152090877"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5039174"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0813",
+    "issues": [
+      "1477151"
+    ],
+    "components": [
+      "Reading Mode"
+    ],
+    "impacts": [
+      "Use after free in Reading Mode"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7e17c410d27eb52160b8619e1675da1d41c74713"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/4851342"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0814",
+    "issues": [
+      "1463935"
+    ],
+    "components": [
+      "Payments"
+    ],
+    "impacts": [
+      "Incorrect security UI in Payments"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c8ad4500cb9d7ad661e1cd16f288bc72327f3075"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/4873652"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0809",
+    "issues": [
+      "1497985"
+    ],
+    "components": [
+      "Autofill"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Autofill"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b538fa86076f4b0baa35c4eea2576dec2c1348e6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5023870"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0811",
+    "issues": [
+      "1494490"
+    ],
+    "components": [
+      "Extensions API"
+    ],
+    "impacts": [
+      "Inappropriate implementation in Extensions API"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9ee850dbd35bcf114100b3429e93a94897158c79"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/4985374"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 121.0.6167.85 - 2024-01-23",
+        "date": "2024-01-23",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0517",
+    "issues": [
+      "1515930"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds write in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/78dd4b31847ab1f5b06ef3d8742a9f3835fb6919"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5173470"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.234 - 2024-01-16",
+        "date": "2024-01-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0518",
+    "issues": [
+      "1507412"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/46cb67e3b296e50d7fda5a58233d18b9f3dab0d5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5125960"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.234 - 2024-01-16",
+        "date": "2024-01-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0519",
+    "issues": [
+      "1517354"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds memory access in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/389ea9be7d68bb189e16da79f6414edbd4f7594f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/5185340",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2024-0519"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.234 - 2024-01-16",
+        "date": "2024-01-16",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0333",
+    "issues": [
+      "1513379"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Insufficient data validation in Extensions"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/989eddc218273a46801d3489f5eb30b7603580fb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5141787"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.216 - 2024-01-09",
+        "date": "2024-01-09",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0222",
+    "issues": [
+      "1501798"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Use after free in ANGLE"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/b8ca8de438417fefeb821d184322b26cb5d56a2c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/5089150"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.199 - 2024-01-03",
+        "date": "2024-01-03",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0223",
+    "issues": [
+      "1505009"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Heap buffer overflow in ANGLE"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/6df603ed4f7b66b2672f64b4188adff0db373ec6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/5077407"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.199 - 2024-01-03",
+        "date": "2024-01-03",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0224",
+    "issues": [
+      "1505086"
+    ],
+    "components": [
+      "WebAudio"
+    ],
+    "impacts": [
+      "Use after free in WebAudio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fb96fd5f41bec823dbb208d9a7d53fbbf4d16ce4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5072113"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.199 - 2024-01-03",
+        "date": "2024-01-03",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-0225",
+    "issues": [
+      "1506923"
+    ],
+    "components": [
+      "WebGPU"
+    ],
+    "impacts": [
+      "Use after free in WebGPU"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/542b278a0c1de7202f4bf5e3e5cbdc2dd6c337d4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5113019"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.199 - 2024-01-03",
+        "date": "2024-01-03",
+        "advisory": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-7023",
+    "issues": [
+      "341803763"
+    ],
+    "components": [
+      "Updater"
+    ],
+    "impacts": [
+      "Insufficient data validation in Updater"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f6e0492350eaeeb7d66b4f96f77f000b62fe4cba"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/5552983"
+    ],
+    "releases": []
+  },
+  {
+    "id": "CVE-2024-3173",
+    "issues": [
+      "40075849"
+    ],
+    "components": [
+      "Updater"
+    ],
+    "impacts": [
+      "Insufficient data validation in Updater"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.63 - 2023-12-05",
+        "date": "2023-12-05",
+        "advisory": "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3175",
+    "issues": [
+      "40069571"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Insufficient data validation in Extensions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 120.0.6099.63 - 2023-12-05",
+        "date": "2023-12-05",
+        "advisory": "https://chromereleases.googleblog.com/2023/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3174",
+    "issues": [
+      "40073339"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0c10ac51cc4a9705264bd59058e519f1f79d8bd6"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 119.0.6045.105 - 2023-10-31",
+        "date": "2023-10-31",
+        "advisory": "https://chromereleases.googleblog.com/2023/10/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2024-3176",
+    "issues": [
+      "40061476"
+    ],
+    "components": [
+      "SwiftShader"
+    ],
+    "impacts": [
+      "Out of bounds write in SwiftShader"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 117.0.5938.62 - 2023-09-12",
+        "date": "2023-09-12",
+        "advisory": "https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  }
+]

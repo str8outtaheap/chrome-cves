@@ -1,0 +1,6868 @@
+[
+  {
+    "id": "CVE-2019-8075",
+    "issues": [
+      "945997"
+    ],
+    "components": [
+      "Flash"
+    ],
+    "impacts": [
+      "Insufficient data validation in Flash"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 87.0.4280.66/67 - 2020-11-17",
+        "date": "2020-11-17",
+        "advisory": "https://chromereleases.googleblog.com/2020/11/stable-channel-update-for-desktop_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-20503",
+    "issues": [],
+    "components": [
+      "usersctplib"
+    ],
+    "impacts": [
+      "Out of bounds read in usersctplib"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 80.0.3987.149 - 2020-03-18",
+        "date": "2020-03-18",
+        "advisory": "https://chromereleases.googleblog.com/2020/03/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-18197",
+    "issues": [],
+    "components": [
+      "XML"
+    ],
+    "impacts": [
+      "Multiple vulnerabilities in XML"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 80.0.3987.87 - 2020-02-04",
+        "date": "2020-02-04",
+        "advisory": "https://chromereleases.googleblog.com/2020/02/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-19880",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "[$N/A][ 1038863 ] High"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 80.0.3987.87 - 2020-02-04",
+        "date": "2020-02-04",
+        "advisory": "https://chromereleases.googleblog.com/2020/02/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-19925",
+    "issues": [
+      "1038863"
+    ],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Multiple vulnerabilities in SQLite"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c9b98f55e822079f00266d0118a004be49e1fb89"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1990216"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 80.0.3987.87 - 2020-02-04",
+        "date": "2020-02-04",
+        "advisory": "https://chromereleases.googleblog.com/2020/02/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-19926",
+    "issues": [],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Inappropriate implementation in SQLite"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 80.0.3987.87 - 2020-02-04",
+        "date": "2020-02-04",
+        "advisory": "https://chromereleases.googleblog.com/2020/02/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-19923",
+    "issues": [],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Out of bounds memory access in SQLite"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 80.0.3987.87 - 2020-02-04",
+        "date": "2020-02-04",
+        "advisory": "https://chromereleases.googleblog.com/2020/02/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13767",
+    "issues": [
+      "1031653"
+    ],
+    "components": [
+      "media picker"
+    ],
+    "impacts": [
+      "Use after free in media picker"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b36be8e23735430929dcc1e649dcf0528497790d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1961186"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.88 - 2019-12-17",
+        "date": "2019-12-17",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13725",
+    "issues": [
+      "1025067"
+    ],
+    "components": [
+      "Bluetooth"
+    ],
+    "impacts": [
+      "Use after free in Bluetooth"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b8ffd1e064d06e233301fc526306a0f61003bebb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1922298"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13726",
+    "issues": [
+      "1027152"
+    ],
+    "components": [
+      "password manager"
+    ],
+    "impacts": [
+      "Heap buffer overflow in password manager"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4e778114fb1a70bbe4a573462d86d95171a3b344"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1929243"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13722",
+    "issues": [
+      "1025089"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Inappropriate implementation in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://webrtc.googlesource.com/src/+/7d5fe67b835e128ca688ccb361c98dd432556e2c"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13727",
+    "issues": [
+      "944619"
+    ],
+    "components": [
+      "WebSockets"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in WebSockets"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/06a7f290e23932b6c9835361aac9fbbf565813f0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1847592"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13728",
+    "issues": [
+      "1024758"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds write in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/aecd84376c10622d9ad434adeb8090b23ba88fa4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1924353"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13729",
+    "issues": [
+      "1025489"
+    ],
+    "components": [
+      "WebSockets"
+    ],
+    "impacts": [
+      "Use after free in WebSockets"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/dbd38b349c143b1199d5419de252fbc9abd9b1cf"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1923777"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13730",
+    "issues": [
+      "1028862"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/3363ddd4b9056d42dc6eb1f342401fddc97dc80a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1943150"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13732",
+    "issues": [
+      "1023817"
+    ],
+    "components": [
+      "WebAudio"
+    ],
+    "impacts": [
+      "Use after free in WebAudio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3185e0382dd1f6d632a0bb94751c3343010707b7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1924718"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13734",
+    "issues": [
+      "1025466"
+    ],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Out of bounds write in SQLite"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4d4e06ddc3b2804340f343e0551076ae25f06941"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1925699"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13735",
+    "issues": [
+      "1025468"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds write in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/31fab144f0652a6aa1f284b60655300ed746b2b6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1924363"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13764",
+    "issues": [
+      "1028863"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type Confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/b8b6075021ade0969c6b8de9459cd34163f7dbe1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1946352"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13736",
+    "issues": [
+      "1020899"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Integer overflow in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/da23189a76d224332c4fb71b1bba396c7d0a6817"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/61892"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13737",
+    "issues": [
+      "1013882"
+    ],
+    "components": [
+      "autocomplete"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in autocomplete"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/cc17930b5e93864e7f56a9d5dbfd3a1d3bee62c7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1899637"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13738",
+    "issues": [
+      "1017441"
+    ],
+    "components": [
+      "navigation"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in navigation"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a66313865400db81d62316f4381d5062b8552a33"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1881315"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13739",
+    "issues": [
+      "824715"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Incorrect security UI in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6e8dbd1dd7d1fd3232f3f0c40eb3c133ea58966c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/998014"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13740",
+    "issues": [
+      "1005596"
+    ],
+    "components": [
+      "sharing"
+    ],
+    "impacts": [
+      "Incorrect security UI in sharing"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8bd8d190b3947baaa9d5e053fa2c3e902da7c724"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1849382"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13741",
+    "issues": [
+      "1011950"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Insufficient validation of untrusted input in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0e4161fc6073f1cab302bcb61f379445b2954f19"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1863757"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13742",
+    "issues": [
+      "1017564"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Incorrect security UI in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e3f10ed9d67b888132f570d89b753891585c64c1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1879328"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13743",
+    "issues": [
+      "754304"
+    ],
+    "components": [
+      "external protocol handling"
+    ],
+    "impacts": [
+      "Incorrect security UI in external protocol handling"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/13b66bdf6719bcfedf549ff8ce2b18d2279e0396"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1829932"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13744",
+    "issues": [
+      "853670"
+    ],
+    "components": [
+      "cookies"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in cookies"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13745",
+    "issues": [
+      "990867"
+    ],
+    "components": [
+      "audio"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in audio"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a7c8c6b0571d9445cbb17eda0c6467a2a9da39a0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1779320"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13746",
+    "issues": [
+      "999932"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/66f711cb897066d58153f73b1e9b80366123c00e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1815129"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13747",
+    "issues": [
+      "1018528"
+    ],
+    "components": [
+      "rendering"
+    ],
+    "impacts": [
+      "Uninitialized Use in rendering"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/840c5167b44a060db8c34c4f1005835bae23206b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1891137"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13748",
+    "issues": [
+      "993706"
+    ],
+    "components": [
+      "developer tools"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in developer tools"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3c4fc7be009090e3ec0cb89f19e86edf02878035"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13749",
+    "issues": [
+      "1010765"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Incorrect security UI in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/94ac3a52cf9c84d6442d0083eb57282f5efed748"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1841618"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13750",
+    "issues": [
+      "1025464"
+    ],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Insufficient data validation in SQLite"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4d4e06ddc3b2804340f343e0551076ae25f06941"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1925699"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13751",
+    "issues": [
+      "1025465"
+    ],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Uninitialized Use in SQLite"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4d4e06ddc3b2804340f343e0551076ae25f06941"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1925699"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13752",
+    "issues": [
+      "1025470"
+    ],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Out of bounds read in SQLite"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4d4e06ddc3b2804340f343e0551076ae25f06941"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1925699"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13753",
+    "issues": [
+      "1025471"
+    ],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Out of bounds read in SQLite"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4d4e06ddc3b2804340f343e0551076ae25f06941"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1925699"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13754",
+    "issues": [
+      "442579"
+    ],
+    "components": [
+      "extensions"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in extensions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c8058066ec3fb36d530f985d499a732487203013"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1779310"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13755",
+    "issues": [
+      "696208"
+    ],
+    "components": [
+      "extensions"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in extensions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c74cbd497c4cbed9ea7b99cc411151b4da5059c3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1116349"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13756",
+    "issues": [
+      "708595"
+    ],
+    "components": [
+      "printing"
+    ],
+    "impacts": [
+      "Incorrect security UI in printing"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13757",
+    "issues": [
+      "884693"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Incorrect security UI in Omnibox"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/11d7f93df8e1ce5dc503179df70477ac7bfd0bf7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1823320"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13758",
+    "issues": [
+      "979441"
+    ],
+    "components": [
+      "navigation"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in navigation"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/89e3e7a034ae69f47030f68c14db2c5fa3035884"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1801327"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13759",
+    "issues": [
+      "901789"
+    ],
+    "components": [
+      "interstitials"
+    ],
+    "impacts": [
+      "Incorrect security UI in interstitials"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13761",
+    "issues": [
+      "1002687"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Incorrect security UI in Omnibox"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/dd58b7c26a34ec6a7243e17ee3638108cd8ff9b2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1797326"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13762",
+    "issues": [
+      "1004212"
+    ],
+    "components": [
+      "downloads"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in downloads"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/50c98b7605b3f3f14f4cec5addd20acd777d9b21"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1810004"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13763",
+    "issues": [
+      "1011600"
+    ],
+    "components": [
+      "payments"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in payments"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8788e25455fd0556e908d5b536f3fa132af72cbe"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1865770"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 79.0.3945.79 - 2019-12-10",
+        "date": "2019-12-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13723",
+    "issues": [
+      "1024121"
+    ],
+    "components": [
+      "Bluetooth"
+    ],
+    "impacts": [
+      "Use-after-free in Bluetooth"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a255d1be5723813c1a3e793b8388ed61edcea5b1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1914536"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.108 - 2019-11-18",
+        "date": "2019-11-18",
+        "advisory": "https://chromereleases.googleblog.com/2019/11/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13724",
+    "issues": [
+      "1024116"
+    ],
+    "components": [
+      "Bluetooth"
+    ],
+    "impacts": [
+      "Out-of-bounds access in Bluetooth"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/405c014642cc7aea722206149b767d7ef6611b9f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1916686"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.108 - 2019-11-18",
+        "date": "2019-11-18",
+        "advisory": "https://chromereleases.googleblog.com/2019/11/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13720",
+    "issues": [
+      "1019226"
+    ],
+    "components": [
+      "audio"
+    ],
+    "impacts": [
+      "Use-after-free in audio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6a2e670a243b815cf043f8da4d26ecb9a64d307b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1888103"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.87 - 2019-10-31",
+        "date": "2019-10-31",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13721",
+    "issues": [
+      "1013868"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use-after-free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/94e600d98301661502135a89db1fb0cc7caae5e9"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/61450"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.87 - 2019-10-31",
+        "date": "2019-10-31",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13699",
+    "issues": [
+      "1001503"
+    ],
+    "components": [
+      "media"
+    ],
+    "impacts": [
+      "Use-after-free in media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8fe61c82a970fff810d27a884997a78153a92546"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1848385"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13700",
+    "issues": [
+      "998431"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Buffer overrun in Blink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c8ce86e4dd397fd208f581045206f1ce47e8528d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1804379"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13701",
+    "issues": [
+      "998284"
+    ],
+    "components": [
+      "navigation"
+    ],
+    "impacts": [
+      "URL spoof in navigation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/69a6a1b82a0fb87e6a87b39c48416ddd59636a5c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1781434"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13765",
+    "issues": [
+      "1007194"
+    ],
+    "components": [
+      "content delivery manager"
+    ],
+    "impacts": [
+      "Use-after-free in content delivery manager"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6693c6288f5cb1ff36a12ced459a4ba413da3f3e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1825462"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13702",
+    "issues": [
+      "991125"
+    ],
+    "components": [
+      "Installer"
+    ],
+    "impacts": [
+      "Privilege elevation in Installer"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c4982d88cea806589aad7bceabb9dd75aeeb894b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1742302"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13703",
+    "issues": [
+      "992838"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL bar spoofing"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/cb2479d07021b4772582a20a70124fa395e4fd38"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1757299"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13704",
+    "issues": [
+      "1001283"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSP bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2539b2ec8b9f04af4dde3b8b9df2afc9983f5bd7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1821906"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13705",
+    "issues": [
+      "989078"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Extension permission bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d980ff895e19d3d7c792861d1de3851b2d2d7414"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1740048"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13706",
+    "issues": [
+      "1001159"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Out-of-bounds read in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/1d3ff52a37c75d29c7d08483a042ef33266a9baf"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/60310"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13707",
+    "issues": [
+      "859349"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "File storage disclosure"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/70912634b85f207b0b9d7b1406cdb1d5fb146096"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1762916"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13708",
+    "issues": [
+      "931894"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "HTTP authentication spoof"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/bc66f9f6d46ed812c8c37dbdd48bfba536eda301"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1783722"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13709",
+    "issues": [
+      "1005218"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "File download protection bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/35ebd9d9cd519c4a107f5249624fe2ea4bdd240c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1814624"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13710",
+    "issues": [
+      "756825"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "File download protection bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4961219aafff3478250532a4872e3df59cbc645f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1761374"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13711",
+    "issues": [
+      "986063"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-context information leak"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/f51e0368eab8e25b1c030e49370187e44dbf111d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1730999"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13713",
+    "issues": [
+      "993288"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin data leak"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3c4fc7be009090e3ec0cb89f19e86edf02878035"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-15903",
+    "issues": [],
+    "components": [
+      "expat"
+    ],
+    "impacts": [
+      "Buffer overflow in expat"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13714",
+    "issues": [
+      "982812"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSS injection"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0a6084aef9bbb5a5c4a3170ae00de0fff27da9e6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1772571"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13715",
+    "issues": [
+      "760855"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address bar spoofing"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d99aae95a0e37de6fe673ffdc5734f91ad7e8e52"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1780950"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13716",
+    "issues": [
+      "1005948"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Service worker state error"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b8d7b6952068fd22a0e2bee484f0ee2814a0c0cf"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13717",
+    "issues": [
+      "839239"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Notification obscured"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13718",
+    "issues": [
+      "866162"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "IDN spoof"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fd3b483347e651cb496dea3ab89cb1a278d97097"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1721846"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13719",
+    "issues": [
+      "927150"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Notification obscured"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/094b99a4e80fe788f18072a66735b228401d5d14"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1637052"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 78.0.3904.70 - 2019-10-22",
+        "date": "2019-10-22",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop_22.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13693",
+    "issues": [
+      "1005753"
+    ],
+    "components": [
+      "IndexedDB"
+    ],
+    "impacts": [
+      "Use-after-free in IndexedDB"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/23303e6f178ca2993bfde7114e6bdf48dd0eff9d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1821675"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.120 - 2019-10-10",
+        "date": "2019-10-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13694",
+    "issues": [
+      "1005251"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Use-after-free in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0cd560eea3e00305765c2a9da7ec959ccb757460"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1832277"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.120 - 2019-10-10",
+        "date": "2019-10-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13695",
+    "issues": [
+      "1004730"
+    ],
+    "components": [
+      "audio"
+    ],
+    "impacts": [
+      "Use-after-free in audio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d496219fd9061eaba1be73be05f8fac1dda86a27"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1810846"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.120 - 2019-10-10",
+        "date": "2019-10-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13696",
+    "issues": [
+      "1000635"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use-after-free in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/fba03abcfaa11e889bf0623eb58772b1f6a7d89f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1787429"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.120 - 2019-10-10",
+        "date": "2019-10-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13697",
+    "issues": [
+      "990849"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin size leak"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5e556dd80e03b7a217e10990d71be25d07e1ece7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1796544"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.120 - 2019-10-10",
+        "date": "2019-10-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13685",
+    "issues": [
+      "1000934"
+    ],
+    "components": [
+      "UI"
+    ],
+    "impacts": [
+      "Use-after-free in UI"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fd7196aeb220da48823350fe6f9ed8ef02133b61"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1789150"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.90 - 2019-09-18",
+        "date": "2019-09-18",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13686",
+    "issues": [
+      "1000002"
+    ],
+    "components": [
+      "offline pages"
+    ],
+    "impacts": [
+      "Use-after-free in offline pages"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f60bd503a540b7ddf0920dc26b8a9cf403b9c7f3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1782695"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.90 - 2019-09-18",
+        "date": "2019-09-18",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13687",
+    "issues": [
+      "998548"
+    ],
+    "components": [
+      "media"
+    ],
+    "impacts": [
+      "Use-after-free in media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a847b0d9d5bbcce7814f72eaba75ddbc92e3daff"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1782813"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.90 - 2019-09-18",
+        "date": "2019-09-18",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13688",
+    "issues": [
+      "995964"
+    ],
+    "components": [
+      "media"
+    ],
+    "impacts": [
+      "Use-after-free in media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f33b0b8907693ef8401f631ab4c3fe7424c84aae"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1784726"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.90 - 2019-09-18",
+        "date": "2019-09-18",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5870",
+    "issues": [
+      "999311"
+    ],
+    "components": [
+      "media"
+    ],
+    "impacts": [
+      "Use-after-free in media"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b7b305f3389017cc42e2cfac6e7a319f42d5bde3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1777139"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13766",
+    "issues": [
+      "989969"
+    ],
+    "components": [
+      "accessibility"
+    ],
+    "impacts": [
+      "Use-after-free in accessibility"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7e51f3dd2320cbcbc87352d963e4db5b3d104ded"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1753378"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5871",
+    "issues": [
+      "990570"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Heap overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/9136a0421850f7741ed96e5bdcf45cd0cda4482e"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/234576"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5872",
+    "issues": [
+      "981492"
+    ],
+    "components": [
+      "Mojo"
+    ],
+    "impacts": [
+      "Use-after-free in Mojo"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/cfd44efa92afda3eb1944ae2f862bd444553a78c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1744375"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5873",
+    "issues": [
+      "989497"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL bar spoofing on iOS"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0612701f131ea3e367c17e425ad9a85d23c0512c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1730558"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5874",
+    "issues": [
+      "989797"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "External URIs may trigger other browsers"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/902f802b63e8291c44f25af5ce0b903ca7aec20f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1733510"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5875",
+    "issues": [
+      "979443"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL bar spoof via download redirect"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6d7c9ec2923a71d3f9acb7fdd019a5e56f44c09b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1768825"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5876",
+    "issues": [
+      "997190"
+    ],
+    "components": [
+      "media"
+    ],
+    "impacts": [
+      "Use-after-free in media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e30383d507bb7f94a42a32c42d98ff2dd4811166"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1769180"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5877",
+    "issues": [
+      "999310"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out-of-bounds access in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/bdcc7502cb01bcf1bd3300573be6c1352b8cfd72"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1776092"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5878",
+    "issues": [
+      "1000217"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use-after-free in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/d8164d590662d90bd3991926133751747ae99bfe"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13691",
+    "issues": [
+      "966914"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Omnibox spoof"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/948742761f636702c927b243046836cceeb050fd"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1751205"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13692",
+    "issues": [
+      "991888"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "SOP bypass"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1bb21e333978666d8a67593bd267a4f88df90b2a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1763628"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5879",
+    "issues": [
+      "986043"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Extensions can read some local files"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8c3e2c3c1fd30b3fcc4dff17e33e4a00c09438bf"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1742547"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5880",
+    "issues": [
+      "831725"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "SameSite cookie bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d154e1e7cfe7cb505dff0ac7a985c830309a092c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1635862"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5881",
+    "issues": [
+      "980816"
+    ],
+    "components": [
+      "SwiftShader"
+    ],
+    "impacts": [
+      "Arbitrary read in SwiftShader"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://swiftshader.googlesource.com/SwiftShader/+/1d4f5775ee060ce5c7471261dbf701b36b3180af"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13659",
+    "issues": [
+      "868846"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL spoof"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a6429414c3cb6f719e621968a9ab38a63ee3eef1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1717494"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13660",
+    "issues": [
+      "882363"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Full screen notification overlap"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/734edf88b49c56ba9ccfaccdeb3171fad6f6c0b8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1668368"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13661",
+    "issues": [
+      "882812"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Full screen notification spoof"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ced52b64ad98944dc3881a230612c18dace05790"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1753592"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13662",
+    "issues": [
+      "967780"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSP bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/81fe93a5eb431f0794eb778b3d9778689c3dfd20"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1685093"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13663",
+    "issues": [
+      "863661"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "IDN spoof"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/42a0034a20fd53a7b56aa8e65bb6fc4006bf680e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1659678"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13664",
+    "issues": [
+      "915538"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSRF bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2a2a89d6e8d77d5488107d071983c1f66dd4c07e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1761051"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13665",
+    "issues": [
+      "959640"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple file download protection bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/dc5ed1036ef464b0bbc6575c9ac518e3997808ea"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1627209"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13666",
+    "issues": [
+      "960305"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Side channel using storage size estimate"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13667",
+    "issues": [
+      "973056"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URI bar spoof when using external app URIs"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13668",
+    "issues": [
+      "986393"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Global window leak via console"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/a5fd60e15a3ed1cf5bf6deeed791e5dc5a40126f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1741664"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13669",
+    "issues": [
+      "968451"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "HTTP authentication spoof"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13670",
+    "issues": [
+      "980891"
+    ],
+    "components": [
+      "regex"
+    ],
+    "impacts": [
+      "V8 memory corruption in regex"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/1b06c23b14107f3fc11c180f8d9693d0d35e61c7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1691907"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13671",
+    "issues": [
+      "696454"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Dialog box fails to show origin"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2fefc4bd0b63b9be05846fddaaf47047f103544c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/928828"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13672",
+    "issues": [
+      "965067"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Incorrect security UI in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/20b8787d4c3d6f8fb58e5911b35c7dedb88e47c7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1661502"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13673",
+    "issues": [
+      "997925"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin information leak using devtools"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/7dad47c69303ce7b100c36a45deb3f68e1bc59b8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1776093"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-25154",
+    "issues": [
+      "40094752"
+    ],
+    "components": [
+      "iframe"
+    ],
+    "impacts": [
+      "Inappropriate implementation in iframe"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13674",
+    "issues": [
+      "896533"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "IDN spoofing"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8fe27d03e5e8827f7b4cbc0fedcbd1d4d1c851ee"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1677554"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13675",
+    "issues": [
+      "929578"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Extensions can be disabled by trailing slash"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0c209164bcc1647d09568aaa27290e0490de2bfb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1628635"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13676",
+    "issues": [
+      "875178"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google URI shown for certificate warning"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13677",
+    "issues": [
+      "939108"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Chrome web store origin needs to be isolated"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/81d2a29e67041bdd078dfc3b1dbe0f83159c1338"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1698999"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13678",
+    "issues": [
+      "946633"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Download dialog spoofing"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13679",
+    "issues": [
+      "968914"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "User gesture needed for printing"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/2021804f1b414c97667c03d7ab19daf66f6a19ef"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13680",
+    "issues": [
+      "969684"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "IP address spoofing to servers"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/26cf55a65b24b25def0690a8f8cda954e01d9eb3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1680926"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13681",
+    "issues": [
+      "970378"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bypass on download restrictions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/357184a997a266bc2a1c4e7a2ff21122f1c4c004"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1657031"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13682",
+    "issues": [
+      "971917"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Site isolation bypass"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5ee1de5da38b1f1cf5ed6defec5c578b9cb4c971"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1652756"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13683",
+    "issues": [
+      "987502"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Exceptions leaked by devtools"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/a5fd60e15a3ed1cf5bf6deeed791e5dc5a40126f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1741664"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 77.0.3865.75 - 2019-09-10",
+        "date": "2019-09-10",
+        "advisory": "https://chromereleases.googleblog.com/2019/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5869",
+    "issues": [
+      "978793"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Use-after-free in Blink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2df8ea19c5bba87209e452cea8473c05ea7d5250"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1744642"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.132 - 2019-08-26",
+        "date": "2019-08-26",
+        "advisory": "https://chromereleases.googleblog.com/2019/08/stable-channel-update-for-desktop_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5868",
+    "issues": [
+      "983867"
+    ],
+    "components": [
+      "PDFium ExecuteFieldAction"
+    ],
+    "impacts": [
+      "Use-after-free in PDFium ExecuteFieldAction"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/9d03368411ccb46b1e39693f9d1723a9b2f34dd7"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/57854"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.100 - 2019-08-06",
+        "date": "2019-08-06",
+        "advisory": "https://chromereleases.googleblog.com/2019/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5867",
+    "issues": [
+      "984344"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out-of-bounds read in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/b06a134c24c6dbcf7e3cf3bea90753c751508189"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1708474"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.100 - 2019-08-06",
+        "date": "2019-08-06",
+        "advisory": "https://chromereleases.googleblog.com/2019/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5850",
+    "issues": [
+      "977462"
+    ],
+    "components": [
+      "offline page fetcher"
+    ],
+    "impacts": [
+      "Use-after-free in offline page fetcher"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2914cfb4789e72ba5318f1aae06be36b0eed6c2b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1679551"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5851",
+    "issues": [
+      "977107"
+    ],
+    "components": [
+      "offline audio context"
+    ],
+    "impacts": [
+      "Use-after-poison in offline audio context"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2e0071db3e8af7c47a9962353913ffd7b7436e13"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1693163"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5853",
+    "issues": [
+      "976627"
+    ],
+    "components": [
+      "regexp length check"
+    ],
+    "impacts": [
+      "Memory corruption in regexp length check"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/4c156936e8929ae3ba546dcd290987985de925c8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1674027"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5859",
+    "issues": [
+      "959438"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Some URIs can load alternative browsers"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f70c852a6c30fdc989b8f371e2a21128690776ac"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1607131"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5860",
+    "issues": [
+      "956947"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use-after-free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/6ab92c0dbcb75b7f769e58cd56ce5ec789cb3095"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/53670"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5855",
+    "issues": [
+      "964872"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Integer overflow in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/782c5be63d0c4ba9a923a2b40241b003cdc25c18"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/55400"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5856",
+    "issues": [
+      "964245"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Insufficient checks on filesystem: URI permissions"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d8fb84f4bb703bd314c62be2bfbe876330bea1d3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1635876"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5865",
+    "issues": [
+      "973103"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Site isolation bypass from compromised renderer"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/eb88b44f8e65531bf5a7176bacd3088af7a75fce"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1659194"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5852",
+    "issues": [
+      "976713"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Object leak of utility functions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/f3b302193c0ea69ac908115a2da46d13f4ab1fbc"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1680544"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5854",
+    "issues": [
+      "966263"
+    ],
+    "components": [
+      "PDFium text rendering"
+    ],
+    "impacts": [
+      "Integer overflow in PDFium text rendering"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/7e3d240573fa3fb8c73f4ef1c4e258485e7bb054"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/55351"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5857",
+    "issues": [
+      "961237"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Comparison of -0 and null yields crash"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/210856603f3125bfd0c6d4370dd6e3a7a3946a84"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1609538"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5858",
+    "issues": [
+      "960209"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Insufficient filtering of Open URL service parameters"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6fef022129a480e8259d52b0b30923128f81c613"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1611910"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5861",
+    "issues": [
+      "951525"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Click location incorrectly checked"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/497840011525b41c4fc51397eddceb42d67c84ae"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1578100"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5862",
+    "issues": [
+      "946260"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "AppCache not robust to compromised renderers"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4942308a0655f3722617424b63b85869d2696802"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1582310"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5864",
+    "issues": [
+      "936900"
+    ],
+    "components": [
+      "CORS for extensions"
+    ],
+    "impacts": [
+      "Insufficient port filtering in CORS for extensions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ea2d90b8198ef3112b272ce84df1dcad04632381"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1616708"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 76.0.3809.87 - 2019-07-30",
+        "date": "2019-07-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5847",
+    "issues": [
+      "972921"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "V8 sealed/frozen elements cause crash"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/77476cb278a2e82de8779000b13206645c6ee02f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1667006"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.142 - 2019-07-15",
+        "date": "2019-07-15",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5848",
+    "issues": [
+      "951487"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Font sizes may expose sensitive information"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/005563ec0a7e7b8b6d4b4bc20702f4eb900d128d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1670897"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.142 - 2019-07-15",
+        "date": "2019-07-15",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5866",
+    "issues": [
+      "978382"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Incorrect heap object handling in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/97caa540a7cdafaeb3f8310d06ead8338ee0ff9d"
+    ],
+    "references": [
+      "https://codereview.chromium.org/1693010"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.142 - 2019-07-15",
+        "date": "2019-07-15",
+        "advisory": "https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5842",
+    "issues": [
+      "961413"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Use-after-free in Blink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/89afbe31dd09039cbe2ab744bd16031bba47ba3b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1638207"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.90 - 2019-06-13",
+        "date": "2019-06-13",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13689",
+    "issues": [
+      "960109"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Inappropriate implementation in OS in Google Chrome on ChromeOS prior to 75.0.3770.80 allowed a remote attacker to perform arbitrary read/write via a malicious file"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5828",
+    "issues": [
+      "956597"
+    ],
+    "components": [
+      "ServiceWorker"
+    ],
+    "impacts": [
+      "Use after free in ServiceWorker"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/761d65ebcac0cdb730fd27b87e207201ac38e3b4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1588682"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5829",
+    "issues": [
+      "958533"
+    ],
+    "components": [
+      "Download Manager"
+    ],
+    "impacts": [
+      "Use after free in Download Manager"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/17368442aec0f48859a3561ae5e441175c7041ba"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1591485"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5841",
+    "issues": [
+      "969588"
+    ],
+    "components": [
+      "JavaScript"
+    ],
+    "impacts": [
+      "Out of bounds memory access in JavaScript"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13690",
+    "issues": [
+      "960111"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Inappropriate implementation in OS in Google Chrome on ChromeOS prior to 75.0.3770.80 allowed a remote attacker to perform OS-level privilege escalation via a malicious file"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5830",
+    "issues": [
+      "665766"
+    ],
+    "components": [
+      "CORS"
+    ],
+    "impacts": [
+      "Incorrectly credentialed requests in CORS"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fc9cdb626c7a9b95d429c88c215e9e7bba18fe55"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/583207"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5831",
+    "issues": [
+      "950328"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Incorrect map processing in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/5ef88462f9ea36537933d9c10d2f6652982aa689"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1559867"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5832",
+    "issues": [
+      "959390"
+    ],
+    "components": [
+      "XHR"
+    ],
+    "impacts": [
+      "Incorrect CORS handling in XHR"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/08cc019f3f8c86d24330b4e3770bc2674000937c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1598949"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5833",
+    "issues": [
+      "945067"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Inconsistent security UI placement"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/472688b229fb8193756bda744e107512ffcfac2c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1565445"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5834",
+    "issues": [
+      "962368"
+    ],
+    "components": [
+      "Omnibox on iOS"
+    ],
+    "impacts": [
+      "URL spoof in Omnibox on iOS"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/df499b7e59a62b038678500112da30a21a5536a0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1613926"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5835",
+    "issues": [
+      "939239"
+    ],
+    "components": [
+      "Swiftshader"
+    ],
+    "impacts": [
+      "Out of bounds read in Swiftshader"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://swiftshader.googlesource.com/SwiftShader/+/d2b1d2f936eec56edf753735dc8d6d024ce841d6"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5836",
+    "issues": [
+      "947342"
+    ],
+    "components": [
+      "Angle"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Angle"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/e4458b7bb63a94149ef04a6d00391bb549945cee"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/1558671"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5837",
+    "issues": [
+      "918293"
+    ],
+    "components": [
+      "Appcache"
+    ],
+    "impacts": [
+      "Cross-origin resources size disclosure in Appcache"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/85b389caa7d725cdd31f59e9a2b79ff54804b7b7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1488059"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5849",
+    "issues": [
+      "954891"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Out-of-bounds read in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/a5ef39726a7b8e54d295aa8336e7d874bc33f436"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/211602"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5838",
+    "issues": [
+      "893087"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Overly permissive tab access in Extensions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0660e08731fd42076d7242068e9eaed1482b14d5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1330689"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5839",
+    "issues": [
+      "925614"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Incorrect handling of certain code points in Blink"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/19b1e5e4e1914b5b7464062ec300b817d2bac53d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1551917"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5840",
+    "issues": [
+      "951782"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Popup blocker bypass"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 75.0.3770.80 - 2019-06-04",
+        "date": "2019-06-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5825",
+    "issues": [
+      "941743"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out-of-bounds write in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/96de5eeba9b461a2d405dcfa448901c9582f3f07"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1526018",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2019-5825"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.131 - 2019-04-30",
+        "date": "2019-04-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5826",
+    "issues": [
+      "941746"
+    ],
+    "components": [
+      "IndexedDB"
+    ],
+    "impacts": [
+      "Use-after-free in IndexedDB"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/eaf2e8bce3855d362e53034bd83f0e3aff8714e4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1522330"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.131 - 2019-04-30",
+        "date": "2019-04-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5827",
+    "issues": [
+      "952406"
+    ],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Out-of-bounds access in SQLite"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/517ac71c9ee27f856f9becde8abea7d1604af9d4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1568152"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.131 - 2019-04-30",
+        "date": "2019-04-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5824",
+    "issues": [
+      "948564"
+    ],
+    "components": [
+      "media player"
+    ],
+    "impacts": [
+      "Parameter passing error in media player"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/cfb022640b5eec337b06f88a485487dc92ca1ac1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1569113"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.131 - 2019-04-30",
+        "date": "2019-04-30",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5805",
+    "issues": [
+      "913320"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/9384947f47f28811e7b15b0c267e89a277d24880"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/51451"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5806",
+    "issues": [
+      "943087"
+    ],
+    "components": [
+      "Angle"
+    ],
+    "impacts": [
+      "Integer overflow in Angle"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/4967de7251e63fcb8846928bb6de65e46d0abd8a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/1531374"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5807",
+    "issues": [
+      "945644"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Memory corruption in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/1ec7ffedc85a1868a25b758147d8acc0c398bd72"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1545229"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5808",
+    "issues": [
+      "947029"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Use after free in Blink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/09f046d4a935c739f364c531c3b0059121e8a98e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1556653"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5809",
+    "issues": [
+      "941008"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Use after free in Blink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4a3482693491ac6bb3dd27d591efa3de1d1f1fcf"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1520509"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5843",
+    "issues": [
+      "939316"
+    ],
+    "components": [
+      "JavaScript"
+    ],
+    "impacts": [
+      "Out of bounds memory access in JavaScript"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/d62cd2f7454507d71704970df7547a3046ea7191"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5810",
+    "issues": [
+      "916838"
+    ],
+    "components": [
+      "Autofill"
+    ],
+    "impacts": [
+      "User information disclosure in Autofill"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/005563ec0a7e7b8b6d4b4bc20702f4eb900d128d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1670897"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5811",
+    "issues": [
+      "771815"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "CORS bypass in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d1cc665d41ef1138e359acef335d16f055e497f3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1438775"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5812",
+    "issues": [
+      "925598"
+    ],
+    "components": [
+      "Omnibox on iOS"
+    ],
+    "impacts": [
+      "URL spoof in Omnibox on iOS"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b40348af225a6c6bbbc85317437a315df6554f76"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1489238"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5813",
+    "issues": [
+      "942699"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds read in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/c4eae87a1a475bb2821725642c522f941b9472c9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1532325"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5814",
+    "issues": [
+      "930057"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "CORS bypass in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/02c469f444a7e6a69e82d4301a0272435ce6be1a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1474546"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5815",
+    "issues": [],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5816",
+    "issues": [
+      "940245"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Exploit persistence extension on Android"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/37a0e90a956194a066dd31edd5b5ac5045701d31"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1516284"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5817",
+    "issues": [
+      "943709"
+    ],
+    "components": [
+      "Angle on Windows"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Angle on Windows"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/0719a88e7f248f5e9d46e54f73c182ed7fb1b5c5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/1548441"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5818",
+    "issues": [
+      "929962"
+    ],
+    "components": [
+      "media reader"
+    ],
+    "impacts": [
+      "Uninitialized value in media reader"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/929f77d4173022a731ae91218ce6894d20f87f35"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1481085"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5819",
+    "issues": [
+      "919356"
+    ],
+    "components": [
+      "developer tools"
+    ],
+    "impacts": [
+      "Incorrect escaping in developer tools"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0745e0e497bd0c9fd422c824eca50e91abe333c5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1437265"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5820",
+    "issues": [
+      "919635"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Integer overflow in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/10079613b6b305a11970d1ba2615ca7a1a5c67e9"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/50130"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5821",
+    "issues": [
+      "919640"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Integer overflow in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/96829d211d4005fb50d4d50a73ab6abcf41b664a"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/50150"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5822",
+    "issues": [
+      "926105"
+    ],
+    "components": [
+      "download manager"
+    ],
+    "impacts": [
+      "CORS bypass in download manager"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2f81d000fdb5331121cba7ff81dfaaec25b520a5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1454962"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5823",
+    "issues": [
+      "930154"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Forced navigation from service worker"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e8bf23bbbc3976d6a3418a7298a39bbf35c7beb3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1477454"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 74.0.3729.108 - 2019-04-23",
+        "date": "2019-04-23",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop_23.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13698",
+    "issues": [
+      "944971"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "OOB access in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/2ee43006abe63e335f08a74a226bea9ab25cd03a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1541477"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.103 - 2019-04-04",
+        "date": "2019-04-04",
+        "advisory": "https://chromereleases.googleblog.com/2019/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5787",
+    "issues": [
+      "913964"
+    ],
+    "components": [
+      "Canvas"
+    ],
+    "impacts": [
+      "Use after free in Canvas"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6a7063ae61cf031630b48bdcdb09863ffc199962"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1489175"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5788",
+    "issues": [
+      "925864"
+    ],
+    "components": [
+      "FileAPI"
+    ],
+    "impacts": [
+      "Use after free in FileAPI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b38064dbb21aaf32151073dcb7d594b240c68f73"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1441498"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5789",
+    "issues": [
+      "921581"
+    ],
+    "components": [
+      "WebMIDI"
+    ],
+    "impacts": [
+      "Use after free in WebMIDI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c3fe3dc27d10a53a54bb5231b6fce07318af952f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1449483"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5790",
+    "issues": [
+      "914736"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Heap buffer overflow in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/c7410e8ccff855fdb1a1a0a0c6c2690716a96548"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5791",
+    "issues": [
+      "926651"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/03a5fd94fcc84fa4f57989bb0ea6fb38740d0dd8"
+    ],
+    "references": [
+      "https://codereview.chromium.org/1503378"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5792",
+    "issues": [
+      "914983"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Integer overflow in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/3548a6b6fbd37b727a2c0a5fac2a6b22ddef92d5"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/50112"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5793",
+    "issues": [
+      "937487"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Excessive permissions for private API in Extensions"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1b661f83324b837ac34725c639d998d6ff23ff1d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1497631"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5794",
+    "issues": [
+      "935175"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Security UI spoofing"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/56b512399a5c2221ba4812f5170f3f8dc352cd74"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1488152"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5795",
+    "issues": [
+      "919643"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Integer overflow in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/a7eba4c47da193c9415356ac48a946556b747448"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/50071"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5796",
+    "issues": [
+      "918861"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Race condition in Extensions"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5bb223676defeba9c44a5ce42460c86e24561e73"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1401451"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5797",
+    "issues": [
+      "916523"
+    ],
+    "components": [
+      "DOMStorage"
+    ],
+    "impacts": [
+      "Race condition in DOMStorage"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ba169c14aa9cc2efd708a878ae21ff34f3898fe0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1401604"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5798",
+    "issues": [
+      "883596"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Out of bounds read in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5799",
+    "issues": [
+      "905301"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSP bypass with blob URL"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/108147dfd1ea159fd3632ef92ccc4ab8952980c7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1314633"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5800",
+    "issues": [
+      "894228"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSP bypass with blob URL"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/108147dfd1ea159fd3632ef92ccc4ab8952980c7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1314633"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5801",
+    "issues": [
+      "921390"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Incorrect Omnibox display on iOS"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/df5b958678c91506562ccea5088ebefe473fc785"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1434285"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5802",
+    "issues": [
+      "632514"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Security UI spoofing"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6e845755633a4fd21c5a2492cc9b587f0248f7f3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1378587"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5844",
+    "issues": [
+      "915206"
+    ],
+    "components": [
+      "SwiftShader"
+    ],
+    "impacts": [
+      "Out of bounds access in SwiftShader"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://swiftshader.googlesource.com/SwiftShader/+/48d47a4912684bfa4d23d3cdaab60046bf3d0468"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5845",
+    "issues": [
+      "915197"
+    ],
+    "components": [
+      "SwiftShader"
+    ],
+    "impacts": [
+      "Out of bounds access in SwiftShader"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://swiftshader.googlesource.com/SwiftShader/+/48d47a4912684bfa4d23d3cdaab60046bf3d0468"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5846",
+    "issues": [
+      "915218"
+    ],
+    "components": [
+      "SwiftShader"
+    ],
+    "impacts": [
+      "Out of bounds access in SwiftShader"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://swiftshader.googlesource.com/SwiftShader/+/48d47a4912684bfa4d23d3cdaab60046bf3d0468"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5803",
+    "issues": [
+      "909865"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSP bypass with Javascript URLs'"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0e3b0c22a5c596bdc24a391b3f02952c1c3e4f1b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1359823"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5804",
+    "issues": [
+      "933004"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Command line command injection on Windows"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/08965161257ab9aeef9a3548c1cd1a44525dc562"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1481210"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 73.0.3683.75 - 2019-03-12",
+        "date": "2019-03-12",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5786",
+    "issues": [
+      "936448"
+    ],
+    "components": [
+      "FileReader"
+    ],
+    "impacts": [
+      "Use-after-free in FileReader"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ba9748e78ec7e9c0d594e7edf7b2c07ea2a90449"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1492873"
+    ],
+    "releases": [
+      {
+        "name": "Chrome for Android 72.0.3626.121 - 2019-03-01",
+        "date": "2019-03-01",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/chrome-for-android-update.html"
+      },
+      {
+        "name": "Chrome 72.0.3626.121 - 2019-03-01",
+        "date": "2019-03-01",
+        "advisory": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5784",
+    "issues": [
+      "915975"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/19b1538299c4c4d1f1838598eb5869c26c4f7917"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.96 - 2019-02-06",
+        "date": "2019-02-06",
+        "advisory": "https://chromereleases.googleblog.com/2019/02/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5754",
+    "issues": [
+      "914497"
+    ],
+    "components": [
+      "QUIC Networking"
+    ],
+    "impacts": [
+      "Inappropriate implementation in QUIC Networking"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fd2335678e96c34d14f4b20f0d9613dfbd1ccdb4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1417356"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5755",
+    "issues": [
+      "913296"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/e3c923962677908c183121644c945777cdb31570"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5756",
+    "issues": [
+      "895152"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/d2e27d660a96080882e43825fb4b5d03e8a4d05a"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/44050"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5757",
+    "issues": [
+      "915469"
+    ],
+    "components": [
+      "SVG"
+    ],
+    "impacts": [
+      "Type Confusion in SVG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/032c3339bfb454c65ce38e7eafe49a54bac83073"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1382494"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5758",
+    "issues": [
+      "913970"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Use after free in Blink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/419c4bfbfb94849ed30dcab7c3aaf67afe238b27"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1374511"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5759",
+    "issues": [
+      "912211"
+    ],
+    "components": [
+      "HTML select elements"
+    ],
+    "impacts": [
+      "Use after free in HTML select elements"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5405341d5cc268a0b2ff0678bd78ddda0892e7ea"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1381325"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5760",
+    "issues": [
+      "912074"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Use after free in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3514a77e7fa2e5b8bfe5d98af22964bbd69d680f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1411916"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5761",
+    "issues": [
+      "904714"
+    ],
+    "components": [
+      "SwiftShader"
+    ],
+    "impacts": [
+      "Use after free in SwiftShader"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://swiftshader.googlesource.com/SwiftShader/+/3fc6893c8b24c0490ce90dc427b781732a98ff38"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5762",
+    "issues": [
+      "900552"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/9cdf613ce26b3bcdc566ae2f50ddb91ed9061836"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/44970"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5763",
+    "issues": [
+      "914731"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Insufficient validation of untrusted input in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/8494c583ca1daf1208d272db038c1cee727548a8"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5764",
+    "issues": [
+      "913246"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Use after free in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/971a85b22c834e6fb803d31a1417833aecfcb75e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1391410"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5765",
+    "issues": [
+      "922627"
+    ],
+    "components": [
+      "the browser"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in the browser"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f68b18e1ec1cadb432998d3ccc084e0a8c1ae5cd"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1416171"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5782",
+    "issues": [
+      "906043"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Inappropriate implementation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/4e3a17d0408627517d4a81b3bf5daf85e416e9ac"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5785",
+    "issues": [
+      "899689"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Stack buffer overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/26d8d77aae56c20b7174ac06056c1e5ec7903e6b"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/173080"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13768",
+    "issues": [
+      "922677"
+    ],
+    "components": [
+      "FileAPI"
+    ],
+    "impacts": [
+      "Use after free in FileAPI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f045c704568e9cf6279b3cbccbec6d86c35f8a13"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1416570"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5766",
+    "issues": [
+      "907047"
+    ],
+    "components": [
+      "Canvas"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Canvas"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/889ddafc7932e318d1f213bb4e0926e71cb94657"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1347953"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5767",
+    "issues": [
+      "902427"
+    ],
+    "components": [
+      "WebAPKs"
+    ],
+    "impacts": [
+      "Incorrect security UI in WebAPKs"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/332bf6886f8cb1a826f3dcfe46804bd4528cd434"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1359818"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5768",
+    "issues": [
+      "805557"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in DevTools"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7aaf7e9031ee16b9d4212fa0bc03d94713b3261b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1334847"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5769",
+    "issues": [
+      "913975"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Insufficient validation of untrusted input in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8c7054864ea9b70015351b17376b8515296efb8f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1374630"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5770",
+    "issues": [
+      "908749"
+    ],
+    "components": [
+      "WebGL"
+    ],
+    "impacts": [
+      "Heap buffer overflow in WebGL"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5f8761dd073c4ddd3b5aea8d95a2717e7b6e36e5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1354571"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5771",
+    "issues": [
+      "904265"
+    ],
+    "components": [
+      "SwiftShader"
+    ],
+    "impacts": [
+      "Heap buffer overflow in SwiftShader"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5772",
+    "issues": [
+      "908292"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5773",
+    "issues": [
+      "917668"
+    ],
+    "components": [
+      "IndexedDB"
+    ],
+    "impacts": [
+      "Insufficient data validation in IndexedDB"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5774",
+    "issues": [
+      "904182"
+    ],
+    "components": [
+      "SafeBrowsing"
+    ],
+    "impacts": [
+      "Insufficient validation of untrusted input in SafeBrowsing"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b32471d5abb3b3a4fe56e1dd79871400b51a0cca"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1344552"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5775",
+    "issues": [
+      "896722"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/af38308b7112bdfbc0cfcc27f966314accc471d0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1295179"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5776",
+    "issues": [
+      "863663"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4d666348de3f67d5cb7b5401f0f69f6b9d3719eb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1286825"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5777",
+    "issues": [
+      "849421"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/af38308b7112bdfbc0cfcc27f966314accc471d0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1295179"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5778",
+    "issues": [
+      "918470"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Extensions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e13eb21898c7eba584f680e3d17ca1b9e28bc505"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1396561"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5779",
+    "issues": [
+      "904219"
+    ],
+    "components": [
+      "ServiceWorker"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in ServiceWorker"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/18c5c5dcef9cfccff64f0c23f920ef22822271a9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1345686"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5780",
+    "issues": [
+      "891697"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0328261c41b1b7495e1d4d4cf958f41a08aff38b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1308771"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5781",
+    "issues": [
+      "896725"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Insufficient policy enforcement in Omnibox"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/631450dbc524bca6809145ca6e08491704ad64b8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1297638"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-5783",
+    "issues": [
+      "895081"
+    ],
+    "components": [
+      "DevTools"
+    ],
+    "impacts": [
+      "Insufficient validation of untrusted input in DevTools"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0238c6b5064859f39ff5f6d3265712093934b2a7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/1286758"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2019-13684",
+    "issues": [
+      "837936"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Timing attack"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 72.0.3626.81 - 2019-01-29",
+        "date": "2019-01-29",
+        "advisory": "https://chromereleases.googleblog.com/2019/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  }
+]

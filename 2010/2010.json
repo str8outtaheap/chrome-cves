@@ -1,0 +1,3855 @@
+[
+  {
+    "id": "CVE-2010-4574",
+    "issues": [
+      "56449"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Pickle::Pickle function in base/pickle.cc"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.224 - 2010-12-13",
+        "date": "2010-12-13",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4577",
+    "issues": [
+      "63866"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The CSSParser::parseFontFaceSrc function in WebCore/css/CSSParser.cpp in WebKit,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.224 - 2010-12-13",
+        "date": "2010-12-13",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4578",
+    "issues": [
+      "64959"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 8.0.552.224 and Chrome OS before 8.0.552.343 do not properly perform cursor handling, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via unknown vectors that lead to \"stale pointers.\""
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.224 - 2010-12-13",
+        "date": "2010-12-13",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4575",
+    "issues": [
+      "60761"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The ThemeInstalledInfoBarDelegate::Observe function in browser/extensions/theme_installed_infobar_delegate.cc"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/eb68c596f0883a539386eed7a11c8a3da0aa529a"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.224 - 2010-12-13",
+        "date": "2010-12-13",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4576",
+    "issues": [
+      "63529"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "browser/worker_host/message_port_dispatcher.cc"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1c109b24f0415aed8f313c9fcce7514f37022c06"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.224 - 2010-12-13",
+        "date": "2010-12-13",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4486",
+    "issues": [
+      "59554"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4487",
+    "issues": [
+      "59817"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Incomplete blacklist vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4490",
+    "issues": [
+      "62127"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 8.0.552.215 allows remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact via malformed video content that triggers an indexing error"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4492",
+    "issues": [
+      "62401"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4494",
+    "issues": [
+      "63444"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Double free vulnerability in libxml2 2.7.8 and other versions,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4482",
+    "issues": [
+      "17655"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4483",
+    "issues": [
+      "55745"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 8.0.552.215 does not properly restrict read access to videos derived from CANVAS elements, which allows remote attackers to bypass the Same Origin Policy and obtain potentially sensitive video data via a crafted web site"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4484",
+    "issues": [
+      "56237"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 8.0.552.215 does not properly handle HTML5 databases, which allows attackers to cause a denial of service (application crash) via unspecified vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4485",
+    "issues": [
+      "58319"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 8.0.552.215 does not properly restrict the generation of file dialogs, which allows remote attackers to cause a denial of service (reduced usability and possible application crash) via a crafted web site"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4488",
+    "issues": [
+      "61701"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 8.0.552.215 does not properly handle HTTP proxy authentication, which allows remote attackers to cause a denial of service (application crash) via unspecified vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4489",
+    "issues": [
+      "61653"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "libvpx,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4491",
+    "issues": [
+      "62168"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 8.0.552.215 does not properly restrict privileged extensions, which allows remote attackers to cause a denial of service (memory corruption) via a crafted extension"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4493",
+    "issues": [
+      "63051"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 8.0.552.215 - 2010-12-02",
+        "date": "2010-12-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/12/stable-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4197",
+    "issues": [
+      "51602"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in WebKit,"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4201",
+    "issues": [
+      "58741"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4202",
+    "issues": [
+      "59320"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple integer overflows"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4203",
+    "issues": [
+      "60055"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebM libvpx (aka the VP8 Codec SDK) before 0.9.5,"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4204",
+    "issues": [
+      "60238"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit,"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4205",
+    "issues": [
+      "60327",
+      "60769",
+      "61255"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 7.0.517.44 does not properly handle the data types of event objects, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4198",
+    "issues": [
+      "55257"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4199",
+    "issues": [
+      "58657"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 7.0.517.44 does not properly perform a cast of an unspecified variable during processing of an SVG use element, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via a crafted SVG document"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4206",
+    "issues": [
+      "60688"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Array index error in the FEBlend::apply function in WebCore/platform/graphics/filters/FEBlend.cpp in WebKit,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4008",
+    "issues": [
+      "58731"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "libxml2 before 2.7.8,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.44 - 2010-11-04",
+        "date": "2010-11-04",
+        "advisory": "https://chromereleases.googleblog.com/2010/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4039",
+    "issues": [
+      "54132"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 7.0.517.41 on Linux does not properly set the PATH environment variable, which has unspecified impact and attack vectors"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4041",
+    "issues": [
+      "54794"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The sandbox implementation"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4042",
+    "issues": [
+      "56451"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 7.0.517.41 does not properly handle element maps, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors related to \"stale elements.\""
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4034",
+    "issues": [
+      "48857"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 7.0.517.41 does not properly handle forms, which allows remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact via a crafted HTML document"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4035",
+    "issues": [
+      "50428"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 7.0.517.41 does not properly perform autofill operations for forms, which allows remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact via a crafted HTML document"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4038",
+    "issues": [
+      "53985"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Web Sockets implementation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4040",
+    "issues": [
+      "54500"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 7.0.517.41 does not properly handle animated GIF images, which allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via a crafted image"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4033",
+    "issues": [
+      "48225",
+      "51727"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 7.0.517.41 does not properly implement the autofill and autocomplete functionality, which allows remote attackers to conduct \"profile spamming\" attacks via unspecified vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4036",
+    "issues": [
+      "51680"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 7.0.517.41 does not properly handle the unloading of a page, which allows remote attackers to spoof URLs via unspecified vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-4037",
+    "issues": [
+      "53002"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 7.0.517.41 - 2010-10-19",
+        "date": "2010-10-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3729",
+    "issues": [
+      "55119"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The SPDY protocol implementation"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.62 - 2010-09-17",
+        "date": "2010-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1822",
+    "issues": [
+      "55114"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit, as used in Apple Safari before 4.1.3 and 5.0.x before 5.0.3 and Google Chrome before 6.0.472.62, does not properly perform a cast of an unspecified variable, which allows remote attackers to execute arbitrary code or cause a denial of service (application crash) via an SVG element in a non-SVG document"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.62 - 2010-09-17",
+        "date": "2010-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3730",
+    "issues": [
+      "55350"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.62 does not properly use information about the origin of a document to manage properties, which allows remote attackers to have an unspecified impact via a crafted web site, related to a \"property pollution\" issue"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.62 - 2010-09-17",
+        "date": "2010-09-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_17.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3416",
+    "issues": [
+      "53930"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.59 on Linux does not properly implement the Khmer locale, which allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1823",
+    "issues": [
+      "50250"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in WebKit before r65958,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1824",
+    "issues": [
+      "50712"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in WebKit, as used in Apple iTunes before 10.2 on Windows, Apple Safari, and Google Chrome before 6.0.472.59, allows remote attackers to execute arbitrary code or cause a denial of service via vectors related to SVG styles, the DOM tree, and error messages"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1825",
+    "issues": [
+      "51252"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in WebKit,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3412",
+    "issues": [
+      "51919"
+    ],
+    "components": [
+      "the console implementation"
+    ],
+    "impacts": [
+      "Race condition in the console implementation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3414",
+    "issues": [
+      "45400",
+      "53361"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.59 on Mac OS X does not properly implement file dialogs, which allows attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3415",
+    "issues": [
+      "53394"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.59 does not properly implement Geolocation, which allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3411",
+    "issues": [
+      "51709"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.59 on Linux does not properly handle cursors, which might allow attackers to cause a denial of service (assertion failure) via unspecified vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3413",
+    "issues": [
+      "53176"
+    ],
+    "components": [
+      "the pop-up blocking functionality"
+    ],
+    "impacts": [
+      "Unspecified vulnerability in the pop-up blocking functionality"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3417",
+    "issues": [
+      "54006"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.59 does not prompt the user before granting access to the extension history, which allows attackers to obtain potentially sensitive information via unspecified vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.59 - 2010-09-14",
+        "date": "2010-09-14",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-beta-channel-updates_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3111",
+    "issues": [
+      "51070"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.53 does not properly mitigate an unspecified flaw in the Windows kernel, which has unknown impact and attack vectors, a different vulnerability than CVE-2010-2897"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3249",
+    "issues": [
+      "45659"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.53 does not properly implement SVG filters, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via unknown vectors, related to a \"stale pointer\" issue"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3252",
+    "issues": [
+      "50386"
+    ],
+    "components": [
+      "the Notifications presenter"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in the Notifications presenter"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3253",
+    "issues": [
+      "50839"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The implementation of notification permissions"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3254",
+    "issues": [
+      "51630",
+      "51739"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The WebSockets implementation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3255",
+    "issues": [
+      "51653"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.53 and webkitgtk before 1.2.6 do not properly handle counter nodes, which allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3257",
+    "issues": [
+      "52443"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in WebKit, as used in Apple Safari before 4.1.3 and 5.0.x before 5.0.3, Google Chrome before 6.0.472.53, and webkitgtk before 1.2.6, allows remote attackers to execute arbitrary code or cause a denial of service (application crash) via vectors involving element focus"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3258",
+    "issues": [
+      "52682"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The sandbox implementation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3246",
+    "issues": [
+      "34414"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.53 does not properly handle the _blank value for the target attribute of unspecified elements, which allows remote attackers to bypass the pop-up blocker via unknown vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3247",
+    "issues": [
+      "37201"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.53 does not properly restrict the characters in URLs, which allows remote attackers to spoof the appearance of the URL bar via homographic sequences"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3248",
+    "issues": [
+      "41654"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.53 does not properly restrict copying to the clipboard, which has unspecified impact and attack vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3250",
+    "issues": [
+      "45876"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3251",
+    "issues": [
+      "46750",
+      "51846"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The WebSockets implementation"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3256",
+    "issues": [
+      "51727"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 6.0.472.53 does not properly limit the number of stored autocomplete entries, which has unspecified impact and attack vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3259",
+    "issues": [
+      "53001"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit, as used in Apple Safari before 4.1.3 and 5.0.x before 5.0.3, Google Chrome before 6.0.472.53, and webkitgtk before 1.2.6, does not properly restrict read access to images derived from CANVAS elements, which allows remote attackers to bypass the Same Origin Policy and obtain potentially sensitive image data via a crafted web site"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 6.0.472.53 - 2010-09-02",
+        "date": "2010-09-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/09/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3112",
+    "issues": [
+      "45400"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.127 does not properly implement file dialogs, which allows attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.127 - 2010-08-19",
+        "date": "2010-08-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/08/stable-channel-update_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3113",
+    "issues": [
+      "49596"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.127, and webkitgtk before 1.2.5, does not properly handle SVG documents, which allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors related to state changes when using DeleteButtonController"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.127 - 2010-08-19",
+        "date": "2010-08-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/08/stable-channel-update_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3114",
+    "issues": [
+      "49628"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The text-editing implementation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.127 - 2010-08-19",
+        "date": "2010-08-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/08/stable-channel-update_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3116",
+    "issues": [
+      "50515",
+      "51835"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple use-after-free vulnerabilities in WebKit, as used in Apple Safari before 4.1.3 and 5.0.x before 5.0.3, Google Chrome before 5.0.375.127, and webkitgtk before 1.2.6, allow remote attackers to execute arbitrary code or cause a denial of service (application crash) via vectors related to improper handling of MIME types by plug-ins"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.127 - 2010-08-19",
+        "date": "2010-08-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/08/stable-channel-update_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3117",
+    "issues": [
+      "50553"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.127 does not properly implement the notifications feature, which allows remote attackers to cause a denial of service (application crash) and possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.127 - 2010-08-19",
+        "date": "2010-08-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/08/stable-channel-update_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3119",
+    "issues": [
+      "51654"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.127 and webkitgtk before 1.2.6 do not properly support the Ruby language, which allows attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.127 - 2010-08-19",
+        "date": "2010-08-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/08/stable-channel-update_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3120",
+    "issues": [
+      "51670"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.127 does not properly implement the Geolocation feature, which allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.127 - 2010-08-19",
+        "date": "2010-08-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/08/stable-channel-update_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3115",
+    "issues": [
+      "49964"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.127, and webkitgtk before 1.2.6, does not properly implement the history feature, which might allow remote attackers to spoof the address bar via unspecified vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.127 - 2010-08-19",
+        "date": "2010-08-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/08/stable-channel-update_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-3118",
+    "issues": [
+      "51146"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The autosuggest feature in the Omnibox implementation"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.127 - 2010-08-19",
+        "date": "2010-08-19",
+        "advisory": "https://chromereleases.googleblog.com/2010/08/stable-channel-update_19.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2897",
+    "issues": [
+      "48283"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.125 does not properly mitigate an unspecified flaw in the Windows kernel, which has unknown impact and attack vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.125 - 2010-07-26",
+        "date": "2010-07-26",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2898",
+    "issues": [
+      "48733"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.125 does not properly mitigate an unspecified flaw in the GNU C Library, which has unknown impact and attack vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.125 - 2010-07-26",
+        "date": "2010-07-26",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2900",
+    "issues": [
+      "43813"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.125 does not properly handle a large canvas, which has unspecified impact and remote attack vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.125 - 2010-07-26",
+        "date": "2010-07-26",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2901",
+    "issues": [
+      "47866"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The rendering implementation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.125 - 2010-07-26",
+        "date": "2010-07-26",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2902",
+    "issues": [
+      "48284"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The SVG implementation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.125 - 2010-07-26",
+        "date": "2010-07-26",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2903",
+    "issues": [
+      "48597"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.125 performs unexpected truncation and improper eliding of hostnames, which has unspecified impact and remote attack vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.125 - 2010-07-26",
+        "date": "2010-07-26",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2899",
+    "issues": [
+      "42736"
+    ],
+    "components": [
+      "the layout implementation"
+    ],
+    "impacts": [
+      "Unspecified vulnerability in the layout implementation"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.125 - 2010-07-26",
+        "date": "2010-07-26",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1205",
+    "issues": [
+      "45983"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Buffer overflow in pngpread.c in libpng before 1.2.44 and 1.4.x before 1.4.3, as used in progressive applications, might allow remote attackers to execute arbitrary code via a PNG image that triggers an additional data row"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.99 - 2010-07-02",
+        "date": "2010-07-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2646",
+    "issues": [
+      "42575",
+      "42980"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.99 does not properly isolate sandboxed IFRAME elements, which has unspecified impact and remote attack vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.99 - 2010-07-02",
+        "date": "2010-07-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2647",
+    "issues": [
+      "43488"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.99 allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via an invalid SVG document"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.99 - 2010-07-02",
+        "date": "2010-07-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2648",
+    "issues": [
+      "44424"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The implementation of the Unicode Bidirectional Algorithm (aka Bidi algorithm or UBA)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.99 - 2010-07-02",
+        "date": "2010-07-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2650",
+    "issues": [
+      "46575"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.99 - 2010-07-02",
+        "date": "2010-07-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2651",
+    "issues": [
+      "46360"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Cascading Style Sheets (CSS) implementation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.99 - 2010-07-02",
+        "date": "2010-07-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2645",
+    "issues": [
+      "42396"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.99 - 2010-07-02",
+        "date": "2010-07-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2649",
+    "issues": [
+      "45164"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.99 - 2010-07-02",
+        "date": "2010-07-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2652",
+    "issues": [
+      "47056"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.99 does not properly implement modal dialogs, which allows attackers to cause a denial of service (application crash) via unspecified vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.99 - 2010-07-02",
+        "date": "2010-07-02",
+        "advisory": "https://chromereleases.googleblog.com/2010/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1770",
+    "issues": [
+      "43487"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit in Apple Safari before 5.0 on Mac OS X 10.5 through 10.6 and Windows, Apple Safari before 4.1 on Mac OS X 10.4, and Google Chrome before 5.0.375.70 does not properly handle a transformation of a text node that has the IBM1147 character set, which allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption and application crash) via a crafted HTML document containing a BR element, related to a \"type checking issue.\""
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1772",
+    "issues": [
+      "44868"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in page/Geolocation.cpp in WebCore in WebKit before r59859,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1773",
+    "issues": [
+      "44955"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Off-by-one error in the toAlphabetic function in rendering/RenderListMarker.cpp in WebCore in WebKit before r59950,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2296",
+    "issues": [
+      "39985"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The implementation of unspecified DOM methods"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2297",
+    "issues": [
+      "42723"
+    ],
+    "components": [
+      "WebCore in WebKit"
+    ],
+    "impacts": [
+      "rendering/FixedTableLayout.cpp in WebCore in WebKit"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2298",
+    "issues": [
+      "43304"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "browser/renderer_host/database_dispatcher_host.cc"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2299",
+    "issues": [
+      "43307"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Clipboard::DispatchObject function in app/clipboard/clipboard.cc"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2300",
+    "issues": [
+      "43315"
+    ],
+    "components": [
+      "WebCore in WebKit"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in the Element::normalizeAttributes function in dom/Element.cpp in WebCore in WebKit"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2302",
+    "issues": [
+      "44740"
+    ],
+    "components": [
+      "WebCore in WebKit"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in WebCore in WebKit"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2295",
+    "issues": [
+      "15766"
+    ],
+    "components": [
+      "WebCore in WebKit"
+    ],
+    "impacts": [
+      "page/EventHandler.cpp in WebCore in WebKit"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2301",
+    "issues": [
+      "43902"
+    ],
+    "components": [
+      "WebCore in WebKit"
+    ],
+    "impacts": [
+      "Cross-site scripting (XSS) vulnerability in editing/markup.cpp in WebCore in WebKit"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.70 - 2010-06-08",
+        "date": "2010-06-08",
+        "advisory": "https://chromereleases.googleblog.com/2010/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2105",
+    "issues": [
+      "7713"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.55 does not properly follow the Safe Browsing specification's requirements for canonicalization of URLs, which has unspecified impact and remote attack vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.55 - 2010-05-25",
+        "date": "2010-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2107",
+    "issues": [
+      "30079"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.55 - 2010-05-25",
+        "date": "2010-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2108",
+    "issues": [
+      "39740"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.55 - 2010-05-25",
+        "date": "2010-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2109",
+    "issues": [
+      "41469"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.55 - 2010-05-25",
+        "date": "2010-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2110",
+    "issues": [
+      "42228"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 5.0.375.55 does not properly execute JavaScript code in the extension context, which has unspecified impact and remote attack vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.55 - 2010-05-25",
+        "date": "2010-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-2106",
+    "issues": [
+      "16535"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 5.0.375.55 - 2010-05-25",
+        "date": "2010-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1663",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Google URL Parsing Library (aka google-url or GURL)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1064 - 2010-04-27",
+        "date": "2010-04-27",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-bug-and-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1665",
+    "issues": [
+      "42294"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.1.249.1064 does not properly handle fonts, which allows remote attackers to cause a denial of service (memory corruption) and possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1064 - 2010-04-27",
+        "date": "2010-04-27",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-bug-and-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1664",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.1.249.1064 does not properly handle HTML5 media, which allows remote attackers to cause a denial of service (memory corruption) and possibly have unspecified other impact via unknown vectors"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1064 - 2010-04-27",
+        "date": "2010-04-27",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-bug-and-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1500",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.1.249.1059 does not properly support forms, which has unknown impact and attack vectors, related to a \"type confusion error.\""
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1059 - 2010-04-20",
+        "date": "2010-04-20",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1502",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1059 - 2010-04-20",
+        "date": "2010-04-20",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1505",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.1.249.1059 does not prevent pages from loading with the New Tab page's privileges, which has unknown impact and attack vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1059 - 2010-04-20",
+        "date": "2010-04-20",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1506",
+    "issues": [
+      "40635"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Google V8 bindings in Google Chrome before 4.1.249.1059 allow attackers to cause a denial of service (memory corruption) via unknown vectors."
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1059 - 2010-04-20",
+        "date": "2010-04-20",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1503",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-site scripting (XSS) vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1059 - 2010-04-20",
+        "date": "2010-04-20",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1504",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-site scripting (XSS) vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1059 - 2010-04-20",
+        "date": "2010-04-20",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1767",
+    "issues": [
+      "39698"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-site request forgery (CSRF) vulnerability in loader/DocumentThreadableLoader.cpp in WebCore in WebKit before r57041,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1059 - 2010-04-20",
+        "date": "2010-04-20",
+        "advisory": "https://chromereleases.googleblog.com/2010/04/stable-update-security-fixes.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0205",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Denial of service via a libpng decompression bomb"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Dev 5.0.360.0 - 2010-03-26",
+        "date": "2010-03-26",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/dev-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1228",
+    "issues": [
+      "28804",
+      "31880"
+    ],
+    "components": [
+      "the sandbox infrastructure"
+    ],
+    "impacts": [
+      "Multiple race conditions in the sandbox infrastructure"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1229",
+    "issues": [
+      "28804",
+      "31880"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The sandbox infrastructure"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1230",
+    "issues": [
+      "30801",
+      "33445"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.1.249.1036 does not have the expected behavior for attempts to delete Web SQL Databases and clear the Strict Transport Security (STS) state, which has unspecified impact and attack vectors"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1231",
+    "issues": [
+      "33572"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.1.249.1036 processes HTTP headers before invoking the SafeBrowsing feature, which allows remote attackers to have an unspecified impact via crafted headers"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1233",
+    "issues": [
+      "35724"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple integer overflows"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1234",
+    "issues": [
+      "36772"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1237",
+    "issues": [
+      "37061"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 4.1 BETA before 4.1.249.1036 allows remote attackers to cause a denial of service (memory error) or possibly have unspecified other impact via an empty SVG element"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1232",
+    "issues": [
+      "34978"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.1.249.1036 allows remote attackers to cause a denial of service (memory error) or possibly have unspecified other impact via a malformed SVG document"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1235",
+    "issues": [
+      "37007"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unspecified vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1236",
+    "issues": [
+      "37383"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The protocolIs function in platform/KURLGoogle.cpp in WebCore in WebKit before r55822,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.1.249.1036 - 2010-03-17",
+        "date": "2010-03-17",
+        "advisory": "https://chromereleases.googleblog.com/2010/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0645",
+    "issues": [
+      "31009"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple integer overflows in factory.cc in Google V8 before r3560, as used in Google Chrome before 4.0.249.89, allow remote attackers to execute arbitrary code in the Chrome sandbox via crafted use of JavaScript arrays."
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/dddadf9f7e98bad3ce54676c733e32c91050b24a"
+    ],
+    "references": [
+      "https://codereview.chromium.org/525064"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.89 - 2010-02-10",
+        "date": "2010-02-10",
+        "advisory": "https://chromereleases.googleblog.com/2010/02/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0646",
+    "issues": [
+      "31009"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple integer signedness errors in factory.cc in Google V8 before r3560, as used in Google Chrome before 4.0.249.89, allow remote attackers to execute arbitrary code in the Chrome sandbox via crafted use of JavaScript arrays."
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/dddadf9f7e98bad3ce54676c733e32c91050b24a"
+    ],
+    "references": [
+      "https://codereview.chromium.org/525064"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.89 - 2010-02-10",
+        "date": "2010-02-10",
+        "advisory": "https://chromereleases.googleblog.com/2010/02/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0647",
+    "issues": [
+      "31692"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit before r53525,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.89 - 2010-02-10",
+        "date": "2010-02-10",
+        "advisory": "https://chromereleases.googleblog.com/2010/02/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0649",
+    "issues": [
+      "32915"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in the CrossCallParamsEx::CreateFromBuffer function in sandbox/src/crosscall_server.cc"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.89 - 2010-02-10",
+        "date": "2010-02-10",
+        "advisory": "https://chromereleases.googleblog.com/2010/02/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0315",
+    "issues": [
+      "32309"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit before r53607,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.89 - 2010-02-10",
+        "date": "2010-02-10",
+        "advisory": "https://chromereleases.googleblog.com/2010/02/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0556",
+    "issues": [
+      "32718"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "browser/login/login_prompt.cc"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.89 - 2010-02-10",
+        "date": "2010-02-10",
+        "advisory": "https://chromereleases.googleblog.com/2010/02/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0643",
+    "issues": [
+      "12303"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.0.249.89 attempts to make direct connections to web sites when all configured proxy servers are unavailable, which allows remote HTTP servers to obtain potentially sensitive information about the identity of a client user via standard HTTP logging, as demonstrated by a proxy server that was configured for the purpose of anonymity"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.89 - 2010-02-10",
+        "date": "2010-02-10",
+        "advisory": "https://chromereleases.googleblog.com/2010/02/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0644",
+    "issues": [
+      "29914"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.0.249.89, when a SOCKS 5 proxy server is configured, sends DNS queries directly, which allows remote DNS servers to obtain potentially sensitive information about the identity of a client user via request logging, as demonstrated by a proxy server that was configured for the purpose of anonymity"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.89 - 2010-02-10",
+        "date": "2010-02-10",
+        "advisory": "https://chromereleases.googleblog.com/2010/02/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0655",
+    "issues": [
+      "12523"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0657",
+    "issues": [
+      "23693"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.0.249.78 on Windows does not perform the expected encoding, escaping, and quoting for the URL in the --app argument in a desktop shortcut, which allows user-assisted remote attackers to execute arbitrary programs or obtain sensitive information by tricking a user into creating a crafted shortcut"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0658",
+    "issues": [
+      "24071",
+      "24646",
+      "8864"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple integer overflows in Skia,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0659",
+    "issues": [
+      "28566"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The image decoder in WebKit before r52833,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0651",
+    "issues": [
+      "9877"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit before r52784,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0656",
+    "issues": [
+      "20450"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit before r51295,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0660",
+    "issues": [
+      "29920"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 4.0.249.78 sends an https URL in the Referer header of an http request in certain circumstances involving https to http redirection, which allows remote HTTP servers to obtain potentially sensitive information via standard HTTP logging"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0661",
+    "issues": [
+      "30660"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebCore/bindings/v8/custom/V8DOMWindowCustom.cpp in WebKit before r52401,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0662",
+    "issues": [
+      "31307"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The ParamTraits<SkBitmap>::Read function in common/common_param_traits.cc"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0663",
+    "issues": [
+      "31307"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The ParamTraits<SkBitmap>::Read function in common/common_param_traits.cc"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0664",
+    "issues": [
+      "31517"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Stack consumption vulnerability in the ChildProcessSecurityPolicy::CanRequestURL function in browser/child_process_security_policy.cc"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-0650",
+    "issues": [
+      "3275"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit,"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 4.0.249.78 - 2010-01-25",
+        "date": "2010-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2010/01/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2010-1029",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Stack consumption vulnerability in the WebCore::CSSSelector function in WebKit, as used in Apple Safari 4.0.4, Apple Safari on iPhone OS and iPhone OS for iPod touch, and Google Chrome 4.0.249, allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via a STYLE element composed of a large number of *> sequences"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2010-1731",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome on the HTC Hero allows remote attackers to cause a denial of service (application crash) via JavaScript that writes <marquee> sequences in an infinite loop"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2010-1992",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.154.48 executes a mail application in situations where an IFRAME element has a mailto: URL in its SRC attribute, which allows remote attackers to cause a denial of service (excessive application launches) via an HTML document with many IFRAME elements"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2010-2120",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 1.0.154.48 allows remote attackers to cause a denial of service (resource consumption) via JavaScript code containing an infinite loop that creates IFRAME elements for invalid news:// URIs"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2010-3917",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 3.0 does not properly handle XML documents, which allows remote attackers to obtain sensitive information via a crafted web site"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2010-5069",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Cascading Style Sheets (CSS) implementation in Google Chrome 4 does not properly handle the :visited pseudo-class, which allows remote attackers to obtain sensitive information about visited web pages via a crafted HTML document"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2010-5073",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The JavaScript implementation in Google Chrome 4 does not properly restrict the set of values contained in the object returned by the getComputedStyle method, which allows remote attackers to obtain sensitive information about visited web pages by calling this method"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  }
+]

@@ -1,0 +1,4452 @@
+[
+  {
+    "id": "CVE-2017-11215",
+    "issues": [],
+    "components": [
+      "Flash"
+    ],
+    "impacts": [
+      "Use after free in Flash"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 65.0.3325.146 - 2018-03-06",
+        "date": "2018-03-06",
+        "advisory": "https://chromereleases.googleblog.com/2018/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-11225",
+    "issues": [],
+    "components": [
+      "Flash"
+    ],
+    "impacts": [
+      "Use after free in Flash"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 65.0.3325.146 - 2018-03-06",
+        "date": "2018-03-06",
+        "advisory": "https://chromereleases.googleblog.com/2018/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15420",
+    "issues": [
+      "777419"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "URL spoofing in Omnibox"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/56a84aa67bb071a33a48ac1481b555c48e0a9a59"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/733959"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      },
+      {
+        "name": "Chrome 64.0.3282.119 - 2018-01-24",
+        "date": "2018-01-24",
+        "advisory": "https://chromereleases.googleblog.com/2018/01/stable-channel-update-for-desktop_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15429",
+    "issues": [
+      "788453"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "UXSS in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c1cc6f94d740df95281bf77c837d7ee7ff534c2c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/792934"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.108 - 2017-12-14",
+        "date": "2017-12-14",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop_14.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15407",
+    "issues": [
+      "778505"
+    ],
+    "components": [
+      "QUIC"
+    ],
+    "impacts": [
+      "Out of bounds write in QUIC"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a96567f02a0881561c964e5c11afe9c1af17a5f7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/748282"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15408",
+    "issues": [
+      "762374"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Heap buffer overflow in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/56ec0818c3ed195c8de2daba951ddbcb4dc7d7bc"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/13610"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15409",
+    "issues": [
+      "763972"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Out of bounds write in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/2917e0705e16e722e2ca82ff312ad0b88e0b89ec"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/49760"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15410",
+    "issues": [
+      "765921"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/6f960347f8474a202d8dd99063bf8ce584896baf"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/14290"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15411",
+    "issues": [
+      "770148"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/55469aed5acffcce3259d37418ba9e8b8e60d801"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/15190"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15412",
+    "issues": [
+      "727039"
+    ],
+    "components": [
+      "libXML"
+    ],
+    "impacts": [
+      "Use after free in libXML"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15413",
+    "issues": [
+      "766666"
+    ],
+    "components": [
+      "WebAssembly"
+    ],
+    "impacts": [
+      "Type confusion in WebAssembly"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/50ecc42cc744b49d9f26ad8b92325c0a36775407"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15415",
+    "issues": [
+      "765512"
+    ],
+    "components": [
+      "IPC call"
+    ],
+    "impacts": [
+      "Pointer information disclosure in IPC call"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/dc5edc9c05901feeac616c075d0337e634f3a02a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/679441"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15416",
+    "issues": [
+      "779314"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Out of bounds read in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/11bd4bc92f3fe704631e3e6ad1dd1a4351641f7c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/747725"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15417",
+    "issues": [
+      "699028"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Cross origin information disclosure in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15418",
+    "issues": [
+      "765858"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Use of uninitialized value in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/d6c04d9a05c1b4066c09083a673d7d3cf61a3aa6"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/50800"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15419",
+    "issues": [
+      "780312"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Cross origin leak of redirect URL in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fa17c9878dbeebf991b25ac0deb2b4635d85f1b6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/750487"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15422",
+    "issues": [
+      "774382"
+    ],
+    "components": [
+      "ICU"
+    ],
+    "impacts": [
+      "Integer overflow in ICU"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15430",
+    "issues": [
+      "780484"
+    ],
+    "components": [
+      "Chromecast Plugin"
+    ],
+    "impacts": [
+      "Unsafe navigation in Chromecast Plugin"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15423",
+    "issues": [
+      "778101"
+    ],
+    "components": [
+      "BoringSSL"
+    ],
+    "impacts": [
+      "Issue with SPAKE implementation in BoringSSL"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15424",
+    "issues": [
+      "756226"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "URL Spoof in Omnibox"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fd34ee82420c5e5cb04459d6e381944979d8e571"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/688825"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15425",
+    "issues": [
+      "756456"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "URL Spoof in Omnibox"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fd34ee82420c5e5cb04459d6e381944979d8e571"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/688825"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15426",
+    "issues": [
+      "756735"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "URL Spoof in Omnibox"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/fd34ee82420c5e5cb04459d6e381944979d8e571"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/688825"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15427",
+    "issues": [
+      "768910"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Insufficient blocking of JavaScript in Omnibox"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/16c719e0e275d2ee5d5c69e4962b744bcaf0fe40"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/685638"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 63.0.3239.84 - 2017-12-06",
+        "date": "2017-12-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15428",
+    "issues": [
+      "782145"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out of bounds read in V8. Zhao Qixun(@S0rryMybad) of Qihoo 360 Vulcan Team on 2017-11-07"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/55a98076827edac8eba775f8025df3749bcd8367"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.94 - 2017-11-13",
+        "date": "2017-11-13",
+        "advisory": "https://chromereleases.googleblog.com/2017/11/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15398",
+    "issues": [
+      "777728"
+    ],
+    "components": [
+      "QUIC"
+    ],
+    "impacts": [
+      "Stack buffer overflow in QUIC"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7a6484fa7b7f86ea06749bfc9d10bb67b145140b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/748425"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.89 - 2017-11-06",
+        "date": "2017-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/11/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15399",
+    "issues": [
+      "776677"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use after free in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/5f960dfc06a7c95af69e2b09f772b2280168469b"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.89 - 2017-11-06",
+        "date": "2017-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2017/11/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15401",
+    "issues": [
+      "766260"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "A memory corruption bug in WebAssembly could lead to out of bounds read and write through V8 in WebAssembly in Google Chrome prior to 62.0.3202.62 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page."
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/1bc42ab44cd62b860153249e281e8d3b40314cc3"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.74 - 2017-10-27",
+        "date": "2017-10-27",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-chrome-os_27.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15396",
+    "issues": [
+      "770452"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Stack overflow in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/69bd294affaf0dd567d8649f5c02e891473f3e1f"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.75 - 2017-10-26",
+        "date": "2017-10-26",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15406",
+    "issues": [
+      "770450"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Stack overflow in V8"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/69bd294affaf0dd567d8649f5c02e891473f3e1f"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.75 - 2017-10-26",
+        "date": "2017-10-26",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5124",
+    "issues": [
+      "762930"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "UXSS with MHTML"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4558c2885e618557a674660aff57404d25537070"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5125",
+    "issues": [
+      "749147"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Heap overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/82e314534c231dc399990ccf7803d7c5032392f5"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/37121"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5126",
+    "issues": [
+      "760455"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/022d13b85408beb400ce703bb5c59736adea208f"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/14150"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5127",
+    "issues": [
+      "765384"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/b1f9205bb1a0671c31e44e7362784c770bf2a948"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/14050"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5128",
+    "issues": [
+      "765469"
+    ],
+    "components": [
+      "WebGL"
+    ],
+    "impacts": [
+      "Heap overflow in WebGL"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/73ac8f4a66c057b6b22a1c2c6e042c77ef39450d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/685487"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5129",
+    "issues": [
+      "765495"
+    ],
+    "components": [
+      "WebAudio"
+    ],
+    "impacts": [
+      "Use after free in WebAudio"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/783c28d59c4c748ef9b787d4717882c90c5b227b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/677137"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5130",
+    "issues": [
+      "722079"
+    ],
+    "components": [
+      "libxml2"
+    ],
+    "impacts": [
+      "Heap overflow in libxml2"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5132",
+    "issues": [
+      "718858"
+    ],
+    "components": [
+      "WebAssembly"
+    ],
+    "impacts": [
+      "Incorrect stack manipulation in WebAssembly"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/8f0cd1c244a766d11a0447de6c1fb45af728ed29"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5131",
+    "issues": [
+      "744109"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Out of bounds write in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/0bc4d60fe0a1ceae6dde0103c3fdf78ee1673ffa"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/34541"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5133",
+    "issues": [
+      "762106"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Out of bounds write in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15386",
+    "issues": [
+      "752003"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "UI spoofing in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ba3b1b344017bbf36283464b51014fad15c2f3f4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/606987"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15387",
+    "issues": [
+      "756040"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Content security bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7d803fd8bbb8a2f3b626851a5ce58244efa0798a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/632580"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15388",
+    "issues": [
+      "756563"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Out of bounds read in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/1170a553be35920fe45d6a454a27d21167060977"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/44420"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15389",
+    "issues": [
+      "739621"
+    ],
+    "components": [
+      "OmniBox"
+    ],
+    "impacts": [
+      "URL spoofing in OmniBox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5788690fb1395dc672ff9b3385dbfb1180ed710a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/608239"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15390",
+    "issues": [
+      "750239"
+    ],
+    "components": [
+      "OmniBox"
+    ],
+    "impacts": [
+      "URL spoofing in OmniBox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1f6acd54ee3765d5c1a6f14fc31ddd4a74145314"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/607907"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15391",
+    "issues": [
+      "598265"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Extension limitation bypass in Extensions"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f1afce25b3f94d8bddec69b08ffbc29b989ad844"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/617180"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15392",
+    "issues": [
+      "714401"
+    ],
+    "components": [
+      "PlatformIntegration"
+    ],
+    "impacts": [
+      "Incorrect registry key handling in PlatformIntegration"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15393",
+    "issues": [
+      "732751"
+    ],
+    "components": [
+      "Devtools"
+    ],
+    "impacts": [
+      "Referrer leak in Devtools"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a8ef19900d003ff7078fe4fcec8f63496b18f0dc"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/615021"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15394",
+    "issues": [
+      "745580"
+    ],
+    "components": [
+      "extensions UI"
+    ],
+    "impacts": [
+      "URL spoofing in extensions UI"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/504e0c45030f76bffda93f0857e7595216d6e7a4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/644140"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-15395",
+    "issues": [
+      "759457"
+    ],
+    "components": [
+      "ImageCapture"
+    ],
+    "impacts": [
+      "Null pointer dereference in ImageCapture"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/84ca1ee18bbc32f3cb035d071e8271e064dfd4d7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/701358"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 62.0.3202.62 - 2017-10-17",
+        "date": "2017-10-17",
+        "advisory": "https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5121",
+    "issues": [
+      "765433"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out-of-bounds access in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/2b15425b0c131869dbd5c9c486d402b6b911fca4"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.100 - 2017-09-21",
+        "date": "2017-09-21",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5122",
+    "issues": [
+      "752423"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out-of-bounds access in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/f6d5504f9869cbdc83a144f13df5fc2e95a1556f"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.100 - 2017-09-21",
+        "date": "2017-09-21",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop_21.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5111",
+    "issues": [
+      "737023"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Use after free in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/77417ec9e1312a75407f8ab46dd46f777a1742f1"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/8350"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5112",
+    "issues": [
+      "740603"
+    ],
+    "components": [
+      "WebGL"
+    ],
+    "impacts": [
+      "Heap buffer overflow in WebGL"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f6ac1dba5e36f338a490752a2cbef3339096d9fe"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/570840"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5113",
+    "issues": [
+      "747043"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/6229b1240aae8961a4bf34493b964d944a0a06ee"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/26372"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5114",
+    "issues": [
+      "752829"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Memory lifecycle issue in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/ae6c3444c268076a234b567c5d43f0b5363ae66a"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/10230"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5115",
+    "issues": [
+      "744584"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/a224eff455632df89377748421a23be47a5278e8"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5116",
+    "issues": [
+      "759624"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Type confusion in V8. Reported Guang Gong of Alpha Team, Qihoo 360 on 2017-08-28"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/542ff03c4e50273e55e25ee647a6e54e009da4dd"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5117",
+    "issues": [
+      "739190"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Use of uninitialized value in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/ae68a399cdf3d94aff28e497d5360bc288f2131d"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/21500"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5118",
+    "issues": [
+      "747847"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "Bypass of Content Security Policy in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0ab2412a104d2f235d7b9fe19d30ef605a410832"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/592027"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5119",
+    "issues": [
+      "725127"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Use of uninitialized value in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5120",
+    "issues": [
+      "718676"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Potential HTTPS downgrade during redirect navigation"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 61.0.3163.79 - 2017-09-05",
+        "date": "2017-09-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5091",
+    "issues": [
+      "728887"
+    ],
+    "components": [
+      "IndexedDB"
+    ],
+    "impacts": [
+      "Use after free in IndexedDB"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d007b8b750851fe1b375c463009ea3b24e5c021d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/526284"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5092",
+    "issues": [
+      "733549"
+    ],
+    "components": [
+      "PPAPI"
+    ],
+    "impacts": [
+      "Use after free in PPAPI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/66b99f3fe60dce77f079cc9c07164f6a34dbea37"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/538908"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5093",
+    "issues": [
+      "550017"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "UI spoofing in Blink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f36b11b74a9d97621a65d466862948b0b8650889"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/576402"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5094",
+    "issues": [
+      "702946"
+    ],
+    "components": [
+      "extensions"
+    ],
+    "impacts": [
+      "Type confusion in extensions"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/880e7bdab7c7c4431526ed3d2209a96aa5ecd2aa"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/565069"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5095",
+    "issues": [
+      "732661"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Out-of-bounds write in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/f0f2a2a528e154b8ceeded297abc3a64007850f8"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/6555"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5096",
+    "issues": [
+      "714442"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "User information leak via Android intents"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5097",
+    "issues": [
+      "740789"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Out-of-bounds read in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/52e4fd98b5c6b296e4598f3243a891bc76715590"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/22216"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5098",
+    "issues": [
+      "740803"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use after free in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/b56c0f7a7ecb5254a4f785b929f9cee346a40566"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5099",
+    "issues": [
+      "733548"
+    ],
+    "components": [
+      "PPAPI"
+    ],
+    "impacts": [
+      "Out-of-bounds write in PPAPI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/66b99f3fe60dce77f079cc9c07164f6a34dbea37"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/538908"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5100",
+    "issues": [
+      "718292"
+    ],
+    "components": [
+      "Chrome Apps"
+    ],
+    "impacts": [
+      "Use after free in Chrome Apps"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5101",
+    "issues": [
+      "681740"
+    ],
+    "components": [
+      "OmniBox"
+    ],
+    "impacts": [
+      "URL spoofing in OmniBox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5102",
+    "issues": [
+      "727678"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Uninitialized use in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/2e425ebd95dd97f788f7f8a3b8529d77d69b4f61"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/18938"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5103",
+    "issues": [
+      "726199"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Uninitialized use in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/10240e385f541f9a6dea30469bda84c92799fbd9"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/17984"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5104",
+    "issues": [
+      "729105"
+    ],
+    "components": [
+      "browser"
+    ],
+    "impacts": [
+      "UI spoofing in browser"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5106",
+    "issues": [
+      "714628"
+    ],
+    "components": [
+      "OmniBox"
+    ],
+    "impacts": [
+      "URL spoofing in OmniBox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-6991",
+    "issues": [],
+    "components": [
+      "SQLite"
+    ],
+    "impacts": [
+      "Pointer disclosure in SQLite"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5105",
+    "issues": [
+      "729979"
+    ],
+    "components": [
+      "OmniBox"
+    ],
+    "impacts": [
+      "URL spoofing in OmniBox"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/536f72f4eeb63af895ee489c7244ccf2437cd157"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/528348"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5107",
+    "issues": [
+      "686253"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "User information leak via SVG"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/98168e6a9dbd0c52982e47e68baafeda3d8c0192"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/552957"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5108",
+    "issues": [
+      "695830"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Type confusion in PDFium"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/3f72fb4a3c983de00bae9c8437a1c09df9c9955b"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/2847"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5109",
+    "issues": [
+      "710400"
+    ],
+    "components": [
+      "browser"
+    ],
+    "impacts": [
+      "UI spoofing in browser"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5110",
+    "issues": [
+      "717476"
+    ],
+    "components": [
+      "payments dialog"
+    ],
+    "impacts": [
+      "UI spoofing in payments dialog"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 60.0.3112.78 - 2017-07-25",
+        "date": "2017-07-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/07/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5090",
+    "issues": [
+      "725660"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Insufficient Policy Enforcement in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b9f51ee9599e574847906c650240ea2e4fbc69fb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/517669"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.115 - 2017-06-26",
+        "date": "2017-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5087",
+    "issues": [
+      "725032"
+    ],
+    "components": [
+      "IndexedDB"
+    ],
+    "impacts": [
+      "Sandbox Escape in IndexedDB"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/11601c08e92732d2883af2057c41c17cba890844"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/518483"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.104 - 2017-06-15",
+        "date": "2017-06-15",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5088",
+    "issues": [
+      "729991"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds read in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/fa0d5be128ea9be4d72a0ff7d963dc118235af52"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.104 - 2017-06-15",
+        "date": "2017-06-15",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5089",
+    "issues": [
+      "714196"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Domain spoofing in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/bf14cbf2c61544fed2d02a78a77cad0f04164e41"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/535659"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.104 - 2017-06-15",
+        "date": "2017-06-15",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop_15.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5070",
+    "issues": [
+      "722756"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/e33fd30777f99a0d6e16b16d096a2663b1031457"
+    ],
+    "references": [
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2017-5070"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5071",
+    "issues": [
+      "715582"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Out of bounds read in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/4e78b5a70c6443e3829b0bef10fd731062e27aa3"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5072",
+    "issues": [
+      "709417"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Address spoofing in Omnibox"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5073",
+    "issues": [
+      "716474"
+    ],
+    "components": [
+      "print preview"
+    ],
+    "impacts": [
+      "Use after free in print preview"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5074",
+    "issues": [
+      "700040"
+    ],
+    "components": [
+      "Apps Bluetooth"
+    ],
+    "impacts": [
+      "Use after free in Apps Bluetooth"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5075",
+    "issues": [
+      "678776"
+    ],
+    "components": [
+      "CSP reporting"
+    ],
+    "impacts": [
+      "Information leak in CSP reporting"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5076",
+    "issues": [
+      "719199"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Address spoofing in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/10cae5571e65f681a46115d41296d3a31d285e29"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/517223"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5077",
+    "issues": [
+      "716311"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Heap buffer overflow in Skia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/f40b24913a99fc6fcc4b7f60e4dfcda980a16ee1"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/15230"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5078",
+    "issues": [
+      "711020"
+    ],
+    "components": [
+      "mailto handling"
+    ],
+    "impacts": [
+      "Possible command injection in mailto handling"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5079",
+    "issues": [
+      "713686"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "UI spoofing in Blink"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5080",
+    "issues": [
+      "708819"
+    ],
+    "components": [
+      "credit card autofill"
+    ],
+    "impacts": [
+      "Use after free in credit card autofill"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5081",
+    "issues": [
+      "672008"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Extension verification bypass"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5086",
+    "issues": [
+      "722639"
+    ],
+    "components": [
+      "Omnibox"
+    ],
+    "impacts": [
+      "Address spoofing in Omnibox"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/553ab9ee6347f304fdc581ddcc0d8c84dc6c39e3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/518336"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5082",
+    "issues": [
+      "721579"
+    ],
+    "components": [
+      "credit card editor"
+    ],
+    "impacts": [
+      "Insufficient hardening in credit card editor"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/416588f2ea472b4f9273cbd0e40c1d18f71d1cba"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/504787"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5083",
+    "issues": [
+      "714849"
+    ],
+    "components": [
+      "Blink"
+    ],
+    "impacts": [
+      "UI spoofing in Blink"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5085",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Inappropriate javascript execution on WebUI pages"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 59.0.3071.86 - 2017-06-05",
+        "date": "2017-06-05",
+        "advisory": "https://chromereleases.googleblog.com/2017/06/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5068",
+    "issues": [
+      "679306"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Race condition in WebRTC. Credit to Philipp Hancke"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.96 - 2017-05-02",
+        "date": "2017-05-02",
+        "advisory": "https://chromereleases.googleblog.com/2017/05/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5057",
+    "issues": [
+      "695826"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Type confusion in PDFium. Credit to Guang Gong of Alpha Team, Qihoo 360"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5058",
+    "issues": [
+      "694382"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap use after free in Print Preview. Credit to Khalil Zhani"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5059",
+    "issues": [
+      "684684"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Type confusion in Blink. Credit to SkyLined working with Trend Micro's Zero Day Initiative"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5060",
+    "issues": [
+      "683314"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL spoofing in Omnibox. Credit to Xudong Zheng"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5061",
+    "issues": [
+      "672847"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL spoofing in Omnibox. Credit to Haosheng Wang (@gnehsoah)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5062",
+    "issues": [
+      "702896"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Chrome Apps. Credit to anonymous"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5063",
+    "issues": [
+      "700836"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in Skia. Credit to Sweetchip"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5064",
+    "issues": [
+      "693974"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Blink. Credit to Wadih Matar"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5065",
+    "issues": [
+      "704560"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Incorrect UI in Blink. Credit to Khalil Zhani"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5066",
+    "issues": [
+      "690821"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Incorrect signature handing in Networking. Credit to Prof. Zhenhua Duan, Prof. Cong Tian, and Ph.D candidate Chu Chen (ICTT, Xidian University)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5067",
+    "issues": [
+      "648117"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL spoofing in Omnibox. Credit to Khalil Zhani"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5069",
+    "issues": [
+      "691726"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin bypass in Blink. Credit to Michael Reizelman"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 58.0.3029.81 - 2017-04-19",
+        "date": "2017-04-19",
+        "advisory": "https://chromereleases.googleblog.com/2017/04/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5055",
+    "issues": [
+      "698622"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in printing. Credit to Wadih Matar"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.133 - 2017-03-29",
+        "date": "2017-03-29",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5052",
+    "issues": [
+      "662767"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bad cast in Blink. Credit to JeongHoon Shin"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.133 - 2017-03-29",
+        "date": "2017-03-29",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5053",
+    "issues": [
+      "702058"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out of bounds memory access in V8. Credit to Team Sniper (Keen Lab and PC Mgr) reported through ZDI (ZDI-CAN-4587)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/9224d5d1bc61c5054ff79b9c5c700052b85c56d3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2756663002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.133 - 2017-03-29",
+        "date": "2017-03-29",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5054",
+    "issues": [
+      "699166"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap buffer overflow in V8. Credit to Nicolas Trippar of Zimperium zLabs"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/17ac7c5f4d712c914030e1fb7247d2083b04b929"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.133 - 2017-03-29",
+        "date": "2017-03-29",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5056",
+    "issues": [
+      "705445"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Blink. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome for Android 57.0.2987.132 - 2017-03-29",
+        "date": "2017-03-29",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/chrome-for-android-update_29.html"
+      },
+      {
+        "name": "Chrome 57.0.2987.133 - 2017-03-29",
+        "date": "2017-03-29",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5029",
+    "issues": [
+      "676623"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in libxslt. Credit to Holger Fuhrmannek"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5030",
+    "issues": [
+      "682194"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Memory corruption in V8. Credit to Brendon Tiszka"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/e5608155aeb18a76fdb495d446efe1f9e33e749b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2655623004",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2017-5030"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5031",
+    "issues": [
+      "682020"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in ANGLE. Credit to Looben Yang"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5032",
+    "issues": [
+      "668724"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out of bounds write in PDFium. Credit to Ashfaq Ansari - Project Srishti"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5034",
+    "issues": [
+      "678461"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in PDFium. Credit to Ke Liu of Tencent's Xuanwu LAB"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5035",
+    "issues": [
+      "688425"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Incorrect security UI in Omnibox. Credit to Enzo Aguado"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5036",
+    "issues": [
+      "691371"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in PDFium. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5037",
+    "issues": [
+      "679640"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "[$1000][ 679640 ] High"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5039",
+    "issues": [
+      "679649"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in PDFium. Credit to jinmo123"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5047",
+    "issues": [
+      "679653"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "An integer overflow in FFmpeg"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5048",
+    "issues": [
+      "679647"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "An integer overflow in FFmpeg"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5049",
+    "issues": [
+      "679646"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "An integer overflow in FFmpeg"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5050",
+    "issues": [
+      "679645"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "An integer overflow in FFmpeg"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5051",
+    "issues": [
+      "679641"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple out of bounds writes in ChunkDemuxer. Credit to Yongke Wang of Tencent's Xuanwu Lab (xlab.tencent.com)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5033",
+    "issues": [
+      "669086"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bypass of Content Security Policy in Blink. Credit to Nicolai Grødum"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5038",
+    "issues": [
+      "695476"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in GuestView. Credit to Anonymous"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5040",
+    "issues": [
+      "691323"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Information disclosure in V8. Credit to Choongwoo Han"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/3a43be9b78fb3aa0eb412d3c0083a8ae761cacd3"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5041",
+    "issues": [
+      "642490"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address spoofing in Omnibox. Credit to Jordi Chancel"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5042",
+    "issues": [
+      "671932"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Incorrect handling of cookies in Cast. Credit to Mike Ruddy"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5043",
+    "issues": [
+      "683523"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in GuestView. Credit to Anonymous"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5044",
+    "issues": [
+      "688987"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in Skia. Credit to Kushal Arvind Shah of Fortinet's FortiGuard Labs"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5045",
+    "issues": [
+      "667079"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Information disclosure in XSS Auditor. Credit to Dhaval Kapil (vampire)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5046",
+    "issues": [
+      "680409"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Information disclosure in Blink. Credit to Masato Kinugawa"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/34bee46b0be6afc06f254ec0debd4b868443a649"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2657933003"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 57.0.2987.98 - 2017-03-09",
+        "date": "2017-03-09",
+        "advisory": "https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5006",
+    "issues": [
+      "673170"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5007",
+    "issues": [
+      "671102"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5008",
+    "issues": [
+      "668552"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5009",
+    "issues": [
+      "667504"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out of bounds memory access in WebRTC. Credit to Sean Stanek and Chip Bradford"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5010",
+    "issues": [
+      "663476"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5011",
+    "issues": [
+      "662859"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unauthorised file access in Devtools. Credit to Khalil Zhani"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5012",
+    "issues": [
+      "681843"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in V8. Credit to Gergely Nagy (Tresorit)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/ba2cd16986182ee80973f116ac277b93b7b285bf"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2647573003"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5028",
+    "issues": [
+      "653555"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Insufficient data validation in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5013",
+    "issues": [
+      "677716"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address spoofing in Omnibox. Credit to Haosheng Wang (@gnehsoah)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5014",
+    "issues": [
+      "675332"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in Skia. Credit to sweetchip"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5015",
+    "issues": [
+      "673971"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address spoofing in Omnibox. Credit to Armin Razmdjou"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5016",
+    "issues": [
+      "673163"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "UI spoofing in Blink. Credit to Haosheng Wang (@gnehsoah)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5017",
+    "issues": [
+      "676975"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Uninitialised memory access in webm video. Credit to Dan Berman"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5018",
+    "issues": [
+      "668665"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in chrome://apps. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5019",
+    "issues": [
+      "666714"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Renderer. Credit to Wadih Matar"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5020",
+    "issues": [
+      "668653"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in chrome://downloads. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5021",
+    "issues": [
+      "663726"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Extensions. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5022",
+    "issues": [
+      "663620"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bypass of Content Security Policy in Blink. Credit to evi1m0# ly.com"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5023",
+    "issues": [
+      "651443"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Type confusion in metrics. Credit to the UK's National Cyber Security Centre (NCSC)"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5024",
+    "issues": [
+      "643951"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in FFmpeg. Credit to Paul Mehta"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5025",
+    "issues": [
+      "643950"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in FFmpeg. Credit to Paul Mehta"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5026",
+    "issues": [
+      "634108"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "UI spoofing. Credit to Ronni Skansing"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-5027",
+    "issues": [
+      "661126"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bypass of Content Security Policy in Blink. Credit to 李普君 of 无声信息技术PKAV Team"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 56.0.2924.76 - 2017-01-25",
+        "date": "2017-01-25",
+        "advisory": "https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2017-1000460",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "In line libavcodec/h264dec.c:500 in libav(v13_dev0), ffmpeg(n3.4), chromium(56 prior Feb 13, 2017), the return value of init_get_bits is ignored and get_ue_golomb(&gb) is called on an uninitialized get_bits context, which causes a NULL deref exception"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/third_party/ffmpeg/+/8e313ca08800178efce00045e07dc494d437b70c"
+    ],
+    "references": [],
+    "releases": []
+  }
+]

@@ -1,0 +1,5414 @@
+[
+  {
+    "id": "CVE-2016-9652",
+    "issues": [
+      "669928"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5203",
+    "issues": [
+      "644219"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in PDFium. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5204",
+    "issues": [
+      "630870"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5205",
+    "issues": [
+      "646610"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5206",
+    "issues": [
+      "653749"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in PDFium. Credit to Rob Wu ( robwu.nl )"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5207",
+    "issues": [
+      "655904"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5208",
+    "issues": [
+      "658535"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5209",
+    "issues": [
+      "664139"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out of bounds write in Blink. Credit to Giwan Go of STEALIEN"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5210",
+    "issues": [
+      "654183"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out of bounds write in PDFium. Credit to Ke Liu of Tencent's Xuanwu LAB"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5211",
+    "issues": [
+      "649229"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in PDFium. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5212",
+    "issues": [
+      "653134"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Local file disclosure in DevTools. Credit to Khalil Zhani"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5213",
+    "issues": [
+      "652548"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in V8. Credit to Khalil Zhani"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/2082afcf3c8afe5002689ff3208d546f5775fb9a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2413583002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-9651",
+    "issues": [
+      "664411"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Private property access in V8. Credit to Guang Gong of Alpha Team Of Qihoo 360 reported through Pwnfest"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/135b9f9360342089de151990a7bf61c31caa6f1f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2499593002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5214",
+    "issues": [
+      "601538"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "File download protection bypass. Credit to Jonathan Birch and MSVR"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5215",
+    "issues": [
+      "619463"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Webaudio. Credit to Looben Yang"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5216",
+    "issues": [
+      "653090"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in PDFium. Credit to Anonymous"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5217",
+    "issues": [
+      "654280"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use of unvalidated data in PDFium. Credit to Rob Wu ( robwu.nl )"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5218",
+    "issues": [
+      "660498"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address spoofing in Omnibox. Credit to Abdulrahman Alqabandi (@qab)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5219",
+    "issues": [
+      "657568"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in V8. Credit to Rob Wu ( robwu.nl )"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/cb2a39d36762da3a800d9b5e734319d1141070b9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2432163004"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5220",
+    "issues": [
+      "654279"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Local file access in PDFium. Credit to Rob Wu ( robwu.nl )"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5221",
+    "issues": [
+      "660854"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in ANGLE. Credit to Tim Becker of ForAllSecure"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5222",
+    "issues": [
+      "657720"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address spoofing in Omnibox. Credit to xisigr of Tencent's Xuanwu Lab"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5223",
+    "issues": [
+      "652038"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in PDFium. Credit to Hwiwon Lee"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5224",
+    "issues": [
+      "615851"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in SVG. Credit to Roeland Krak"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5225",
+    "issues": [
+      "630332"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSP bypass in Blink. Credit to Scott Helme (@Scott_Helme, scotthelme.co.uk )"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5226",
+    "issues": [
+      "639750"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Limited XSS in Blink. Credit to Jun Kokatsu (@shhnjk)"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-9650",
+    "issues": [
+      "653034"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSP Referrer disclosure. Credit to Jakub Żoczek"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 55.0.2883.75 - 2016-12-01",
+        "date": "2016-12-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/12/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5202",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.99 - 2016-11-09",
+        "date": "2016-11-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/11/stable-channel-update-for-desktop_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5199",
+    "issues": [
+      "643948"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap corruption in FFmpeg. Credit to Paul Mehta"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.99 - 2016-11-09",
+        "date": "2016-11-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/11/stable-channel-update-for-desktop_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5200",
+    "issues": [
+      "658114"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out of bounds memory access in V8. Credit to Choongwoo Han"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/cac06c728dbc504464265ba15e7752699e21042d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2451283004"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.99 - 2016-11-09",
+        "date": "2016-11-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/11/stable-channel-update-for-desktop_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5201",
+    "issues": [
+      "660678"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Info leak in extensions. Credit to Jann Horn"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.99 - 2016-11-09",
+        "date": "2016-11-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/11/stable-channel-update-for-desktop_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5198",
+    "issues": [
+      "659475"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out of bounds memory access in V8. Credit to Tencent Keen Security Lab, working with Trend Micro's Zero Day Initiative"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/2bd7464ec1efc9eb24a38f7400119a5f2257f6e6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2444233004",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2016-5198"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.87 - 2016-11-01",
+        "date": "2016-11-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/11/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5196",
+    "issues": [
+      "659492"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin data access. Credit to Robert Miller and Georgi Geshev from MWR Labs, working with Trend Micro's Zero Day Initiative"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome for Android 54.0.2840.85 - 2016-10-31",
+        "date": "2016-10-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/chrome-for-android-update_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5197",
+    "issues": [
+      "659477"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Arbitrary intent scheme opening. Credit to Tencent Keen Security Lab, working with Trend Micro's Zero Day Initiative"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome for Android 54.0.2840.85 - 2016-10-31",
+        "date": "2016-10-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/chrome-for-android-update_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5194",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5181",
+    "issues": [
+      "645211"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://codereview.chromium.org/2330843002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5182",
+    "issues": [
+      "638615"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in Blink. Credit to Giwan Go of STEALIEN"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5183",
+    "issues": [
+      "645122"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in PDFium. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5184",
+    "issues": [
+      "630654"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in PDFium. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5185",
+    "issues": [
+      "621360"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Blink. Credit to cloudfuzzer"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5187",
+    "issues": [
+      "639702"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL spoofing. Credit to Luan Herrera"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5186",
+    "issues": [
+      "644963"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out of bounds read in DevTools. Credit to Abdulrahman Alqabandi (@qab)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5188",
+    "issues": [
+      "565760"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "UI spoofing. Credit to Luan Herrera"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5189",
+    "issues": [
+      "646278"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL spoofing. Credit to xisigr of Tencent's Xuanwu Lab"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5190",
+    "issues": [
+      "642067"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Internals. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5191",
+    "issues": [
+      "639126"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Bookmarks. Credit to Gareth Hughes"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5192",
+    "issues": [
+      "633885"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin bypass in Blink. Credit to haojunhou@gmail.com"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5193",
+    "issues": [
+      "639658"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Scheme bypass. Credit to Yuyang ZHOU (martinzhou96)"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 54.0.2840.59 - 2016-10-12",
+        "date": "2016-10-12",
+        "advisory": "https://chromereleases.googleblog.com/2016/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5178",
+    "issues": [
+      "645028",
+      "651092"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.143 - 2016-09-29",
+        "date": "2016-09-29",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5177",
+    "issues": [
+      "642496"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in V8. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/71781f31a26cf9122d125f5f58d4a292875b7b0a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2323173004"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.143 - 2016-09-29",
+        "date": "2016-09-29",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5170",
+    "issues": [
+      "641101"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Blink. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.113 - 2016-09-13",
+        "date": "2016-09-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5171",
+    "issues": [
+      "643357"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Blink. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.113 - 2016-09-13",
+        "date": "2016-09-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5175",
+    "issues": [
+      "619217",
+      "638166",
+      "646394"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.113 - 2016-09-13",
+        "date": "2016-09-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-7549",
+    "issues": [
+      "556351",
+      "646394"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 53.0.2785.113 does not ensure that the recipient of a certain IPC message is a valid RenderFrame or RenderWidget, which allows remote attackers to cause a denial of service (invalid pointer dereference and application crash) or possibly have unspecified other impact by leveraging access to a renderer process, related to render_frame_host_impl.cc and render_widget_host_impl.cc, as demonstrated by a Password Manager message"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.113 - 2016-09-13",
+        "date": "2016-09-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5172",
+    "issues": [
+      "616386"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Arbitrary Memory Read in v8. Credit to Choongwoo Han"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/4cc1331c341f5bfbeee54fec521f682a8a406af4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2042793002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.113 - 2016-09-13",
+        "date": "2016-09-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5173",
+    "issues": [
+      "468931",
+      "471523",
+      "497507"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Extension resource access. Credit to Anonymous"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.113 - 2016-09-13",
+        "date": "2016-09-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5174",
+    "issues": [
+      "579934"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Popup not correctly suppressed. Credit to Andrey Kovalev (@L1kvID) Yandex Security Team"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/104e5ad762f4d2fcf04a33ff8471d77d7b8678bb"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.113 - 2016-09-13",
+        "date": "2016-09-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5176",
+    "issues": [
+      "595838"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "SafeBrowsing bypass. Credit to Lokihardt working with Trend Micro's Zero Day Initiative"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.113 - 2016-09-13",
+        "date": "2016-09-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/09/stable-channel-update-for-desktop_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5147",
+    "issues": [
+      "628942"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5148",
+    "issues": [
+      "621362"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in Blink. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5149",
+    "issues": [
+      "573131"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Script injection in extensions. Credit to Max Justicz (http://web.mit.edu/maxj/www/)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5150",
+    "issues": [
+      "637963"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in Blink. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5151",
+    "issues": [
+      "634716"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in PDFium. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium.git/+/8ca63de14d522d3d259d74fa43b28b05b02728e8"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5152",
+    "issues": [
+      "629919"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in PDFium. Credit to GiWan Go of Stealien"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5153",
+    "issues": [
+      "631052"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after destruction in Blink. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5154",
+    "issues": [
+      "633002"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in PDFium. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5155",
+    "issues": [
+      "630662"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address bar spoofing. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5156",
+    "issues": [
+      "625404"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in event bindings. Credit to jinmo123"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5157",
+    "issues": [
+      "632622"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in PDFium. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/uclouvain/openjpeg/commit/e078172b1c3f98d2219c37076b238fb759c751ea"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5158",
+    "issues": [
+      "628890"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in PDFium. Credit to GiWan Go of Stealien"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium.git/+/ff74356915d4c7f7c6eb16de1e9f403da4ecb6d5"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5159",
+    "issues": [
+      "628304"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in PDFium. Credit to GiWan Go of Stealien"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5167",
+    "issues": [
+      "617648",
+      "619379",
+      "624213",
+      "624214",
+      "625575",
+      "627355",
+      "627418",
+      "633585",
+      "634394",
+      "634557",
+      "637320",
+      "642598"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-7395",
+    "issues": [
+      "613918"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "SkPath.cpp in Skia,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5161",
+    "issues": [
+      "622420"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Type confusion in Blink. Credit to 62600BCA031B9EB5CB4A74ADDDD6771E working with Trend Micro's Zero Day Initiative"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5162",
+    "issues": [
+      "589237"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Extensions web accessible resources bypass. Credit to Nicolas Golubovic"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5163",
+    "issues": [
+      "495933",
+      "609680"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address bar spoofing. Credit to Rafay Baloch PTCL Etisalat (http://rafayhackingarticles.net)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3bd33fee094e863e5496ac24714c558bd58d28ef"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5164",
+    "issues": [
+      "637594"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS using DevTools. Credit to anonymous"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5165",
+    "issues": [
+      "618037"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Script injection in DevTools. Credit to Gregory Panakkal"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5166",
+    "issues": [
+      "616429"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "SMB Relay Attack via Save Page As. Credit to Gregory Panakkal"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5160",
+    "issues": [
+      "576867"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Extensions web accessible resources bypass. Credit to @l33terally, FogMarks.com (@FogMarks)"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 53.0.2785.89 - 2016-08-31",
+        "date": "2016-08-31",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop_31.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5146",
+    "issues": [
+      "620277",
+      "620766",
+      "633310",
+      "633486"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.116 - 2016-08-03",
+        "date": "2016-08-03",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5139",
+    "issues": [
+      "625541"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in pdfium. Credit to GiWan Go of Stealien"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.116 - 2016-08-03",
+        "date": "2016-08-03",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5140",
+    "issues": [
+      "619405"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in pdfium. Credit to Ke Liu of Tencent's Xuanwu LAB"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.116 - 2016-08-03",
+        "date": "2016-08-03",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5141",
+    "issues": [
+      "629542"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address bar spoofing. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.116 - 2016-08-03",
+        "date": "2016-08-03",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5142",
+    "issues": [
+      "626948"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Blink. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.116 - 2016-08-03",
+        "date": "2016-08-03",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5143",
+    "issues": [
+      "619414"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Parameter sanitization failure in DevTools. Credit to Gregory Panakkal"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.116 - 2016-08-03",
+        "date": "2016-08-03",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5144",
+    "issues": [
+      "618333"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Parameter sanitization failure in DevTools. Credit to Gregory Panakkal"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.116 - 2016-08-03",
+        "date": "2016-08-03",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5145",
+    "issues": [
+      "623406"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same origin bypass for images in Blink. Credit to anonymous"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.116 - 2016-08-03",
+        "date": "2016-08-03",
+        "advisory": "https://chromereleases.googleblog.com/2016/08/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1705",
+    "issues": [
+      "590619",
+      "599458",
+      "600953",
+      "609286",
+      "611959",
+      "612939",
+      "613869",
+      "613971",
+      "614405",
+      "614701",
+      "614989",
+      "615820",
+      "619378",
+      "619382",
+      "620694",
+      "620737",
+      "620858",
+      "620952",
+      "621843",
+      "622522",
+      "629852"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1706",
+    "issues": [
+      "610600"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Sandbox escape in PPAPI. Credit to Pinkie Pie"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1707",
+    "issues": [
+      "622183"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL spoofing on iOS. Credit to xisigr of Tencent's Xuanwu Lab"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5967e8c0fe0b1e11cc09d6c88304ec504e909fd5"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1708",
+    "issues": [
+      "613949"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Extensions. Credit to Adam Varsan"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1709",
+    "issues": [
+      "614934"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap-buffer-overflow in sfntly. Credit to ChenQin of Topsec Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/googlei18n/sfntly/commit/468cad540fa1b0027cad60456f53feabecdce2bc"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1710",
+    "issues": [
+      "616907"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1711",
+    "issues": [
+      "617495"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5127",
+    "issues": [
+      "618237"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Blink. Credit to cloudfuzzer"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5128",
+    "issues": [
+      "619166"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in V8. Credit to Anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/2c8ca9ad09281d4138ae363566051e45afd0838c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2082633002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5129",
+    "issues": [
+      "620553"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Memory corruption in V8. Credit to Jeonghoon Shin"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/d800a65967b115c6e1aa6c3ba08861a304383088"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2078403002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5130",
+    "issues": [
+      "626838",
+      "623319"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL spoofing. Credit to Wadih Matar"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5131",
+    "issues": [
+      "623378"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in libxml. Credit to Nick Wellnhofer"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5132",
+    "issues": [
+      "607543"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Limited same-origin bypass in Service Workers. Credit to Ben Kelly"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5133",
+    "issues": [
+      "613626"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Origin confusion in proxy authentication. Credit to Patch Eudor"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5134",
+    "issues": [
+      "593759"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL leakage via PAC script. Credit to Alex Chapman and Paul Stone of Context Information Security"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5135",
+    "issues": [
+      "605451"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Content-Security-Policy bypass. Credit to ShenYeYinJiu of Tencent Security Response Center, TSRC"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e49d943e9f5f90411313e64d0ae6b646edc85043"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5136",
+    "issues": [
+      "625393"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in extensions. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5137",
+    "issues": [
+      "625945"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "History sniffing with HSTS and CSP. Credit to Xiaoyin Liu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 52.0.2743.82 - 2016-07-20",
+        "date": "2016-07-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1704",
+    "issues": [
+      "610799",
+      "613698",
+      "613915",
+      "620742"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.103 - 2016-06-16",
+        "date": "2016-06-16",
+        "advisory": "https://chromereleases.googleblog.com/2016/06/stable-channel-update_16.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1696",
+    "issues": [
+      "601073"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin bypass in Extension bindings. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/ea5e96ff05035e5d3fc22ce4df0a9b401c0fae5a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/2026443002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.79 - 2016-06-01",
+        "date": "2016-06-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1697",
+    "issues": [
+      "613266"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin bypass in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.79 - 2016-06-01",
+        "date": "2016-06-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1703",
+    "issues": [
+      "582702",
+      "590621",
+      "592361",
+      "602276",
+      "608156",
+      "610400",
+      "612049",
+      "613917",
+      "616539"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.79 - 2016-06-01",
+        "date": "2016-06-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1698",
+    "issues": [
+      "603725"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Information leak in Extension bindings. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.79 - 2016-06-01",
+        "date": "2016-06-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1699",
+    "issues": [
+      "607939"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Parameter sanitization failure in DevTools. Credit to Gregory Panakkal"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.79 - 2016-06-01",
+        "date": "2016-06-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1700",
+    "issues": [
+      "608104"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Extensions. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.79 - 2016-06-01",
+        "date": "2016-06-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1701",
+    "issues": [
+      "608101"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Autofill. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.79 - 2016-06-01",
+        "date": "2016-06-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1702",
+    "issues": [
+      "609260"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in Skia. Credit to cloudfuzzer"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.79 - 2016-06-01",
+        "date": "2016-06-01",
+        "advisory": "https://chromereleases.googleblog.com/2016/06/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1672",
+    "issues": [
+      "590118"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin bypass in extension bindings. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1673",
+    "issues": [
+      "597532"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin bypass in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f93a0e557dd97cc83d8b55953c2f57c5e2dfe07b"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1674",
+    "issues": [
+      "598165"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin bypass in extensions. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1675",
+    "issues": [
+      "600182"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin bypass in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1676",
+    "issues": [
+      "604901"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-origin bypass in extension bindings. Credit to Rob Wu"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1678",
+    "issues": [
+      "595259"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in V8. Credit to Christian Holler"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/946354a7af0b328673ff3b7d7c08ab27c264a2b1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1809073002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1679",
+    "issues": [
+      "606390"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap use-after-free in V8 bindings. Credit to Rob Wu"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6a66d73c561f07ff61f46311467cc451b5bcb86b"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1680",
+    "issues": [
+      "589848"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap use-after-free in Skia. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/aabd71cc2c3313c51e618224426045f8573e69e6"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1681",
+    "issues": [
+      "613160"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap overflow in PDFium. Credit to Aleksandar Nikolic of Cisco Talos"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1695",
+    "issues": [
+      "582698",
+      "582714",
+      "585658",
+      "587897",
+      "588178",
+      "588548",
+      "595262",
+      "599081",
+      "599627",
+      "602046",
+      "602185",
+      "605474",
+      "607483",
+      "609134",
+      "610646",
+      "611887",
+      "612132",
+      "612364",
+      "612613",
+      "614767"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1677",
+    "issues": [
+      "602970"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Type confusion in V8. Credit to Guang Gong of Qihoo 360"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/401450493efc424cd20f914e6df6f69f3d7b8fbc"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1889133003"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1682",
+    "issues": [
+      "579801"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "CSP bypass for ServiceWorker. Credit to KingstonTime"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1683",
+    "issues": [
+      "583156"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds access in libxslt. Credit to Nicolas Gregoire"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1684",
+    "issues": [
+      "583171"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in libxslt. Credit to Nicolas Gregoire"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1685",
+    "issues": [
+      "601362"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in PDFium. Credit to Ke Liu of Tencent's Xuanwu LAB"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1686",
+    "issues": [
+      "603518"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in PDFium. Credit to Ke Liu of Tencent's Xuanwu LAB"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1687",
+    "issues": [
+      "603748"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Information leak in extensions. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1688",
+    "issues": [
+      "604897"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in V8. Credit to Max Korenko"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/b4697727e946e8d96d5345a4db7ff72842d60466"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1902393004"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1689",
+    "issues": [
+      "606185"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap buffer overflow in media. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1690",
+    "issues": [
+      "608100"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap use-after-free in Autofill. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-10403",
+    "issues": [
+      "602046"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in PDFium. Credit to kdot working with Trend Micro's Zero Day Initiative"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1691",
+    "issues": [
+      "597926"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Heap buffer-overflow in Skia. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1692",
+    "issues": [
+      "598077"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Limited cross-origin bypass in ServiceWorker. Credit to Til Jasper Ullrich"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3d9fa8719b092361eb0a6baec91d378599e74b75"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1693",
+    "issues": [
+      "598752"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "HTTP Download of Software Removal Tool. Credit to Khalil Zhani"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1694",
+    "issues": [
+      "603682"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "HPKP pins removed on cache clearance. Credit to Ryan Lester and Bryant Zadegan"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 51.0.2704.63 - 2016-05-25",
+        "date": "2016-05-25",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1667",
+    "issues": [
+      "605766"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same origin bypass in DOM. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.102 - 2016-05-11",
+        "date": "2016-05-11",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1668",
+    "issues": [
+      "605910"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same origin bypass in Blink V8 bindings. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/cfb182b8d5cdc104ba1e9c09125c918b00e850bb"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.102 - 2016-05-11",
+        "date": "2016-05-11",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1669",
+    "issues": [
+      "606115"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Buffer overflow in V8. Credit to Choongwoo Han"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/3a9bfecfe41737aaf0dbf92ce68352f8acaaaf73"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1930873002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.102 - 2016-05-11",
+        "date": "2016-05-11",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1670",
+    "issues": [
+      "578882"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Race condition in loader. Credit to anonymous"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.102 - 2016-05-11",
+        "date": "2016-05-11",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1671",
+    "issues": [
+      "586657"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Directory traversal using the file scheme on Android. Credit to Jann Horn"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/30408ae67a9f6aea074b2883ba861613f52bd246"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.102 - 2016-05-11",
+        "date": "2016-05-11",
+        "advisory": "https://chromereleases.googleblog.com/2016/05/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1666",
+    "issues": [
+      "601001",
+      "605491",
+      "607652"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.94 - 2016-04-28",
+        "date": "2016-04-28",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1660",
+    "issues": [
+      "574802"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds write in Blink. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.94 - 2016-04-28",
+        "date": "2016-04-28",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1661",
+    "issues": [
+      "601629"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Memory corruption in cross-process frames. Credit to Wadih Matar"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.94 - 2016-04-28",
+        "date": "2016-04-28",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1662",
+    "issues": [
+      "603732"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in extensions. Credit to Rob Wu"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.94 - 2016-04-28",
+        "date": "2016-04-28",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1663",
+    "issues": [
+      "603987"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Blink’s V8 bindings. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://codereview.chromium.org/1904913002/"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.94 - 2016-04-28",
+        "date": "2016-04-28",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1664",
+    "issues": [
+      "597322"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address bar spoofing. Credit to Wadih Matar"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.94 - 2016-04-28",
+        "date": "2016-04-28",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1665",
+    "issues": [
+      "606181"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Information leak in V8. Credit to HyungSeok Han"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/e64fd96a6c38ccc46b8bd99cc6adb83a978fbef0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1925463003"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.94 - 2016-04-28",
+        "date": "2016-04-28",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-5168",
+    "issues": [
+      "586820"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Side channel information leak in Skia. Credit to Roeland Krak"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.94 - 2016-04-28",
+        "date": "2016-04-28",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1659",
+    "issues": [
+      "602697"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.75 - 2016-04-13",
+        "date": "2016-04-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1652",
+    "issues": [
+      "590275"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Universal XSS in extension bindings. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.75 - 2016-04-13",
+        "date": "2016-04-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1653",
+    "issues": [
+      "589792"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds write in V8. Credit to Choongwoo Han"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/58ab990aa8c3aeee38e888c1c33404f4b5a14759"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1740123002"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.75 - 2016-04-13",
+        "date": "2016-04-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1651",
+    "issues": [
+      "591785"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in Pdfium JPEG2000 decoding. Credit to kdot working with HP's Zero Day Initiative"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.75 - 2016-04-13",
+        "date": "2016-04-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1654",
+    "issues": [
+      "589512"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Uninitialized memory read in media. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.75 - 2016-04-13",
+        "date": "2016-04-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1655",
+    "issues": [
+      "582008"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free related to extensions. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.75 - 2016-04-13",
+        "date": "2016-04-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1656",
+    "issues": [
+      "570750"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Android downloaded file path restriction bypass. Credit to Dzmitry Lukyanenko"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/168f723d0f0ce60d92a6307c754181f6d8644583"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.75 - 2016-04-13",
+        "date": "2016-04-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1657",
+    "issues": [
+      "567445"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address bar spoofing. Credit to Luan Herrera"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.75 - 2016-04-13",
+        "date": "2016-04-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1658",
+    "issues": [
+      "573317"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Potential leak of sensitive information to malicious extensions. Credit to Antonio Sanso (@asanso) of Adobe"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 50.0.2661.75 - 2016-04-13",
+        "date": "2016-04-13",
+        "advisory": "https://chromereleases.googleblog.com/2016/04/stable-channel-update_13.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1646",
+    "issues": [
+      "594574"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in V8. Credit to Wen Xu from Tencent KeenLab"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": true,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/96a2bd8ae8c25e2acbe63319011cbb829b59e3df"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1804963002",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2016-1646"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.108 - 2016-03-24",
+        "date": "2016-03-24",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1647",
+    "issues": [
+      "590284"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Navigation. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.108 - 2016-03-24",
+        "date": "2016-03-24",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1648",
+    "issues": [
+      "590455"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Extensions. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.108 - 2016-03-24",
+        "date": "2016-03-24",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1649",
+    "issues": [
+      "595836"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Buffer overflow in libANGLE. Credit to lokihardt working with HP’s Zero Day Initiative / Pwn2Own"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [
+      "https://chromium-review.googlesource.com/334448"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.108 - 2016-03-24",
+        "date": "2016-03-24",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1650",
+    "issues": [
+      "401364",
+      "597518"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.108 - 2016-03-24",
+        "date": "2016-03-24",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-3679",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple unspecified vulnerabilities in Google V8 before 4.9.385.33, as used in Google Chrome before 49.0.2623.108, allow attackers to cause a denial of service or possibly have other impact via unknown vectors."
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.108 - 2016-03-24",
+        "date": "2016-03-24",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1643",
+    "issues": [
+      "589838"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Type confusion in Blink. Credit to cloudfuzzer"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.87 - 2016-03-08",
+        "date": "2016-03-08",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update_8.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1644",
+    "issues": [
+      "590620"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Blink. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.87 - 2016-03-08",
+        "date": "2016-03-08",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update_8.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1645",
+    "issues": [
+      "587227"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds write in PDFium. Credit to anonymous working with HP's Zero Day Initiative"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/c145aeb2bf13ac408fc3e8233acca43d4251bbdc"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.87 - 2016-03-08",
+        "date": "2016-03-08",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update_8.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1642",
+    "issues": [
+      "472147",
+      "563964",
+      "565416",
+      "565424",
+      "582470",
+      "582697",
+      "582701",
+      "582707",
+      "589186",
+      "591402"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-2843",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple unspecified vulnerabilities in Google V8 before 4.9.385.26, as used in Google Chrome before 49.0.2623.75, allow attackers to cause a denial of service or possibly have other impact via unknown vectors."
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1630",
+    "issues": [
+      "560011"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in Blink. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1631",
+    "issues": [
+      "569496"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in Pepper Plugin. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1632",
+    "issues": [
+      "549986"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bad cast in Extensions. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1633",
+    "issues": [
+      "572537"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Blink. Credit to cloudfuzzer"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/eb750a539e4856ba9042abdf39ae9da58fa3ae63"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1634",
+    "issues": [
+      "559292"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Blink. Credit to cloudfuzzer"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0b0f3ace8820d371e6f4b2b61354728a71ce8356"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1635",
+    "issues": [
+      "585268"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Blink. Credit to Rob Wu"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1636",
+    "issues": [
+      "584155"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "SRI Validation Bypass. Credit to Ryan Lester and Bryant Zadegan"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-2844",
+    "issues": [
+      "546849",
+      "591402"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebKit/Source/core/layout/LayoutBlock.cpp in Blink,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1637",
+    "issues": [
+      "555544"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Information Leak in Skia. Credit to Keve Nagy"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1638",
+    "issues": [
+      "585282"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "WebAPI Bypass. Credit to Rob Wu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1639",
+    "issues": [
+      "572224"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in WebRTC. Credit to Khalil Zhani"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1640",
+    "issues": [
+      "550047"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Origin confusion in Extensions UI. Credit to Luan Herrera"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1641",
+    "issues": [
+      "583718"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Favicon. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-2845",
+    "issues": [
+      "542060",
+      "591402"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Content Security Policy (CSP) implementation in Blink,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 49.0.2623.75 - 2016-03-02",
+        "date": "2016-03-02",
+        "advisory": "https://chromereleases.googleblog.com/2016/03/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1629",
+    "issues": [
+      "583431"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in Blink and Sandbox escape in Chrome. Credit to anonymous"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.116 - 2016-02-18",
+        "date": "2016-02-18",
+        "advisory": "https://chromereleases.googleblog.com/2016/02/stable-channel-update_18.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1622",
+    "issues": [
+      "546677"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in Extensions. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/83a4b3aa72d98fe4176b4a54c8cea227ed966570"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.109 - 2016-02-09",
+        "date": "2016-02-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/02/stable-channel-update_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1623",
+    "issues": [
+      "577105"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same-origin bypass in DOM. Credit to Mariusz Mlynski"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.109 - 2016-02-09",
+        "date": "2016-02-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/02/stable-channel-update_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1624",
+    "issues": [
+      "583607"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Buffer overflow in Brotli. Credit to Luke Li and Jonathan Metzman"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.109 - 2016-02-09",
+        "date": "2016-02-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/02/stable-channel-update_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1627",
+    "issues": [
+      "571121",
+      "585517"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.109 - 2016-02-09",
+        "date": "2016-02-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/02/stable-channel-update_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1625",
+    "issues": [
+      "509313"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Navigation bypass in Chrome Instant. Credit to Jann Horn"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.109 - 2016-02-09",
+        "date": "2016-02-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/02/stable-channel-update_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1626",
+    "issues": [
+      "571480"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in PDFium. Credit to anonymous, working with HP's Zero Day Initiative"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.109 - 2016-02-09",
+        "date": "2016-02-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/02/stable-channel-update_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1628",
+    "issues": [
+      "571479"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in PDFium. Credit to anonymous, working with HP's Zero Day Initiative"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.109 - 2016-02-09",
+        "date": "2016-02-09",
+        "advisory": "https://chromereleases.googleblog.com/2016/02/stable-channel-update_9.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-2051",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple unspecified vulnerabilities in Google V8 before 4.8.271.17, as used in Google Chrome before 48.0.2564.82, allow attackers to cause a denial of service or possibly have other impact via unknown vectors."
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1612",
+    "issues": [
+      "497632"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bad cast in V8. Credit to cloudfuzzer"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/cfbd16172fa165cc33ce0e2e72f74e5561168a61"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/1531583005"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1613",
+    "issues": [
+      "572871"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in PDFium. Credit to anonymous"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/dcac57bc8b64fdc870d79d11a498ae7021cf8ae7"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1620",
+    "issues": [
+      "472618",
+      "514080",
+      "531259",
+      "537656",
+      "539563",
+      "545520",
+      "546814",
+      "549155",
+      "551028",
+      "551143",
+      "552681",
+      "553595",
+      "554129",
+      "554172",
+      "561478",
+      "561488",
+      "561497",
+      "562984",
+      "562986",
+      "565049",
+      "565967",
+      "566231",
+      "569170",
+      "570427",
+      "572406",
+      "576383",
+      "579625"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various fixes from internal audits, fuzzing and other initiatives"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-2052",
+    "issues": [
+      "544270",
+      "579625"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Multiple unspecified vulnerabilities in HarfBuzz before 1.0.6,"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/behdad/harfbuzz/commit/63ef0b41dc48d6112d1918c1b1de9de8ea90adb5"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1614",
+    "issues": [
+      "544691"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Information leak in Blink. Credit to Christoph Diehl"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1998d1cc5f2985cdeac94d3e669b0e7901a77bbb"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1615",
+    "issues": [
+      "468179"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Origin confusion in Omnibox. Credit to Ron Masas"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1616",
+    "issues": [
+      "541415"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL Spoofing. Credit to Luan Herrera"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1617",
+    "issues": [
+      "544765"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "History sniffing with HSTS and CSP. Credit to Yan Zhu"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1618",
+    "issues": [
+      "552749"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Weak random number generator in Blink. Credit to Aaron Toponce"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-1619",
+    "issues": [
+      "557223"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in PDFium. Credit to Keve Nagy"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 48.0.2564.82 - 2016-01-20",
+        "date": "2016-01-20",
+        "advisory": "https://chromereleases.googleblog.com/2016/01/stable-channel-update_20.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2016-7152",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The HTTPS protocol does not consider the role of the TCP congestion window in providing information about content length, which makes it easier for remote attackers to obtain cleartext data by leveraging a web-browser configuration in which third-party cookies are sent, aka a \"HEIST\" attack"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2016-7153",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The HTTP/2 protocol does not consider the role of the TCP congestion window in providing information about content length, which makes it easier for remote attackers to obtain cleartext data by leveraging a web-browser configuration in which third-party cookies are sent, aka a \"HEIST\" attack"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  }
+]

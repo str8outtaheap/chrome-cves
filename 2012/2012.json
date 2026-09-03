@@ -1,0 +1,3465 @@
+[
+  {
+    "id": "CVE-2012-5145",
+    "issues": [
+      "162494"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in SVG layout. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5146",
+    "issues": [
+      "165622"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Same origin policy bypass with malformed URL. Credit to Erling A Ellingsen and Subodh Iyengar, both of Facebook"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5147",
+    "issues": [
+      "165864"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in DOM handling. Credit to José A. Vázquez"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5149",
+    "issues": [
+      "166795"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in audio IPC handling. Credit to Google Chrome Security Team (Chris Evans)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5150",
+    "issues": [
+      "165601"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free when seeking video. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5151",
+    "issues": [
+      "165538"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in PDF JavaScript. Credit to Mateusz Jurczyk, with contribution from Gynvael Coldwind, both of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5153",
+    "issues": [
+      "164565"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds stack access in v8. Credit to Andreas Rossberg of the Chromium development community"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5156",
+    "issues": [
+      "162778"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in PDF fields. Credit to Mateusz Jurczyk, with contribution from Gynvael Coldwind, both of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5148",
+    "issues": [
+      "167122"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Missing filename sanitization in hyphenation support. Credit to Google Chrome Security Team (Justin Schuh)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5152",
+    "issues": [
+      "165430"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read when seeking video. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5155",
+    "issues": [
+      "163208"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Missing Mac sandbox for worker processes. Credit to Google Chrome Security Team (Julien Tinnes)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5157",
+    "issues": [
+      "162156",
+      "162776"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds reads in PDF image handling. Credit to Mateusz Jurczyk, with contribution from Gynvael Coldwind, both of Google Security Team"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5154",
+    "issues": [
+      "164490"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in shared memory allocation. Credit to Google Chrome Security Team (Chris Evans)"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 24.0.1312.52 - 2013-01-10",
+        "date": "2013-01-10",
+        "advisory": "https://chromereleases.googleblog.com/2013/01/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5142",
+    "issues": [
+      "160803"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Crash in history navigation. Credit to Michal Zalewski of Google Security Team"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.97 - 2012-12-11",
+        "date": "2012-12-11",
+        "advisory": "https://chromereleases.googleblog.com/2012/12/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5139",
+    "issues": [
+      "158204"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free with visibility events. Credit to Chamal de Silva"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.97 - 2012-12-11",
+        "date": "2012-12-11",
+        "advisory": "https://chromereleases.googleblog.com/2012/12/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5140",
+    "issues": [
+      "159429"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in URL loader. Credit to Chamal de Silva"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.97 - 2012-12-11",
+        "date": "2012-12-11",
+        "advisory": "https://chromereleases.googleblog.com/2012/12/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5144",
+    "issues": [
+      "161639"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Stack corruption in AAC decoding. Credit to pawlkt"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.97 - 2012-12-11",
+        "date": "2012-12-11",
+        "advisory": "https://chromereleases.googleblog.com/2012/12/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5141",
+    "issues": [
+      "160456"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Limit Chromoting client plug-in instantiation. Credit to Google Chrome Security Team (Jüri Aedla)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.97 - 2012-12-11",
+        "date": "2012-12-11",
+        "advisory": "https://chromereleases.googleblog.com/2012/12/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5143",
+    "issues": [
+      "160926"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in PPAPI image buffers. Credit to Google Chrome Security Team (Cris Neckar)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.97 - 2012-12-11",
+        "date": "2012-12-11",
+        "advisory": "https://chromereleases.googleblog.com/2012/12/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5137",
+    "issues": [
+      "162835"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in media source handling. Credit to Pinkie Pie"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.95 - 2012-11-29",
+        "date": "2012-11-29",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-update_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5138",
+    "issues": [
+      "161564"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Incorrect file path handling. Credit to Google Chrome Security Team (Jüri Aedla)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.95 - 2012-11-29",
+        "date": "2012-11-29",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-update_29.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5131",
+    "issues": [
+      "152746"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Corrupt rendering in the Apple OSX driver for Intel GPUs. Credit to Justin Drake"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.91 - 2012-11-26",
+        "date": "2012-11-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5133",
+    "issues": [
+      "156567"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in SVG filters. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.91 - 2012-11-26",
+        "date": "2012-11-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5134",
+    "issues": [
+      "158249"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Buffer underflow in libxml. Credit to Google Chrome Security Team (Jüri Aedla)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.91 - 2012-11-26",
+        "date": "2012-11-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5130",
+    "issues": [
+      "148638"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in Skia. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.91 - 2012-11-26",
+        "date": "2012-11-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5135",
+    "issues": [
+      "159165"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free with printing. Credit to Fermin Serna of Google Security Team"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.91 - 2012-11-26",
+        "date": "2012-11-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5136",
+    "issues": [
+      "159829"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bad cast in input element handling. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.91 - 2012-11-26",
+        "date": "2012-11-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5132",
+    "issues": [
+      "155711"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Browser crash with chunked encoding. Credit to Attila Szász"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.91 - 2012-11-26",
+        "date": "2012-11-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5115",
+    "issues": [
+      "149904"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Defend against wild writes in buggy graphics drivers. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5116",
+    "issues": [
+      "143761"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in SVG filter handling. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5118",
+    "issues": [
+      "149717"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer bounds check issue in GPU command buffers. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5121",
+    "issues": [
+      "154055"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in video layout. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5124",
+    "issues": [
+      "155323"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Memory corruption in texture handling. Credit to Al Patrick of the Chromium development community"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5128",
+    "issues": [
+      "157124"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bad write in v8. Credit to Google Chrome Security Team (Cris Neckar)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/34d98a804d01003b7b97ebd025c1238b26db6e63"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/11233033"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5119",
+    "issues": [
+      "149759"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Race condition in Pepper buffer handling. Credit to Fermin Serna of the Google Security Team"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5120",
+    "issues": [
+      "150729"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds array access in v8. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/a8e502fe60b3aa805638f419b4b4af3e0db4c261"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/10959009"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5122",
+    "issues": [
+      "154465"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bad cast in input handling. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5123",
+    "issues": [
+      "154590",
+      "156826"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds reads in Skia. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5125",
+    "issues": [
+      "156051"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in extension tab handling. Credit to Alexander Potapenko of the Chromium development community"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5126",
+    "issues": [
+      "156366"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in plug-in placeholder handling. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5127",
+    "issues": [
+      "157079"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow leading to out-of-bounds read in WebP handling. Credit to Phil Turnbull"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5117",
+    "issues": [
+      "145915"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Inappropriate load of SVG subresource in img context. Credit to Felix Gröbert of the Google Security Team"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 23.0.1271.64 - 2012-11-06",
+        "date": "2012-11-06",
+        "advisory": "https://chromereleases.googleblog.com/2012/11/stable-channel-release-and-beta-channel.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5112",
+    "issues": [
+      "154983",
+      "154987"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "SVG use-after-free and IPC arbitrary file write. Credit to Pinkie Pie"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.94 - 2012-10-10",
+        "date": "2012-10-10",
+        "advisory": "https://chromereleases.googleblog.com/2012/10/stable-channel-update_6105.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5376",
+    "issues": [
+      "154983",
+      "154987"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The Inter-process Communication (IPC) implementation"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.94 - 2012-10-10",
+        "date": "2012-10-10",
+        "advisory": "https://chromereleases.googleblog.com/2012/10/stable-channel-update_6105.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5108",
+    "issues": [
+      "147499"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Race condition in audio device handling. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.92 - 2012-10-08",
+        "date": "2012-10-08",
+        "advisory": "https://chromereleases.googleblog.com/2012/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2900",
+    "issues": [
+      "138208"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Crash in Skia text rendering. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.92 - 2012-10-08",
+        "date": "2012-10-08",
+        "advisory": "https://chromereleases.googleblog.com/2012/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5109",
+    "issues": [
+      "148692"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "OOB read in ICU regex. Credit to Arthur Gerkis"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.92 - 2012-10-08",
+        "date": "2012-10-08",
+        "advisory": "https://chromereleases.googleblog.com/2012/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5110",
+    "issues": [
+      "151449"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in compositor. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.92 - 2012-10-08",
+        "date": "2012-10-08",
+        "advisory": "https://chromereleases.googleblog.com/2012/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-5111",
+    "issues": [
+      "151895"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Plug-in crash monitoring was missing for Pepper plug-ins. Credit to Google Chrome Security Team (Chris Evans)"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.92 - 2012-10-08",
+        "date": "2012-10-08",
+        "advisory": "https://chromereleases.googleblog.com/2012/10/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2897",
+    "issues": [
+      "146254"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Windows kernel memory corruption. Credit to Eetu Luodemaa and Joni Vähämäki, both from Documill"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2874",
+    "issues": [
+      "132398"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds write in Skia. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2876",
+    "issues": [
+      "135432"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Buffer overflow in SSE2 optimizations. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2878",
+    "issues": [
+      "137852"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in plug-in handling. Credit to Fermin Serna of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2881",
+    "issues": [
+      "139814"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "DOM tree corruption with plug-ins. Credit to Chamal de Silva"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2882",
+    "issues": [
+      "140647"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Wild pointer in OGG container handling. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2883",
+    "issues": [
+      "140803"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds write in Skia. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2886",
+    "issues": [
+      "143437"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "UXSS in v8 bindings. Credit to Sergey Glazunov"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2887",
+    "issues": [
+      "143609"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in onclick handling. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2888",
+    "issues": [
+      "143656"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in SVG text references. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2889",
+    "issues": [
+      "143439"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "UXSS in frame handling. Credit to Sergey Glazunov"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2890",
+    "issues": [
+      "143798",
+      "144072",
+      "147402"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in PDF viewer. Credit to Mateusz Jurczyk of Google Security Team, with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2893",
+    "issues": [
+      "144799"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Double free in XSL transforms. Credit to Google Chrome Security Team (Cris Neckar)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2de493f4a1d48952e09230a0c32ccbd45db973b2"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2894",
+    "issues": [
+      "144899"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Crash in graphics context handling. Credit to Sławomir Błażek"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2895",
+    "issues": [
+      "145029",
+      "145157",
+      "146460"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds writes in PDF viewer. Credit to Mateusz Jurczyk of Google Security Team, with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2896",
+    "issues": [
+      "145544"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in WebGL. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2875",
+    "issues": [
+      "134955",
+      "135488",
+      "137106",
+      "137288",
+      "137302",
+      "137547",
+      "137556",
+      "137606",
+      "137635",
+      "137880",
+      "137928",
+      "144579",
+      "145079",
+      "145121",
+      "145163",
+      "146462"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various lower severity issues in the PDF viewer. Credit to Mateusz Jurczyk of Google Security Team, with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2877",
+    "issues": [
+      "137707"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Browser crash with extensions and modal dialogs. Credit to Nir Moshe"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2880",
+    "issues": [
+      "139462"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Race condition in plug-in paint buffer. Credit to Google Chrome Security Team (Cris Neckar)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2884",
+    "issues": [
+      "141651"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in Skia. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2885",
+    "issues": [
+      "142310"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Possible double free on exit. Credit to the Chromium development community"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2879",
+    "issues": [
+      "139168"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "DOM topology corruption. Credit to pawlkt"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2891",
+    "issues": [
+      "144051"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Address leak over IPC. Credit to Lei Zhang of the Chromium development community"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2892",
+    "issues": [
+      "144704"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Pop-up block bypass. Credit to Google Chrome Security Team (Cris Neckar)"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 22.0.1229.79 - 2012-09-25",
+        "date": "2012-09-25",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/stable-channel-update_25.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2898",
+    "issues": [
+      "146760"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "URL bar spoofing with SSL error messages. Credit to Łukasz Pilorz"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome for iOS 21.0.1180.82 - 2012-09-24",
+        "date": "2012-09-24",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/chrome-for-ios-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2899",
+    "issues": [
+      "147625"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "UXSS/SOP bypass with document.write. Credit to Łukasz Pilorz"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome for iOS 21.0.1180.82 - 2012-09-24",
+        "date": "2012-09-24",
+        "advisory": "https://chromereleases.googleblog.com/2012/09/chrome-for-ios-update_24.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2866",
+    "issues": [
+      "134897"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bad cast with run-ins. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.89 - 2012-08-30",
+        "date": "2012-08-30",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2869",
+    "issues": [
+      "137778"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Avoid stale buffer in URL loading. Credit to Fermin Serna of the Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.89 - 2012-08-30",
+        "date": "2012-08-30",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2871",
+    "issues": [
+      "138673"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bad cast in XSL transforms. Credit to Nicolas Gregoire"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.89 - 2012-08-30",
+        "date": "2012-08-30",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2865",
+    "issues": [
+      "121347"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in line breaking. Credit to miaubiz"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.89 - 2012-08-30",
+        "date": "2012-08-30",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2868",
+    "issues": [
+      "136881"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Race condition with workers and XHR. Credit to miaubiz"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.89 - 2012-08-30",
+        "date": "2012-08-30",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2872",
+    "issues": [
+      "142956"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "XSS in SSL interstitial. Credit to Emmanuel Bronshtein"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.89 - 2012-08-30",
+        "date": "2012-08-30",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2867",
+    "issues": [
+      "135485"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Browser crash with SPDY"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.89 - 2012-08-30",
+        "date": "2012-08-30",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2870",
+    "issues": [
+      "138672",
+      "140368"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Lower severity memory management issues in XPath. Credit to Nicolas Gregoire"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.89 - 2012-08-30",
+        "date": "2012-08-30",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2862",
+    "issues": [
+      "136643",
+      "137721",
+      "137957"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in PDF viewer. Credit to Mateusz Jurczyk of Google Security Team, with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.75 - 2012-08-08",
+        "date": "2012-08-08",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2863",
+    "issues": [
+      "136968",
+      "137361"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds writes in PDF viewer. Credit to Mateusz Jurczyk of Google Security Team, with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.75 - 2012-08-08",
+        "date": "2012-08-08",
+        "advisory": "https://chromereleases.googleblog.com/2012/08/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2859",
+    "issues": [
+      "137541"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Crash in tab handling. Credit to Jeff Roberts of Google Security Team"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2851",
+    "issues": [
+      "132585",
+      "132694",
+      "132861"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflows in PDF viewer. Credit to Mateusz Jurczyk of Google Security Team, with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2852",
+    "issues": [
+      "134028"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free with bad object linkage in PDF. Credit to Alexey Samsonov of Google"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2855",
+    "issues": [
+      "134888"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in PDF viewer. Credit to Mateusz Jurczyk of Google Security Team, with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2856",
+    "issues": [
+      "134954",
+      "135264"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds writes in PDF viewer. Credit to Mateusz Jurczyk of Google Security Team, with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2857",
+    "issues": [
+      "136235"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in CSS DOM. Credit to Arthur Gerkis"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2858",
+    "issues": [
+      "136894"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Buffer overflow in WebP decoder. Credit to Jüri Aedla"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2846",
+    "issues": [
+      "125225"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-process interference in renderers. Credit to Google Chrome Security Team (Julien Tinnes)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2848",
+    "issues": [
+      "127525"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Overly broad file access granted after drag+drop. Credit to Matt Austin of Aspect Security"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2850",
+    "issues": [
+      "130251",
+      "130592",
+      "130611",
+      "131068",
+      "131237",
+      "131252",
+      "131621",
+      "131690",
+      "132860"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Various lower severity issues in the PDF viewer. Credit to Mateusz Jurczyk of Google Security Team, with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2853",
+    "issues": [
+      "134101"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "webRequest can interfere with the Chrome Web Store. Credit to Trev of Adblock"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2860",
+    "issues": [
+      "137671"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds access when clicking in date picker. Credit to Chamal de Silva"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2847",
+    "issues": [
+      "127522"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Missing re-prompt to user upon excessive downloads. Credit to Matt Austin of Aspect Security"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2849",
+    "issues": [
+      "128163"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Off-by-one read in GIF decoder. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2854",
+    "issues": [
+      "134519"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Leak of pointer values to WebUI renderers. Credit to Nasko Oskov of the Chromium development community"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 21.0.1180.57 - 2012-07-31",
+        "date": "2012-07-31",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-release.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2842",
+    "issues": [
+      "129898"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in counter handling. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.57 - 2012-07-11",
+        "date": "2012-07-11",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2843",
+    "issues": [
+      "130595"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in layout height tracking. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.57 - 2012-07-11",
+        "date": "2012-07-11",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2844",
+    "issues": [
+      "133450"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Bad object access with JavaScript in PDF. Credit to Alexey Samsonov of Google"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.57 - 2012-07-11",
+        "date": "2012-07-11",
+        "advisory": "https://chromereleases.googleblog.com/2012/07/stable-channel-update.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2807",
+    "issues": [
+      "129930"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflows in libxml. Credit to Jüri Aedla"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2816",
+    "issues": [
+      "119150",
+      "119250"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Prevent sandboxed processes interfering with each other. Credit to Google Chrome Security Team (Justin Schuh)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2817",
+    "issues": [
+      "120222"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in table section handling. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2818",
+    "issues": [
+      "120944"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in counter layout. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2819",
+    "issues": [
+      "120977"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Crash in texture handling. Credit to Ken “gets” Russell of the Chromium development community"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2823",
+    "issues": [
+      "124356"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in SVG resource handling. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2824",
+    "issues": [
+      "125374"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in SVG painting. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2828",
+    "issues": [
+      "129857"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflows in PDF. Credit to Mateusz Jurczyk of Google Security Team with contributions by Gynvael Coldwind of Google Security Team and Google Chrome Security Team (Chris Evans)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2829",
+    "issues": [
+      "129947"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in first-letter handling. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2830",
+    "issues": [
+      "129951"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Wild pointer in array value setting. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2831",
+    "issues": [
+      "130356"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in SVG reference handling. Credit to miaubiz"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2832",
+    "issues": [
+      "131553"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Uninitialized pointer in PDF image codec. Credit to Mateusz Jurczyk of Google Security Team with contributions by Gynvael Coldwind of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2833",
+    "issues": [
+      "132156"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Buffer overflow in PDF JS API. Credit to Mateusz Jurczyk of Google Security Team"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2834",
+    "issues": [
+      "132779"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Integer overflow in Matroska container. Credit to Jüri Aedla"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2820",
+    "issues": [
+      "121926"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in SVG filter handling. Credit to Atte Kettunen of OUSPG"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2821",
+    "issues": [
+      "122925"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Autofill display problem. Credit to “simonbrown60”"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2822",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Misc. lower severity OOB read issues in PDF. Credit to awesome ASAN and various Googlers (Kostya Serebryany, Evgeniy Stepanov, Mateusz Jurczyk, Gynvael Coldwind)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2825",
+    "issues": [
+      "127417"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Wild read in XSL handling. Credit to Nicholas Gregoire"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2826",
+    "issues": [
+      "128688"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Out-of-bounds read in texture conversion. Credit to Google Chrome Security Team (Inferno)"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2764",
+    "issues": [
+      "130276"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Unqualified load of metro DLL. Credit to Moshe Zioni of Comsec Consulting"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2815",
+    "issues": [
+      "118633"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Leak of iframe fragment id. Credit to Elie Bursztein of Google"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-2827",
+    "issues": [
+      "129826"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free in Mac UI. Credit to the Chromium development community (Dharani Govindan)"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 20.0.1132.43 - 2012-06-26",
+        "date": "2012-06-26",
+        "advisory": "https://chromereleases.googleblog.com/2012/06/stable-channel-update_26.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-1521",
+    "issues": [
+      "117110"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use after free in xml parser. Credit to Google Chrome Security Team (SkyLined) and independent later discovery by wushi of team509 reported through iDefense VCP (V-874rcfpq7z)"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 18.0.1025.168 - 2012-04-30",
+        "date": "2012-04-30",
+        "advisory": "https://chromereleases.googleblog.com/2012/04/stable-channel-update_30.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-0724",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Adobe Flash Player before 11.2.202.229"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 18.0.1025.151 - 2012-04-05",
+        "date": "2012-04-05",
+        "advisory": "https://chromereleases.googleblog.com/2012/04/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-0725",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Adobe Flash Player before 11.2.202.229"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome Beta 18.0.1025.151 - 2012-04-05",
+        "date": "2012-04-05",
+        "advisory": "https://chromereleases.googleblog.com/2012/04/stable-and-beta-channel-updates.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2012-1845",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Use-after-free vulnerability in Google Chrome 17.0.963.66 and earlier allows remote attackers to bypass the DEP and ASLR protection mechanisms, and execute arbitrary code, via unspecified vectors, as demonstrated by VUPEN during a Pwn2Own competition at CanSecWest 2012"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-1846",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome 17.0.963.66 and earlier allows remote attackers to bypass the sandbox protection mechanism by leveraging access to a sandboxed process, as demonstrated by VUPEN during a Pwn2Own competition at CanSecWest 2012"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-4907",
+    "issues": [
+      "137532"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 18.0.1025308 on Android does not properly restrict access from JavaScript code to Android APIs, which allows remote attackers to have an unspecified impact via a crafted web page"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-4908",
+    "issues": [
+      "144866"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 18.0.1025308 on Android allows remote attackers to bypass the Same Origin Policy and obtain access to local files via vectors involving a symlink"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-4903",
+    "issues": [
+      "138210"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 18.0.1025308 on Android does not properly restrict access to file: URLs, which allows remote attackers to obtain sensitive information via unspecified vectors, as demonstrated by obtaining credential data, a different vulnerability than CVE-2012-4906"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-4904",
+    "issues": [
+      "138035"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-application scripting vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-4905",
+    "issues": [
+      "144813"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Cross-site scripting (XSS) vulnerability"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-4906",
+    "issues": [
+      "144820"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 18.0.1025308 on Android does not properly restrict access to file: URLs, which allows remote attackers to obtain sensitive information via unspecified vectors, as demonstrated by obtaining credential data, a different vulnerability than CVE-2012-4903"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-4909",
+    "issues": [
+      "141889"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "Google Chrome before 18.0.1025308 on Android allows remote attackers to obtain cookie information via a crafted application"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-5851",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "html/parser/XSSAuditor.cpp in WebCore in WebKit,"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-4929",
+    "issues": [
+      "139744"
+    ],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The TLS protocol 1.2 and earlier, as used in Mozilla Firefox, Google Chrome, Qt, and other products, can encrypt compressed data without properly obfuscating the length of the unencrypted data, which allows man-in-the-middle attackers to obtain plaintext HTTP headers by observing length differences during a series of guesses in which a string in an HTTP request potentially matches an unknown string in an HTTP header, aka a \"CRIME\" attack"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  },
+  {
+    "id": "CVE-2012-4930",
+    "issues": [],
+    "components": [
+      "Chrome"
+    ],
+    "impacts": [
+      "The SPDY protocol 3 and earlier, as used in Mozilla Firefox, Google Chrome, and other products, can perform TLS encryption of compressed data without properly obfuscating the length of the unencrypted data, which allows man-in-the-middle attackers to obtain plaintext HTTP headers by observing length differences during a series of guesses in which a string in an HTTP request potentially matches an unknown string in an HTTP header, aka a \"CRIME\" attack"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": []
+  }
+]
