@@ -70786,7 +70786,9 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://chromium.googlesource.com/external/github.com/google/XNNPACK/+/1154ae8178f0efc634cd1e8a681646dc22973255"
+    ],
     "references": [],
     "releases": [
       {
@@ -70985,7 +70987,10 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://chromium.googlesource.com/external/github.com/google/ruy/+/de9b160a51ab3a06ce8505b96f7548fa09837a10",
+      "https://chromium.googlesource.com/external/github.com/google/ruy/+/c74e83f433f56aa88465486c5be185369142e61e"
+    ],
     "references": [],
     "releases": [
       {
@@ -71909,7 +71914,9 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/3bb27093dc97491901bc61eb3ba289cd4341fdad"
+    ],
     "references": [],
     "releases": [
       {
