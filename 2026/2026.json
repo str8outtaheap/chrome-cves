@@ -1,5 +1,1063 @@
 [
   {
+    "id": "CVE-2026-91726",
+    "issues": [
+      "556870863"
+    ],
+    "components": [
+      "WebGL"
+    ],
+    "impacts": [
+      "Out of bounds read in WebGL"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91721",
+    "issues": [
+      "557320614"
+    ],
+    "components": [
+      "Internals"
+    ],
+    "impacts": [
+      "Use after free in Internals"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91749",
+    "issues": [
+      "558456602"
+    ],
+    "components": [
+      "Workers"
+    ],
+    "impacts": [
+      "Use after free in Workers"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91724",
+    "issues": [
+      "552283275"
+    ],
+    "components": [
+      "Input"
+    ],
+    "impacts": [
+      "Use after free in Input"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91728",
+    "issues": [
+      "556715288"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Integer overflow in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/121701eeb91d19c98cfc70ccd5338e10363f9a10"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/8370082"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91734",
+    "issues": [
+      "516780835"
+    ],
+    "components": [
+      "Core"
+    ],
+    "impacts": [
+      "Incorrect authorization in Core"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91727",
+    "issues": [
+      "516893912"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Incorrect reference resolution in Extensions"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91743",
+    "issues": [
+      "516947138"
+    ],
+    "components": [
+      "Core"
+    ],
+    "impacts": [
+      "Race condition in Core"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91744",
+    "issues": [
+      "520019273"
+    ],
+    "components": [
+      "PlatformIntegration"
+    ],
+    "impacts": [
+      "Race condition in PlatformIntegration"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91712",
+    "issues": [
+      "521486621"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Race condition in Extensions"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91748",
+    "issues": [
+      "521559611"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Race condition in Extensions"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91720",
+    "issues": [
+      "523470135"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Uninitialized resource in ANGLE"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91731",
+    "issues": [
+      "523554372"
+    ],
+    "components": [
+      "Compositing"
+    ],
+    "impacts": [
+      "Type confusion in Compositing"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91747",
+    "issues": [
+      "540016074"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Use after free in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91733",
+    "issues": [
+      "540021213"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Improper state validation in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91741",
+    "issues": [
+      "546413288"
+    ],
+    "components": [
+      "CacheStorage"
+    ],
+    "impacts": [
+      "Type confusion in CacheStorage"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91709",
+    "issues": [
+      "547815507"
+    ],
+    "components": [
+      "ServiceWorker"
+    ],
+    "impacts": [
+      "Type confusion in ServiceWorker"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91717",
+    "issues": [
+      "549225472"
+    ],
+    "components": [
+      "Android"
+    ],
+    "impacts": [
+      "Missing authorization in Android"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91735",
+    "issues": [
+      "552416113"
+    ],
+    "components": [
+      "WebUI"
+    ],
+    "impacts": [
+      "Incorrect authorization in WebUI"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91708",
+    "issues": [
+      "553115724"
+    ],
+    "components": [
+      "Network"
+    ],
+    "impacts": [
+      "Race condition in Network"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91736",
+    "issues": [
+      "553121008"
+    ],
+    "components": [
+      "DOM"
+    ],
+    "impacts": [
+      "Use after free in DOM"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91740",
+    "issues": [
+      "553122373"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Uninitialized resource in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91710",
+    "issues": [
+      "553132148"
+    ],
+    "components": [
+      "WebAppInstalls"
+    ],
+    "impacts": [
+      "Use after free in WebAppInstalls"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91718",
+    "issues": [
+      "553133215"
+    ],
+    "components": [
+      "Core"
+    ],
+    "impacts": [
+      "Use after free in Core"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91716",
+    "issues": [
+      "554558368"
+    ],
+    "components": [
+      "Auth"
+    ],
+    "impacts": [
+      "Use after free in Auth"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91746",
+    "issues": [
+      "556260782"
+    ],
+    "components": [
+      "Compositing"
+    ],
+    "impacts": [
+      "Integer overflow in Compositing"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91729",
+    "issues": [
+      "557206809"
+    ],
+    "components": [
+      "DigitalCredentials"
+    ],
+    "impacts": [
+      "Use after free in DigitalCredentials"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91737",
+    "issues": [
+      "558036280"
+    ],
+    "components": [
+      "PDF"
+    ],
+    "impacts": [
+      "Use after free in PDF"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91711",
+    "issues": [
+      "558342353"
+    ],
+    "components": [
+      "ServiceWorker"
+    ],
+    "impacts": [
+      "Out of bounds write in ServiceWorker"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91715",
+    "issues": [
+      "558367547"
+    ],
+    "components": [
+      "ServiceWorker"
+    ],
+    "impacts": [
+      "Type confusion in ServiceWorker"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91745",
+    "issues": [
+      "558734727"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use after free in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/fa13edc3a676fc496be2c5a619c1772fca818c5b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/8396657"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91723",
+    "issues": [
+      "474131239"
+    ],
+    "components": [
+      "WebAppInstalls"
+    ],
+    "impacts": [
+      "Race condition in WebAppInstalls"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91732",
+    "issues": [
+      "511062248"
+    ],
+    "components": [
+      "AppManifest"
+    ],
+    "impacts": [
+      "Missing authorization in AppManifest"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91742",
+    "issues": [
+      "513858387"
+    ],
+    "components": [
+      "PriceTracking"
+    ],
+    "impacts": [
+      "Confused deputy in PriceTracking"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91714",
+    "issues": [
+      "517710554"
+    ],
+    "components": [
+      "Fonts"
+    ],
+    "impacts": [
+      "Observable discrepancy in Fonts"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91725",
+    "issues": [
+      "518032534"
+    ],
+    "components": [
+      "CSS"
+    ],
+    "impacts": [
+      "Observable discrepancy in CSS"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91739",
+    "issues": [
+      "521951328"
+    ],
+    "components": [
+      "Transactions Platform"
+    ],
+    "impacts": [
+      "Missing authorization in Transactions Platform"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91713",
+    "issues": [
+      "523715133"
+    ],
+    "components": [
+      "Browser"
+    ],
+    "impacts": [
+      "Missing authorization in Browser"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91738",
+    "issues": [
+      "536450979"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Improper input validation in ANGLE"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91730",
+    "issues": [
+      "543640868"
+    ],
+    "components": [
+      "GetUserMedia"
+    ],
+    "impacts": [
+      "Incomplete cleanup in GetUserMedia"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91722",
+    "issues": [
+      "554953456"
+    ],
+    "components": [
+      "Input"
+    ],
+    "impacts": [
+      "Use after free in Input"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-91719",
+    "issues": [
+      "542115030"
+    ],
+    "components": [
+      "XML"
+    ],
+    "impacts": [
+      "Code injection in XML"
+    ],
+    "severities": [
+      "Low"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
+        "date": "2026-09-15",
+        "advisory": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html"
+      }
+    ]
+  },
+  {
     "id": "CVE-2026-87464",
     "issues": [
       "544163112"
