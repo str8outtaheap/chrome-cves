@@ -1,10 +1,26 @@
 # Chrome CVEs 2026
 
-- CVEs: 2784
+- CVEs: 2800
 - [json](2026.json)
 
 | CVE | Issue | Component | Impact | Severity | ITW | Fix | Chrome release |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| CVE-2026-93374 | [500417361](https://issues.chromium.org/issues/500417361) | Dawn | Use after free in Dawn | Critical | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93372 | [548085797](https://issues.chromium.org/issues/548085797) | WebGL | Buffer overflow in WebGL | Critical | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93375 | [550839154](https://issues.chromium.org/issues/550839154) | Tracing | Incorrect reference resolution in Tracing | High | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93382 | [541707261](https://issues.chromium.org/issues/541707261) | PDFium | Use after free in PDFium | High | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93387 | [553130676](https://issues.chromium.org/issues/553130676) | Skia | Improper state validation in Skia | High | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93373 | [553132214](https://issues.chromium.org/issues/553132214) | Extensions | Use after free in Extensions | High | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93381 | [556853443](https://issues.chromium.org/issues/556853443) | PDFium | Buffer overflow in PDFium | High | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93379 | [560039872](https://issues.chromium.org/issues/560039872) | ORB | Incorrect authorization in ORB | High | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93377 | [560121552](https://issues.chromium.org/issues/560121552) | V8 | Type confusion in V8 | High | no | [eeb84632f496](https://chromium.googlesource.com/v8/v8/+/eeb84632f49634571f28ebdf2df85895f6729490) | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93380 | [498411599](https://issues.chromium.org/issues/498411599) | FileSystem | Race condition in FileSystem | Medium | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93384 | [511832293](https://issues.chromium.org/issues/511832293) | Omnibox | Server-side request forgery in Omnibox | Medium | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93383 | [515493668](https://issues.chromium.org/issues/515493668) | Permissions | Information leak in Permissions | Medium | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93376 | [520521197](https://issues.chromium.org/issues/520521197) | DataTransfer | Out of bounds read in DataTransfer | Medium | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93378 | [540051167](https://issues.chromium.org/issues/540051167) | Storage | Missing authorization in Storage | Medium | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93385 | [553136980](https://issues.chromium.org/issues/553136980) | Paint | Information leak in Paint | Medium | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
+| CVE-2026-93386 | [513996595](https://issues.chromium.org/issues/513996595) | WebAppInstalls | UI misrepresentation in WebAppInstalls | Low | no | - | [Chrome 153.0.8010.52/.53](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0194356994.html) |
 | CVE-2026-91726 | [556870863](https://issues.chromium.org/issues/556870863) | WebGL | Out of bounds read in WebGL | Critical | no | - | [Chrome 153.0.8010.47/.48](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html) |
 | CVE-2026-91721 | [557320614](https://issues.chromium.org/issues/557320614) | Internals | Use after free in Internals | Critical | no | - | [Chrome 153.0.8010.47/.48](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html) |
 | CVE-2026-91749 | [558456602](https://issues.chromium.org/issues/558456602) | Workers | Use after free in Workers | Critical | no | - | [Chrome 153.0.8010.47/.48](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html) |
