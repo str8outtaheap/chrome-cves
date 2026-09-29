@@ -14,8 +14,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/2c68772a0eb74c771e2b0b6c490869c0e98fc412"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8283072"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -39,8 +43,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4b7f62da7b542428920cc978520620c49b6be583"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8273535"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -64,8 +72,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c8a130f698277e100dcbb44cc606a616b5c1f4e1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8255600"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -89,8 +101,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/5f345cc26453d84bdda32749db1eea054bc9eea8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8431628"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -114,8 +130,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/553b8e73bfef563085d030ccb82acae0a7372bc9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8370963"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -139,8 +159,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/3a0ed7f623ee3c60aac5d89289d81524f3b57d84"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8347507"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -164,8 +188,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/1ff8799c596d4fc9acea28343610b1f33650a6fa"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8427150"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -189,8 +217,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/db684a2d12d6337340638ebf51708c9333fc8a1b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8426580"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -214,8 +246,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/5382ed032a48ca6fefe8c3bca2c3c7c8edb8b63c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8408594"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -239,8 +275,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d68a4bd8be7ab0adeb3aa6a20ccf1ee2af234f44"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8431189"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -264,8 +304,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d54455bd3766bf17b0207ee261b90d35071d899e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8426139"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -289,8 +333,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b70c13072d35070057ca8731d17e2dbe8ba5211a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8259787"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -314,8 +362,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/038c04e0bd5d5b1db4c1e5e01cfe08396494bc8d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8291494"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -339,8 +391,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/bb617c8b09d43ed4d617d0c2b6769899324c9ee8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/7862880"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -364,8 +420,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e7059223305cf6f2b182a41d763b62290e4dd350"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8294739"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -389,8 +449,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/275ed0c7788f04fe699ba4df3a27e935b5a48a1f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8291770"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -414,8 +478,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/684eee0f52e869dea323d6ce4451ce0c7a8737c8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8434203"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -439,8 +507,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/51929beb352558099525a14f9945ed71d8b4897c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8427948"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -464,8 +536,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/023b7514b6a0025a5218ed283f3c63a4a1ff082d"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/336255"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -489,8 +565,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e1c72d9ae14e9a0dc1124d20fedd16377e052a8d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8354433"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -514,8 +594,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/70eb517b296db9e6a9871fc6c9b71be2c0c97dd8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8430426"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -539,8 +623,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/349cc893f9ec6582f528e79a35ccbce803ffba13"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8299776"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -564,8 +652,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0ac1a9c535c64859d95ee4639ef1727aa2e01027"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8304033"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -589,8 +681,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e0697a7915d9b689ba30ace494c5a563836c803f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8428946"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -614,8 +710,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/82f7ad27b9fe87b06b8ad85d5e5dd6c12fd3e708"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8418538"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -639,8 +739,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/743f26418a267dd97c3c1c71d786038ae68cfc8f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8427640"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -664,8 +768,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/2358b16c1947eff67f0732754af6b3c4e1715ff9"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/157650"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -689,8 +797,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/751955d6a4e627104c26df44ced21f9db3f684a9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8407865"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -714,8 +826,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/62663a4c68ef29cc52b20a45e70c4e9851b81d6e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8421153"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -739,8 +855,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/152ad1cf2dfcefae6114f2e23cd214e57d663859"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8426185"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -764,8 +884,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ef580e2161cec11e89ac22fbf1c30964af8db26d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8424123"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -878,8 +1002,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f3958d766c60b467f4b2dbd2dc415d5c55307aa6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8425419"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -903,8 +1031,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9e47e25654935a74cb3cbe5c7d0a50cd06e8c7b6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8427091"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -928,8 +1060,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8f9573ac59e3298bbeeabbcad8fd30e4997ade22"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8116306"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -953,8 +1089,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/38533ef6d72289716014ca7dd7fc4af5b7c5ec3d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8271838"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -978,8 +1118,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/30d40b75b0d01e67c73556ce64624ff9c11ab520"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8226484"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1003,8 +1147,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e13ea4a61fc08aac828ac79804750e9af536f1db"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8126755"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1028,8 +1176,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/35c006a36fe974c31816f3f6102e4e5df0da9ed9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8250860"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1053,8 +1205,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/dc36d1d0586c70e06d8d8fd6df03c248f1df0a4b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8364035"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1078,8 +1234,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8d17e06dbdfe0a7c0e8042a78ee0328c1f55cc46"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8431428"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1103,8 +1263,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9f55f22780c010abc558718a6528957ad907c034"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8269601"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1128,8 +1292,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6eb54c22b20c417dee1409564e8f2d635ff131a9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8310909"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1153,8 +1321,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7d8b7fc6c403d128ae37b5ed0d25fd3c95ff4e33"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8034081"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1178,8 +1350,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f2ff15f45cb5494168aeea5a73a084979fe46d31"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8276082"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1203,8 +1379,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5dbcb6227c9d4f978c64d8d91d45ae10f62af275"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8240171"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1228,8 +1408,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ab1bf87fa194826dc8a88d756d01ce184b896754"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8277932"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1253,8 +1437,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/c895485c725700bad5959ce6076471e0b80cae63"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8301994"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1278,8 +1466,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6d0db65d5719eaaa335e6a9bce2db7d84d0cfb34"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8302492"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1303,8 +1495,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/aa536593b9a6db357c47a9588c150b71137ebe87"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8295459"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1328,8 +1524,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/0c9c804164cb32144c334bd2086fdabb9fe4596f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8266204"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1353,8 +1553,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/995c9093715d5526e1c1567604be0d449242ac14"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8291278"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1378,8 +1582,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ab61c80673002509f9186dadb4b692cdb7aeb8cd"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8290374"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1403,8 +1611,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b9235023ae196f4a49570390b7cba0ede6438219"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8274769"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1428,8 +1640,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5813d728ad7e489f8ffe82d034a2ff81367d12ee"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8296440"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1453,8 +1669,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4f9d868279b8169a4e1f6617629bb093c04abef4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8217390"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1478,8 +1698,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6c4b5a5f6d6c3a1a4a850832f80e8272647bc3d3"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/7889940"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1503,8 +1727,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e4e2d27bf745949b28ab4fb7964ae855c263db85"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8295680"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1528,8 +1756,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/397b9463bd35f9a854d917daf48b048cf69678a5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8269296"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1553,8 +1785,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4162d19bbe0ccd1f3211e1b4077868b25efae210"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8293981"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1578,8 +1814,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/3186b30e34b4ecca7f99a5e0dc4f2f031442483a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/8269609"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1603,8 +1843,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6763160b88f9d613a1e669f190bf192bebb657e4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8327107"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1628,8 +1872,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/dd7083a019ca5d30c671bdeacac0834276d6236c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8290051"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1653,8 +1901,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f27de9c360a07d62328c0444a4c337ca0d4d331c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8285963"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1678,8 +1930,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1d6c6b5c9f9bd7887816816f0b95361205f6f7b5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/7967609"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1703,8 +1959,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2b02287549c6fe7ec4e00ba1f4fa31487017c98c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8239572"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1728,8 +1988,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/82f80e8efedae0de9ee85baf2f4d73e760a699bd"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8213142"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1753,8 +2017,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/9e9bff3b169c02f7b28faa6f5b857434e4ec26ae"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8239473"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1778,8 +2046,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3297fecca21b31f7a288d3061784d324aa22d059"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8263669"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1803,8 +2075,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/00eafffe8ab98da76dce72a48466990eaf1c6971"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8260150"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1828,8 +2104,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a39fcdb1b98f19c76e0f0eff9d74f8d631816813"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8285238"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1853,8 +2133,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/56388ada0d24833af302df56c319db7b6f6f5a6d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8272448"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1878,8 +2162,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/25718a2bb2bcdfeabb72c167efd2fcb133a12173"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8281650"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1903,8 +2191,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/91d2ee608d3186b4d0003a8c5eaf9a4debb1a26b"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/333795"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1928,8 +2220,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/18195740b3c50c999f042117abf570b8bf4c68c2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8255316"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1953,8 +2249,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/devtools/devtools-frontend/+/3526f7a5b6aa4c16cb67fea51f28bbf7fabaf915"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/8257935"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -1978,8 +2278,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4e7387c0225a714c92d95301f4983d1c7c0d9abb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8286565"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2003,8 +2307,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/83b0a752f1e716896861d24dc0c9e76e8e1da2fb"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8276952"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2028,8 +2336,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/external/fontconfig.git/+/4ba7952e0aa0d3fe9b340bb0aeaea86b7b7584a7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8352703"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2053,8 +2365,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/eb82685080622cf8f9cca0197f30e6606b921185"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8311085"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2078,8 +2394,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/884618a9d40d7fefde6f2784d3997d8649962901"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8420684"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2103,8 +2423,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/796218b6b2984139be54d88992f8f40baedcfd54"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/7707159"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2128,8 +2452,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/05d64dba60f23209116c5355a1ee2f45abd1b790"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8279597"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2153,8 +2481,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e65d6a695c3ea789781529252cfc6266d1cf87bf"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8289909"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2178,8 +2510,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/724dcd975fc3b693ace5a67fe134c21d2e405923"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8263292"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2203,8 +2539,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4dfeb8af5a6b2302a63d401e2df2cf5dc0ac4ef7"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8268850"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2228,8 +2568,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7ad22ffdfb5ed234ae2c5433e4e77c61b08236d9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8297538"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2253,8 +2597,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3611fb3173dc8ee282575797b8f0269b5a442e7b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8263180"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2278,8 +2626,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/63514758b188258126adc42aad239c47f895c2df"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8266043"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2303,8 +2655,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9c6700ed12a5ce0e3c43536be563403702493838"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8286325"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2328,8 +2684,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7c92200b7e5c8d2b233a9be68ebd7b54f41c5a4c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8257413"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2353,8 +2713,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/98b32df60a138c6d34721a9d605f3c76c440fe9a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/7928786"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2378,8 +2742,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/devtools/devtools-frontend/+/3ea1fb7a2c9ade005e5910336b1d827e53e6e970"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/8297178"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2403,8 +2771,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/16142cbd5000e21d08d6140f0c19d38c03231a7b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8301136"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2428,8 +2800,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7bb4a9d06e08ea1a1c2648112229d7a0322be912"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8183886"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2453,8 +2829,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ac619336ac2ba8c3d85c6a3d1862790a77d81882"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8311572"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2478,8 +2858,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/b40ca4aa9abe852c75ebf0afaa348459b4161dd9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/8312289"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2503,8 +2887,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ac619336ac2ba8c3d85c6a3d1862790a77d81882"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8311572"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2588,8 +2976,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f339249dd4910c22f6e71aeb15826c510bc40914"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8299555"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2613,8 +3005,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/f6bc03dde92d94b4354241176fa8412aa14201a8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/8285581"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2638,8 +3034,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/180b36d71ad9533a4bddac90ac3ef1fadc0d9b40"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8324467"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2663,8 +3063,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7e945a3a36ac49e03b1da1764ec4721a7136f9a5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8311508"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2688,8 +3092,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9ef7ab580cf24523c4995b2c1a66d1fa58811e2a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8306073"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2713,8 +3121,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/368bc15964d9580eb6f6a875c25280d8a6f4c504"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8315589"
+    ],
     "releases": [
       {
         "name": "Chrome 154.0.8037.57/.58 - 2026-09-22",
@@ -2738,8 +3150,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/292e993b4a84d9a4affba538643ad376a8f36064"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/314796"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -2763,8 +3179,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e4b5328067a581dd0ee49ff31858b107aa8683e9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8372204"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -2788,8 +3208,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/711eddca006f7a9b487b16cf29ca6b68c2c297bd"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8410585"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -2813,8 +3237,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/28921a7dbb2e6aa994b2ed6d099acab3857ef310"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/157690"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -2838,8 +3266,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://skia.googlesource.com/skia/+/f8b66b7597c4cc859d3ed190e9c6872241e6721c"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/1363217"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -2863,8 +3295,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/40f4f553682c579d7a3b386eb3760cf832cf1c3f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8417808"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -2888,8 +3324,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/98db81c619c859a496d29ac8515b66d6090bd145"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/157671"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -2913,8 +3353,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/35c3cee65ca6200b9e7b9d8bc3e6deb1147fd9a0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8398448"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -2967,8 +3411,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d199c6a071dbabc1f6ffaff3df868cfc5f205419"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8200284"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -2992,8 +3440,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8d61b9c6aa3f45b1ce0840d757ffd6cd10f9df51"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8262150"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -3017,8 +3469,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9d3c869d2a900b77798f666b557af9c70247ebb4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8424632"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -3042,8 +3498,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/847020c23229e1e26859ad337e146fea868d9c45"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8016986"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -3067,8 +3527,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e062572426088d8c09a3e07cbb5d27f8cfd68508"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8396769"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -3092,8 +3556,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a2b91af86386551b1be919d0d70f490e1bdad588"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8416469"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -3117,8 +3585,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/f89efb408bbd1329e7f06bbac2e78293896b4604"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8012267"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.52/.53 - 2026-09-17",
@@ -3142,8 +3614,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/bbc96849c96b02792c1c0033c2cdc7955f917f48"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8397209"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3167,8 +3643,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/46040841053e34876cacceef5b053c94a2248b51"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8395104"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3192,8 +3672,12 @@
       "Critical"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/98e3a15c06760ec363c5e25620b9469a5572f84f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8378828"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3217,8 +3701,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/72c7f7b27aa3e1efca0b5155e4ba25e9fad233f1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8398906"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3271,8 +3759,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2ddbf7a9f3333b751d34ae71976630533025eeac"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8373002"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3296,8 +3788,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ee781affc03766363d35a6bdb65a1db359ee1a7d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8279765"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3321,8 +3817,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ee781affc03766363d35a6bdb65a1db359ee1a7d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8279765"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3346,8 +3846,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ee781affc03766363d35a6bdb65a1db359ee1a7d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8279765"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3371,8 +3875,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ee781affc03766363d35a6bdb65a1db359ee1a7d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8279765"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3396,8 +3904,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ee781affc03766363d35a6bdb65a1db359ee1a7d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8279765"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3421,8 +3933,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/03e15b84a68303b74ec5f1549d04777be296e98b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8394849"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3446,8 +3962,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2153c24d537ef08280fa6dfa67980edb9add353a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8399328"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3471,8 +3991,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://skia.googlesource.com/skia/+/34240ee9d1e68dd1a1ff4c6cdce54176cb46c889"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/1353837"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3496,8 +4020,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://skia.googlesource.com/skia/+/fca11a08da7c1ed3777b40b31611961c85c63c43"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/1356836"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3521,8 +4049,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3dc532fd8f04694768199fad48802385883b3b6d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8403706"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3546,8 +4078,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3dc532fd8f04694768199fad48802385883b3b6d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8403706"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3571,8 +4107,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b88d5ad7c56f4c7dd25e2eeb1edfa4f7108beb47"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8396361"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3596,8 +4136,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9fbdcc7e3456603ba8dcc6b328da0e9f4324fab9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8354610"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3621,8 +4165,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/115fb179ad796dc64fed3ade51a92b8e3cae419f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8381705"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3646,8 +4194,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/b374b0cf7bdfc43b53032006f49af793f41477a6"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8371204"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3671,8 +4223,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://skia.googlesource.com/skia/+/fca11a08da7c1ed3777b40b31611961c85c63c43"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/1356836"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3696,8 +4252,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/deecf95b0c0a2448136253298149fbc74d88e732"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8406685"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3721,8 +4281,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/de038714ca5e1f92b4746cf2458285718f829c44"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8379786"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3746,8 +4310,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/375d96472b6908e08accf26f5e7abdf2c3adc78f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8379683"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3771,8 +4339,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e60f90f12742468b797702b5d017f130b30d2df9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8399846"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3796,8 +4368,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/540824d3c7c0be3a733fe5fc57a75698693816d5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8382298"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3821,8 +4397,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/dfab95305da80c5d1b12c58ff05a8686b9e36bed"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8392948"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3846,8 +4426,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3dc532fd8f04694768199fad48802385883b3b6d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8403706"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3871,8 +4455,12 @@
       "High"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3dc532fd8f04694768199fad48802385883b3b6d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8403706"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3925,8 +4513,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/26d666df176d96a633e8aef465bca0b3f6a3c523"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/7858551"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3950,8 +4542,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9e594d53dececc1605a9f9778ea2152b5e163894"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/7897641"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -3975,8 +4571,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d1c54bd927b3bfe174efd5327fd75618f57e7113"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8175357"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -4000,8 +4600,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6d75158e8ce3027e3557ec04808067a0ad39b30d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/7930489"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -4025,8 +4629,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3db145481a6cd15699e4b8032455d1b8c1c4d34f"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8175875"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -4050,8 +4658,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/343058f4edcefa3434a16466ce8eb1e1664bbb42"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8367287"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -4075,8 +4687,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/a4a13bba63c4d66f7eb7b13439983b5214f89021"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/7978778"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -4100,8 +4716,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/2c5c60cd270d1596fa8abe06bd277983852f4b2b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8134016"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -4125,8 +4745,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/3040d0b90c7cdd649ea332cedb27d46dd25b8cdf"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8317188"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -4150,8 +4774,12 @@
       "Medium"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/72c7f7b27aa3e1efca0b5155e4ba25e9fad233f1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8398906"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
@@ -4175,8 +4803,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ebdec03b7a797d868286687c723de0741abadcea"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8356066"
+    ],
     "releases": [
       {
         "name": "Chrome 153.0.8010.47/.48 - 2026-09-15",
