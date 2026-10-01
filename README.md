@@ -2,12 +2,12 @@
 
 A list of Chrome CVEs from Chrome security releases.
 
-- Unique CVEs: 6,709
+- Unique CVEs: 6,741
 - Data sources: [Chrome Releases](https://chromereleases.googleblog.com/) and [NVD](https://nvd.nist.gov/)
 
 | Year | CVEs | ITW |
 | --- | ---: | ---: |
-| [2026](2026/) | 2908 | 7 |
+| [2026](2026/) | 2940 | 7 |
 | [2025](2025/) | 190 | 8 |
 | [2024](2024/) | 256 | 7 |
 | [2023](2023/) | 256 | 8 |
