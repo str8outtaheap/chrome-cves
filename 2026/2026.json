@@ -1,5 +1,330 @@
 [
   {
+    "id": "CVE-2026-103628",
+    "issues": [
+      "549995090"
+    ],
+    "components": [
+      "WebGL"
+    ],
+    "impacts": [
+      "Out of bounds write in WebGL"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/cdea97f48c9fcdad495c4c9a3fff95afbc3f29c9"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8414369"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103626",
+    "issues": [
+      "553114097"
+    ],
+    "components": [
+      "FileSystem"
+    ],
+    "impacts": [
+      "Incorrect authorization in FileSystem"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/bc5a321c6196db0a2de36f1fe3e4fab977b10007"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8341352"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103621",
+    "issues": [
+      "556268833"
+    ],
+    "components": [
+      "Compositing"
+    ],
+    "impacts": [
+      "Integer overflow in Compositing"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7ff661871690f30cb1912652aaaab2eadc23903f",
+      "https://skia.googlesource.com/skia/+/76f502419c33e910b98248e749ed55185ab81a99"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8429709",
+      "https://skia-review.googlesource.com/c/skia/+/1366216"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103630",
+    "issues": [
+      "557323166"
+    ],
+    "components": [
+      "FedCM"
+    ],
+    "impacts": [
+      "Use after free in FedCM"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/830aeea0f06cb49499c00c0d27e74d17817d0264"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8373422"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103625",
+    "issues": [
+      "559893859"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/d87667efceca59930360c752dae519c96463eba4"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/8450453"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103624",
+    "issues": [
+      "561660166"
+    ],
+    "components": [
+      "Contextual Tasks"
+    ],
+    "impacts": [
+      "Use after free in Contextual Tasks"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e6f08253f947029305f150301d2c7d9bd8b18f07"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8435210"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103629",
+    "issues": [
+      "562038679"
+    ],
+    "components": [
+      "Skia"
+    ],
+    "impacts": [
+      "Integer overflow in Skia"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://skia.googlesource.com/skia/+/76f502419c33e910b98248e749ed55185ab81a99",
+      "https://chromium.googlesource.com/chromium/src/+/7ff661871690f30cb1912652aaaab2eadc23903f"
+    ],
+    "references": [
+      "https://skia-review.googlesource.com/c/skia/+/1366216",
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8429709"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103622",
+    "issues": [
+      "565742179"
+    ],
+    "components": [
+      "SVG"
+    ],
+    "impacts": [
+      "Use after free in SVG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/dedbd3f9dee8a579418b56c9a37c643873aafe1c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8464440"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103623",
+    "issues": [
+      "565742180"
+    ],
+    "components": [
+      "MediaStream"
+    ],
+    "impacts": [
+      "Use after free in MediaStream"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8e3884cd029d8f453af29aeef5d92026b29989a8"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8463165"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103631",
+    "issues": [
+      "567088927"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Buffer overflow in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://webrtc.googlesource.com/src/+/fc6666263eafa63878d02102189e3dabe9c90455",
+      "https://chromium.googlesource.com/chromium/src/+/0ef8f781e6b25f8ba8ab1a75d92979c7e98b0d18"
+    ],
+    "references": [
+      "https://webrtc-review.googlesource.com/c/src/+/506260",
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8487469"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-103627",
+    "issues": [
+      "553147154"
+    ],
+    "components": [
+      "SVG"
+    ],
+    "impacts": [
+      "Information leak in SVG"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/eb2cbc0600c148e761f9dbd9ff191cf20576d6ff"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8455562"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 154.0.8037.97/.98 - 2026-10-01",
+        "date": "2026-10-01",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
+      }
+    ]
+  },
+  {
     "id": "CVE-2026-102331",
     "issues": [
       "551673541"
