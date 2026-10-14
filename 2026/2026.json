@@ -1,5 +1,1084 @@
 [
   {
+    "id": "CVE-2026-110152",
+    "issues": [
+      "567736859"
+    ],
+    "components": [
+      "ANGLE"
+    ],
+    "impacts": [
+      "Buffer overflow in ANGLE"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/angle/angle/+/e0e5a9bc99a7027268515fd6463768d7c6236293"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/angle/angle/+/8503841"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110149",
+    "issues": [
+      "568437149"
+    ],
+    "components": [
+      "Browser"
+    ],
+    "impacts": [
+      "Use after free in Browser"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/657d71230c27d629349f6219e72da4f176f900a0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8499464"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110136",
+    "issues": [
+      "568719364"
+    ],
+    "components": [
+      "PDF"
+    ],
+    "impacts": [
+      "Use after free in PDF"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/cb21df9dd4c5b550d530cd1f461731f0d1d25ad0"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8511404"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110161",
+    "issues": [
+      "568826881"
+    ],
+    "components": [
+      "Network"
+    ],
+    "impacts": [
+      "Use after free in Network"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/7dddd41a3f94cdd49beb6c8a53977d04c91368d2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8507984"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110165",
+    "issues": [
+      "568827293"
+    ],
+    "components": [
+      "Core"
+    ],
+    "impacts": [
+      "Use after free in Core"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/458152b40c693beeea7441a0a10d2035ac590240"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8518437"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110148",
+    "issues": [
+      "570050934"
+    ],
+    "components": [
+      "SVG"
+    ],
+    "impacts": [
+      "Use after free in SVG"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/1a21dce7357cb20f5b79779f6fd3b3e1c6ec234a"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8525706"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110151",
+    "issues": [
+      "570638834"
+    ],
+    "components": [
+      "Media"
+    ],
+    "impacts": [
+      "Use after free in Media"
+    ],
+    "severities": [
+      "Critical"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/4399ef090615497888215ca0a04a9b03d4c2afae"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8524036"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110162",
+    "issues": [
+      "540499008"
+    ],
+    "components": [
+      "Desktop"
+    ],
+    "impacts": [
+      "Use after free in Desktop"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/9f614e12873bc42267289c5aa56ea6e4eea32e19"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8407751"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110170",
+    "issues": [
+      "496308073"
+    ],
+    "components": [
+      "Bindings"
+    ],
+    "impacts": [
+      "Use after free in Bindings"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e09fb9f12fa95df820995e00a29b517582f7598b",
+      "https://chromium.googlesource.com/chromium/src/+/711ebfd2fd5240901f96ffcb3e03581dd0746d1e"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8393538",
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8392220"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110160",
+    "issues": [
+      "552510359"
+    ],
+    "components": [
+      "ReadingMode"
+    ],
+    "impacts": [
+      "Missing authorization in ReadingMode"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/33f0297a8eb5d78724669b1b352f2dea08152a3b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8468711"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110143",
+    "issues": [
+      "554531101"
+    ],
+    "components": [
+      "ThirdParty lmza_sdk"
+    ],
+    "impacts": [
+      "Use of uninitialized variable in ThirdParty lmza_sdk"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/5096bec09d8c907fbbdd871d83fcf299bcc56393"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8430439"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110146",
+    "issues": [
+      "561039723"
+    ],
+    "components": [
+      "Passwords"
+    ],
+    "impacts": [
+      "Information leak in Passwords"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/73e5c8fd1e88131b57950712c050831e7720a4db",
+      "https://chromium.googlesource.com/chromium/src/+/ac070a91ad4219c847fd0779e4bade06a64c13ed",
+      "https://chromium.googlesource.com/chromium/src/+/b394fae3d6b0d4bff19d7ba82fa457c932626810"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8479979",
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8529711",
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8529517"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110150",
+    "issues": [
+      "561334760"
+    ],
+    "components": [
+      "Installer"
+    ],
+    "impacts": [
+      "Privilege elevation in Installer"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/933b8e77ec40258df410a4495d0c574833331aa1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8407915"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110156",
+    "issues": [
+      "561892119"
+    ],
+    "components": [
+      "Extensions"
+    ],
+    "impacts": [
+      "Incorrect reference resolution in Extensions"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/2889bd9685a228611ae6f466cff63aaa8805eff5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8469727"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110137",
+    "issues": [
+      "561997899"
+    ],
+    "components": [
+      "WebRTC"
+    ],
+    "impacts": [
+      "Use after free in WebRTC"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/def00f1d39bb8692e64c167d2b8901e00648b6f2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8458644"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110140",
+    "issues": [
+      "562038980"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Type confusion in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/3d445698dfc94acd9027f59060404780554601b1"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/8502261"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110158",
+    "issues": [
+      "562242421"
+    ],
+    "components": [
+      "Passwords"
+    ],
+    "impacts": [
+      "Use after free in Passwords"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e4afb48bc920df1b3291804ba90fcd2e29532688"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8424659"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110145",
+    "issues": [
+      "562243925"
+    ],
+    "components": [
+      "Passwords"
+    ],
+    "impacts": [
+      "Use after free in Passwords"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/692ebf6c7f7e823892ded7e0e597ef5951dcf1c5"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8419710"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110159",
+    "issues": [
+      "564573066"
+    ],
+    "components": [
+      "Updater"
+    ],
+    "impacts": [
+      "Incorrect authorization in Updater"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d003e09e940872de8f3e564be750ea58e4e60987"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8417663"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110144",
+    "issues": [
+      "565252396"
+    ],
+    "components": [
+      "Mojo"
+    ],
+    "impacts": [
+      "Incorrect authorization in Mojo"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/d003e09e940872de8f3e564be750ea58e4e60987"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8417663"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110153",
+    "issues": [
+      "565742182"
+    ],
+    "components": [
+      "Media"
+    ],
+    "impacts": [
+      "Use after free in Media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8f54d92feff3932ab984565b6e71a356d0590797"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8465025"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110166",
+    "issues": [
+      "566496747"
+    ],
+    "components": [
+      "Animation"
+    ],
+    "impacts": [
+      "Buffer overflow in Animation"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/544a340956293550ca5eeb89d7a046879527df18"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8521821"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110169",
+    "issues": [
+      "567088929"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use after free in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/6937df3c3da7b499d60d51f349c2e330b7f8ee15"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/8501161"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110168",
+    "issues": [
+      "568010382"
+    ],
+    "components": [
+      "V8"
+    ],
+    "impacts": [
+      "Use after free in V8"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/v8/v8/+/e321b042d4115179bb01270df2e75fc35ed65548"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/v8/v8/+/8494795"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110139",
+    "issues": [
+      "568037533"
+    ],
+    "components": [
+      "Media"
+    ],
+    "impacts": [
+      "Use after free in Media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/ccb98073b6207c8c4c5e685ee7a7ca95f8e55595"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8497446"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110172",
+    "issues": [
+      "568719352"
+    ],
+    "components": [
+      "Media"
+    ],
+    "impacts": [
+      "Use after free in Media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/839f33256e792606993c2fae501babe68cd31921"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8542870"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110164",
+    "issues": [
+      "568730794"
+    ],
+    "components": [
+      "DOM"
+    ],
+    "impacts": [
+      "Use after free in DOM"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/bdc63e2cce0b3abc7dc984eb7f4e5168990554b2"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8508875"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110163",
+    "issues": [
+      "568831102"
+    ],
+    "components": [
+      "DOM"
+    ],
+    "impacts": [
+      "Use after free in DOM"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/00cf912ed1731b49867d5af45de57f79b89d6e9d"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8523486"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110141",
+    "issues": [
+      "568895734"
+    ],
+    "components": [
+      "Media"
+    ],
+    "impacts": [
+      "Observable discrepancy in Media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/718a8fc1586aeb3d9554ad5e40617da50ec1bc5b"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8540648"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110138",
+    "issues": [
+      "568899705"
+    ],
+    "components": [
+      "ShapeDetection"
+    ],
+    "impacts": [
+      "Use after free in ShapeDetection"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e13bcb45a9f6fac5c92025da0c5f2a5382fd129c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8504201"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110157",
+    "issues": [
+      "570047270"
+    ],
+    "components": [
+      "SVG"
+    ],
+    "impacts": [
+      "Use after free in SVG"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/035234e0b8a26edd30bcc93f81efd642d099f720"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8519167"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110147",
+    "issues": [
+      "570050928"
+    ],
+    "components": [
+      "PDF"
+    ],
+    "impacts": [
+      "Use after free in PDF"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/e0c230bb186080c81c9e6b36a08deea184d15c59"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8524410"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110154",
+    "issues": [
+      "570167920"
+    ],
+    "components": [
+      "Canvas"
+    ],
+    "impacts": [
+      "Use after free in Canvas"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/6aed6936e3fbd9f24f816ba18aed9936c6aad219"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8527128"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110155",
+    "issues": [
+      "570167922"
+    ],
+    "components": [
+      "PDFium"
+    ],
+    "impacts": [
+      "Buffer overflow in PDFium"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://pdfium.googlesource.com/pdfium/+/58e11305710a506ce3369581662eeb14440639cf"
+    ],
+    "references": [
+      "https://pdfium-review.googlesource.com/c/pdfium/+/160091"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110167",
+    "issues": [
+      "570461696"
+    ],
+    "components": [
+      "Media"
+    ],
+    "impacts": [
+      "Use after free in Media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/226a56e63791ea7dccad7c30bbb689b817e33964"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8528426"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110171",
+    "issues": [
+      "570675082"
+    ],
+    "components": [
+      "Media"
+    ],
+    "impacts": [
+      "Use after free in Media"
+    ],
+    "severities": [
+      "High"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/8b59df19e200d81d59d6f75985fe0f9a00b744ff"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8526472"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-110142",
+    "issues": [
+      "553525515"
+    ],
+    "components": [
+      "FileSystem"
+    ],
+    "impacts": [
+      "Use after free in FileSystem"
+    ],
+    "severities": [
+      "Medium"
+    ],
+    "itw": false,
+    "commits": [
+      "https://chromium.googlesource.com/chromium/src/+/aa6c477ded0f2d8ad56bdabce2820462f9a9f30c"
+    ],
+    "references": [
+      "https://chromium-review.googlesource.com/c/chromium/src/+/8389638"
+    ],
+    "releases": [
+      {
+        "name": "Chrome 155.0.8059.79/.80 - 2026-10-13",
+        "date": "2026-10-13",
+        "advisory": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_01668083673.html"
+      }
+    ]
+  },
+  {
     "id": "CVE-2026-106382",
     "issues": [
       "534994449"
