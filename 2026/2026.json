@@ -54705,10 +54705,12 @@
     ],
     "itw": false,
     "commits": [
-      "https://chromium.googlesource.com/devtools/devtools-frontend/+/dc81015ad760619220956de324567c133e418742"
+      "https://chromium.googlesource.com/devtools/devtools-frontend/+/23882774076cba004403101233c1a06a25595b49",
+      "https://chromium.googlesource.com/devtools/devtools-frontend/+/dfe270c1569920ac52bb33deff0c7d6db8891943"
     ],
     "references": [
-      "https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/7942569"
+      "https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/7942589",
+      "https://chromium-review.googlesource.com/c/devtools/devtools-frontend/+/7942609"
     ],
     "releases": [
       {
