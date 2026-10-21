@@ -54733,8 +54733,12 @@
       "Low"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://dawn.googlesource.com/dawn/+/ed24c432dcb80344927e36905a860285195d3e45"
+    ],
+    "references": [
+      "https://dawn-review.googlesource.com/c/dawn/+/316895"
+    ],
     "releases": [
       {
         "name": "Chrome 151.0.7922.71-72 - 2026-07-29",
